@@ -1,0 +1,495 @@
+{
+  "bio": {
+    "player_id": 795,
+    "full_name": "Monu",
+    "player_short_name": "Monu",
+    "position_id": 8,
+    "position_name": "Raider",
+    "height": "",
+    "weight": "",
+    "date_of_birth": "Jan  1 1999",
+    "jersey_no": 55,
+    "nationality": "India",
+    "writeup": "",
+    "team_id": 6,
+    "team_name": "Patna Pirates",
+    "short_name": "Patna",
+    "has_additional_details": false,
+    "is_captain": 0
+  },
+  "over_all_stats": [
+    {
+      "series_id": 8,
+      "series_name": "Pro Kabaddi League Season 5, 2017",
+      "player_id": 795,
+      "name": "Monu",
+      "match_played": 19,
+      "raid_points_per_match": 1.0,
+      "not_out_percentage": 79.22,
+      "success_tackles_per_match": 1.52,
+      "tackles": 54,
+      "points_per_match_raid_tackle": 2.57,
+      "points_defence_offence": 49,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 49,
+      "career_best_points": 6,
+      "total_tackle_points": 30,
+      "tackle_success_rate": 55.55,
+      "raids": 77,
+      "success_raids": 15,
+      "unsuccess_raids": 16,
+      "empty_raid": 46,
+      "success_raid_percent": 24.67,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 2,
+      "success_tackles": 29,
+      "defence_touch_points": 30,
+      "defending_bonus_points": 1,
+      "raid_touch_points": 17,
+      "unsuccesful_tackles": 25,
+      "total_raid_points": 19,
+      "total_defending_points": 30,
+      "super_tackles": 1,
+      "super_raids": 1,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "1",
+      "player_team_arr": [
+        {
+          "team_id": 7,
+          "team_name": "Puneri Paltan",
+          "team_short_name": "Pune",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 26,
+      "series_name": "Pro Kabaddi League Season 6, 2018",
+      "player_id": 795,
+      "name": "Monu",
+      "match_played": 14,
+      "raid_points_per_match": 3.21,
+      "not_out_percentage": 70.16,
+      "success_tackles_per_match": 0.71,
+      "tackles": 23,
+      "points_per_match_raid_tackle": 4.07,
+      "points_defence_offence": 57,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 57,
+      "career_best_points": 7,
+      "total_tackle_points": 12,
+      "tackle_success_rate": 52.17,
+      "raids": 124,
+      "success_raids": 38,
+      "unsuccess_raids": 37,
+      "empty_raid": 49,
+      "success_raid_percent": 36.29,
+      "green_cards": 1,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 8,
+      "success_tackles": 10,
+      "defence_touch_points": 12,
+      "defending_bonus_points": 2,
+      "raid_touch_points": 37,
+      "unsuccesful_tackles": 13,
+      "total_raid_points": 45,
+      "total_defending_points": 12,
+      "super_tackles": 2,
+      "super_raids": 1,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 7,
+          "team_name": "Puneri Paltan",
+          "team_short_name": "Pune",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 49,
+      "series_name": "Pro Kabaddi League Season 7, 2019",
+      "player_id": 795,
+      "name": "Monu",
+      "match_played": 18,
+      "raid_points_per_match": 0.61,
+      "not_out_percentage": 79.36,
+      "success_tackles_per_match": 1,
+      "tackles": 40,
+      "points_per_match_raid_tackle": 2,
+      "points_defence_offence": 36,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 36,
+      "career_best_points": 5,
+      "total_tackle_points": 25,
+      "tackle_success_rate": 62.5,
+      "raids": 63,
+      "success_raids": 9,
+      "unsuccess_raids": 13,
+      "empty_raid": 41,
+      "success_raid_percent": 17.46,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 2,
+      "success_tackles": 18,
+      "defence_touch_points": 25,
+      "defending_bonus_points": 7,
+      "raid_touch_points": 9,
+      "unsuccesful_tackles": 22,
+      "total_raid_points": 11,
+      "total_defending_points": 25,
+      "super_tackles": 7,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 6,
+          "team_name": "Patna Pirates",
+          "team_short_name": "Patna",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 0,
+      "series_name": "",
+      "player_id": 795,
+      "name": "Monu",
+      "match_played": 51,
+      "raid_points_per_match": 1.47,
+      "not_out_percentage": 75.0,
+      "success_tackles_per_match": 1.11,
+      "tackles": 117,
+      "points_per_match_raid_tackle": 2.78,
+      "points_defence_offence": 142,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 142,
+      "career_best_points": 7,
+      "total_tackle_points": 67,
+      "tackle_success_rate": 57.26,
+      "raids": 264,
+      "success_raids": 62,
+      "unsuccess_raids": 66,
+      "empty_raid": 136,
+      "success_raid_percent": 28.4,
+      "green_cards": 1,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 12,
+      "success_tackles": 57,
+      "defence_touch_points": 67,
+      "defending_bonus_points": 10,
+      "raid_touch_points": 63,
+      "unsuccesful_tackles": 60,
+      "total_raid_points": 75,
+      "total_defending_points": 67,
+      "super_tackles": 10,
+      "super_raids": 2,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "1",
+      "player_team_arr": [
+        {
+          "team_id": 7,
+          "team_name": "Puneri Paltan",
+          "team_short_name": "Pune",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        },
+        {
+          "team_id": 7,
+          "team_name": "Puneri Paltan",
+          "team_short_name": "Pune",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        },
+        {
+          "team_id": 6,
+          "team_name": "Patna Pirates",
+          "team_short_name": "Patna",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "bio_keys_translation": {
+      "player_id": "Player Id",
+      "full_name": "Full Name",
+      "player_short_name": "Player Short Name",
+      "position_id": "Position Id",
+      "position_name": "Position Name",
+      "height": "Height",
+      "weight": "Weight",
+      "date_of_birth": "Date Of Birth",
+      "jersey_no": "Jersey No",
+      "nationality": "Nationality",
+      "writeup": "Writeup",
+      "team_id": "Team Id",
+      "team_name": "Team Name",
+      "short_name": "Short Name",
+      "has_additional_details": "Has Additional Details",
+      "is_captain": "Is Captain"
+    },
+    "stats_keys_translation": {
+      "series_id": "Series Id",
+      "series_name": "Series Name",
+      "player_id": "Player Id",
+      "name": "Name",
+      "match_played": "Match Played",
+      "raid_points_per_match": "Raid Points Per Match",
+      "not_out_percentage": "Not Out Percentage",
+      "success_tackles_per_match": "Success Tackles Per Match",
+      "tackles": "Tackles",
+      "points_per_match_raid_tackle": "Points Per Match Raid Tackle",
+      "points_defence_offence": "Points Defence Offence",
+      "role": "Role",
+      "total_capture_points": "Total Capture Points",
+      "tackle_bonus_points": "Tackle Bonus Points",
+      "raid_map_locations": "Raid Map Locations",
+      "location": "Location",
+      "point": "Point",
+      "career_best_points": "Career Best Points",
+      "total_tackle_points": "Total Tackle Points",
+      "tackle_success_rate": "Tackle Success Rate",
+      "raids": "Raids",
+      "success_raids": "Success Raids",
+      "unsuccess_raids": "Unsuccess Raids",
+      "empty_raid": "Empty Raid",
+      "success_raid_percent": "Success Raid Percent",
+      "green_cards": "Green Cards",
+      "yellow_cards": "Yellow Cards",
+      "red_cards": "Red Cards",
+      "raid_bonus_points": "Raid Bonus Points",
+      "success_tackles": "Success Tackles",
+      "defence_touch_points": "Defence Touch Points",
+      "defending_bonus_points": "Defending Bonus Points",
+      "raid_touch_points": "Raid Touch Points",
+      "unsuccesful_tackles": "Unsuccesful Tackles",
+      "total_raid_points": "Total Raid Points",
+      "total_defending_points": "Total Defending Points",
+      "super_tackles": "Super Tackles",
+      "super_raids": "Super Raids",
+      "player_team": "Player Team",
+      "super_10s": "Super 10S",
+      "high_5s": "High 5S"
+    }
+  },
+  "last_5_matches": [
+    {
+      "match_id": 1767,
+      "match_name": "Tamil Thalaivas VS Patna Pirates, Match 83 (PKL 7)",
+      "for_team_id": 6,
+      "for_team_name": "Patna Pirates",
+      "against_team_id": 29,
+      "against_team_name": "Tamil Thalaivas",
+      "matchdate": "2019-09-09",
+      "matchdate_gmt": "2019-09-09",
+      "points": {
+        "total": 1,
+        "raid_points": {
+          "total": 1,
+          "touch": 1,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 3,
+        "super_raids": 0,
+        "successful": 1,
+        "unsuccessful": 0,
+        "empty": 2
+      },
+      "tackles": {
+        "total": 1,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 1
+      }
+    },
+    {
+      "match_id": 1770,
+      "match_name": "Jaipur Pink Panthers VS Patna Pirates, Match 86 (PKL 7)",
+      "for_team_id": 6,
+      "for_team_name": "Patna Pirates",
+      "against_team_id": 3,
+      "against_team_name": "Jaipur Pink Panthers",
+      "matchdate": "2019-09-12",
+      "matchdate_gmt": "2019-09-12",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 3,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 1,
+        "empty": 2
+      },
+      "tackles": {
+        "total": 2,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 2
+      }
+    },
+    {
+      "match_id": 1776,
+      "match_name": "Puneri Paltan VS Patna Pirates, Match 92 (PKL 7)",
+      "for_team_id": 6,
+      "for_team_name": "Patna Pirates",
+      "against_team_id": 7,
+      "against_team_name": "Puneri Paltan",
+      "matchdate": "2019-09-15",
+      "matchdate_gmt": "2019-09-15",
+      "points": {
+        "total": 4,
+        "raid_points": {
+          "total": 2,
+          "touch": 2,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 2,
+          "capture": 2,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 1,
+        "super_raids": 0,
+        "successful": 1,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 3,
+        "super_tackles": 0,
+        "successful": 2,
+        "unsuccessful": 1
+      }
+    },
+    {
+      "match_id": 1782,
+      "match_name": "Telugu Titans VS Patna Pirates, Match 98 (PKL 7)",
+      "for_team_id": 6,
+      "for_team_name": "Patna Pirates",
+      "against_team_id": 8,
+      "against_team_name": "Telugu Titans",
+      "matchdate": "2019-09-20",
+      "matchdate_gmt": "2019-09-20",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 2,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 2
+      },
+      "tackles": {
+        "total": 2,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 2
+      }
+    },
+    {
+      "match_id": 1788,
+      "match_name": "Patna Pirates VS Haryana Steelers, Match 104 (PKL 7)",
+      "for_team_id": 6,
+      "for_team_name": "Patna Pirates",
+      "against_team_id": 28,
+      "against_team_name": "Haryana Steelers",
+      "matchdate": "2019-09-23",
+      "matchdate_gmt": "2019-09-23",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 3,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 3
+      },
+      "tackles": {
+        "total": 3,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 3
+      }
+    }
+  ]
+}

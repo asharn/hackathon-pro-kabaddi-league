@@ -1,0 +1,434 @@
+{
+  "bio": {
+    "player_id": 2462,
+    "full_name": "Sunil",
+    "player_short_name": "Sunil",
+    "position_id": 6,
+    "position_name": "Defender, right corner",
+    "height": "",
+    "weight": "",
+    "date_of_birth": "Dec 30 1999",
+    "jersey_no": 5,
+    "nationality": "India",
+    "writeup": "",
+    "team_id": 28,
+    "team_name": "Haryana Steelers",
+    "short_name": "Haryana",
+    "has_additional_details": false,
+    "is_captain": 0
+  },
+  "over_all_stats": [
+    {
+      "series_id": 26,
+      "series_name": "Pro Kabaddi League Season 6, 2018",
+      "player_id": 2462,
+      "name": "Sunil",
+      "match_played": 22,
+      "raid_points_per_match": 0.0,
+      "not_out_percentage": 100.0,
+      "success_tackles_per_match": 1.86,
+      "tackles": 122,
+      "points_per_match_raid_tackle": 1.86,
+      "points_defence_offence": 41,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 41,
+      "career_best_points": 5,
+      "total_tackle_points": 41,
+      "tackle_success_rate": 33.6,
+      "raids": 3,
+      "success_raids": 0,
+      "unsuccess_raids": 0,
+      "empty_raid": 3,
+      "success_raid_percent": 0.0,
+      "green_cards": 3,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 41,
+      "defence_touch_points": 41,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 81,
+      "total_raid_points": 0,
+      "total_defending_points": 41,
+      "super_tackles": 0,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "2",
+      "player_team_arr": [
+        {
+          "team_id": 28,
+          "team_name": "Haryana Steelers",
+          "team_short_name": "Haryana",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 49,
+      "series_name": "Pro Kabaddi League Season 7, 2019",
+      "player_id": 2462,
+      "name": "Sunil",
+      "match_played": 15,
+      "raid_points_per_match": 0.0,
+      "not_out_percentage": 0.0,
+      "success_tackles_per_match": 2.73,
+      "tackles": 91,
+      "points_per_match_raid_tackle": 2.8,
+      "points_defence_offence": 42,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 42,
+      "career_best_points": 6,
+      "total_tackle_points": 42,
+      "tackle_success_rate": 46.15,
+      "raids": 0,
+      "success_raids": 0,
+      "unsuccess_raids": 0,
+      "empty_raid": 0,
+      "success_raid_percent": 0.0,
+      "green_cards": 1,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 41,
+      "defence_touch_points": 42,
+      "defending_bonus_points": 1,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 50,
+      "total_raid_points": 0,
+      "total_defending_points": 42,
+      "super_tackles": 1,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "3",
+      "player_team_arr": [
+        {
+          "team_id": 28,
+          "team_name": "Haryana Steelers",
+          "team_short_name": "Haryana",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 0,
+      "series_name": "",
+      "player_id": 2462,
+      "name": "Sunil",
+      "match_played": 37,
+      "raid_points_per_match": 0.0,
+      "not_out_percentage": 100.0,
+      "success_tackles_per_match": 2.21,
+      "tackles": 213,
+      "points_per_match_raid_tackle": 2.24,
+      "points_defence_offence": 83,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 83,
+      "career_best_points": 6,
+      "total_tackle_points": 83,
+      "tackle_success_rate": 38.96,
+      "raids": 3,
+      "success_raids": 0,
+      "unsuccess_raids": 0,
+      "empty_raid": 3,
+      "success_raid_percent": 0.0,
+      "green_cards": 4,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 82,
+      "defence_touch_points": 83,
+      "defending_bonus_points": 1,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 131,
+      "total_raid_points": 0,
+      "total_defending_points": 83,
+      "super_tackles": 1,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "5",
+      "player_team_arr": [
+        {
+          "team_id": 28,
+          "team_name": "Haryana Steelers",
+          "team_short_name": "Haryana",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        },
+        {
+          "team_id": 28,
+          "team_name": "Haryana Steelers",
+          "team_short_name": "Haryana",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "bio_keys_translation": {
+      "player_id": "Player Id",
+      "full_name": "Full Name",
+      "player_short_name": "Player Short Name",
+      "position_id": "Position Id",
+      "position_name": "Position Name",
+      "height": "Height",
+      "weight": "Weight",
+      "date_of_birth": "Date Of Birth",
+      "jersey_no": "Jersey No",
+      "nationality": "Nationality",
+      "writeup": "Writeup",
+      "team_id": "Team Id",
+      "team_name": "Team Name",
+      "short_name": "Short Name",
+      "has_additional_details": "Has Additional Details",
+      "is_captain": "Is Captain"
+    },
+    "stats_keys_translation": {
+      "series_id": "Series Id",
+      "series_name": "Series Name",
+      "player_id": "Player Id",
+      "name": "Name",
+      "match_played": "Match Played",
+      "raid_points_per_match": "Raid Points Per Match",
+      "not_out_percentage": "Not Out Percentage",
+      "success_tackles_per_match": "Success Tackles Per Match",
+      "tackles": "Tackles",
+      "points_per_match_raid_tackle": "Points Per Match Raid Tackle",
+      "points_defence_offence": "Points Defence Offence",
+      "role": "Role",
+      "total_capture_points": "Total Capture Points",
+      "tackle_bonus_points": "Tackle Bonus Points",
+      "raid_map_locations": "Raid Map Locations",
+      "location": "Location",
+      "point": "Point",
+      "career_best_points": "Career Best Points",
+      "total_tackle_points": "Total Tackle Points",
+      "tackle_success_rate": "Tackle Success Rate",
+      "raids": "Raids",
+      "success_raids": "Success Raids",
+      "unsuccess_raids": "Unsuccess Raids",
+      "empty_raid": "Empty Raid",
+      "success_raid_percent": "Success Raid Percent",
+      "green_cards": "Green Cards",
+      "yellow_cards": "Yellow Cards",
+      "red_cards": "Red Cards",
+      "raid_bonus_points": "Raid Bonus Points",
+      "success_tackles": "Success Tackles",
+      "defence_touch_points": "Defence Touch Points",
+      "defending_bonus_points": "Defending Bonus Points",
+      "raid_touch_points": "Raid Touch Points",
+      "unsuccesful_tackles": "Unsuccesful Tackles",
+      "total_raid_points": "Total Raid Points",
+      "total_defending_points": "Total Defending Points",
+      "super_tackles": "Super Tackles",
+      "super_raids": "Super Raids",
+      "player_team": "Player Team",
+      "super_10s": "Super 10S",
+      "high_5s": "High 5S"
+    }
+  },
+  "last_5_matches": [
+    {
+      "match_id": 1763,
+      "match_name": "Dabang Delhi K.C. VS Haryana Steelers, Match 79 (PKL 7)",
+      "for_team_id": 28,
+      "for_team_name": "Haryana Steelers",
+      "against_team_id": 2,
+      "against_team_name": "Dabang Delhi K.C.",
+      "matchdate": "2019-09-07",
+      "matchdate_gmt": "2019-09-07",
+      "points": {
+        "total": 4,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 4,
+          "capture": 4,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 7,
+        "super_tackles": 0,
+        "successful": 4,
+        "unsuccessful": 3
+      }
+    },
+    {
+      "match_id": 1768,
+      "match_name": "Haryana Steelers VS Jaipur Pink Panthers, Match 84 (PKL 7)",
+      "for_team_id": 28,
+      "for_team_name": "Haryana Steelers",
+      "against_team_id": 3,
+      "against_team_name": "Jaipur Pink Panthers",
+      "matchdate": "2019-09-11",
+      "matchdate_gmt": "2019-09-11",
+      "points": {
+        "total": 5,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 5,
+          "capture": 5,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 7,
+        "super_tackles": 0,
+        "successful": 5,
+        "unsuccessful": 2
+      }
+    },
+    {
+      "match_id": 1774,
+      "match_name": "Tamil Thalaivas VS Haryana Steelers, Match 90 (PKL 7)",
+      "for_team_id": 28,
+      "for_team_name": "Haryana Steelers",
+      "against_team_id": 29,
+      "against_team_name": "Tamil Thalaivas",
+      "matchdate": "2019-09-14",
+      "matchdate_gmt": "2019-09-14",
+      "points": {
+        "total": 4,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 4,
+          "capture": 4,
+          "capture_bonus": 1
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 7,
+        "super_tackles": 1,
+        "successful": 3,
+        "unsuccessful": 4
+      }
+    },
+    {
+      "match_id": 1781,
+      "match_name": "Bengal Warriors VS Haryana Steelers, Match 97 (PKL 7)",
+      "for_team_id": 28,
+      "for_team_name": "Haryana Steelers",
+      "against_team_id": 4,
+      "against_team_name": "Bengal Warriors",
+      "matchdate": "2019-09-19",
+      "matchdate_gmt": "2019-09-19",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 6,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 6
+      }
+    },
+    {
+      "match_id": 1788,
+      "match_name": "Patna Pirates VS Haryana Steelers, Match 104 (PKL 7)",
+      "for_team_id": 28,
+      "for_team_name": "Haryana Steelers",
+      "against_team_id": 6,
+      "against_team_name": "Patna Pirates",
+      "matchdate": "2019-09-23",
+      "matchdate_gmt": "2019-09-23",
+      "points": {
+        "total": 3,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 3,
+          "capture": 3,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 7,
+        "super_tackles": 0,
+        "successful": 3,
+        "unsuccessful": 4
+      }
+    }
+  ]
+}

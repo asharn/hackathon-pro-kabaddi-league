@@ -1,0 +1,292 @@
+{
+  "squads": {
+    "series_id": "8",
+    "parent_series_id": "1",
+    "team_details": {
+      "team_id": 1,
+      "team_name": "Bengaluru Bulls",
+      "short_name": "Bengaluru"
+    },
+    "squad": {
+      "players": [
+        {
+          "player_id": 326,
+          "full_name": "Rohit Kumar",
+          "short_name": "Rohit Kumar",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 9,
+          "is_captain": 1,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Rohit Kumar"
+        },
+        {
+          "player_id": 389,
+          "full_name": "Ajay Kumar",
+          "short_name": "Ajay Kumar",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 33,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Ajay Kumar"
+        },
+        {
+          "player_id": 46,
+          "full_name": "Gurvinder Singh",
+          "short_name": "Gurvinder Singh",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 2,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Gurvinder Singh"
+        },
+        {
+          "player_id": 372,
+          "full_name": "Harish Naik",
+          "short_name": "Harish Naik",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 8,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Harish Naik"
+        },
+        {
+          "player_id": 730,
+          "full_name": "Rohit",
+          "short_name": "Rohit",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 1,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Rohit"
+        },
+        {
+          "player_id": 21,
+          "full_name": "Sinotharan Kanesharajah",
+          "short_name": "Sinotharan Kanesharajah",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 19,
+          "is_captain": 0,
+          "country_id": 8,
+          "country_name": "Sri Lanka",
+          "gender": "m",
+          "name": "Sinotharan Kanesharajah"
+        },
+        {
+          "player_id": 363,
+          "full_name": "Sumit Singh",
+          "short_name": "Sumit Singh",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 77,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Sumit Singh"
+        },
+        {
+          "player_id": 141,
+          "full_name": "Sunil Jaipal",
+          "short_name": "Sunil Jaipal",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 66,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Sunil Jaipal"
+        },
+        {
+          "player_id": 202,
+          "full_name": "Ashish Kumar",
+          "short_name": "Ashish Kumar",
+          "position_id": 7,
+          "position_name": "Defender, right cover",
+          "jersey_no": 10,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Ashish Kumar"
+        },
+        {
+          "player_id": 777,
+          "full_name": "Pardeep Kandola",
+          "short_name": "Pardeep Kandola",
+          "position_id": 6,
+          "position_name": "Defender, right corner",
+          "jersey_no": 22,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Pardeep Kandola"
+        },
+        {
+          "player_id": 157,
+          "full_name": "Ravinder Pahal",
+          "short_name": "Ravinder Pahal",
+          "position_id": 6,
+          "position_name": "Defender, right corner",
+          "jersey_no": 6,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Ravinder Pahal"
+        },
+        {
+          "player_id": 769,
+          "full_name": "Mahender Singh",
+          "short_name": "Mahender Singh",
+          "position_id": 4,
+          "position_name": "Defender, left cover",
+          "jersey_no": 4,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Mahender Singh"
+        },
+        {
+          "player_id": 794,
+          "full_name": "Amit Sheoran",
+          "short_name": "Amit Sheoran",
+          "position_id": 3,
+          "position_name": "Defender, left corner",
+          "jersey_no": 12,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Amit Sheoran"
+        },
+        {
+          "player_id": 61,
+          "full_name": "Kuldeep Singh",
+          "short_name": "Kuldeep Singh",
+          "position_id": 3,
+          "position_name": "Defender, left corner",
+          "jersey_no": 99,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Kuldeep Singh"
+        },
+        {
+          "player_id": 218,
+          "full_name": "Sachin Kumar",
+          "short_name": "Sachin Kumar",
+          "position_id": 3,
+          "position_name": "Defender, left corner",
+          "jersey_no": 11,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Sachin Kumar"
+        },
+        {
+          "player_id": 723,
+          "full_name": "Amit",
+          "short_name": "Amit",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 7,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Amit"
+        },
+        {
+          "player_id": 675,
+          "full_name": "Ankit Sangwan",
+          "short_name": "Ankit Sangwan",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 3,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Ankit Sangwan"
+        },
+        {
+          "player_id": 167,
+          "full_name": "Preetam Chhillar",
+          "short_name": "Preetam Chhillar",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 5,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Preetam Chhillar"
+        },
+        {
+          "player_id": 15,
+          "full_name": "Sanjay Shrestha",
+          "short_name": "Sanjay Shrestha",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 88,
+          "is_captain": 0,
+          "country_id": 170,
+          "country_name": "Nepal",
+          "gender": "m",
+          "name": "Sanjay Shrestha"
+        }
+      ],
+      "staff_details": {
+        "member": [
+          {
+            "player_id": 128,
+            "full_name": "Randhir Singh",
+            "role_id": 6,
+            "role_name": "Coach",
+            "gender": "m",
+            "country_id": null,
+            "country_name": null
+          }
+        ]
+      }
+    }
+  },
+  "language_lookup": {
+    "team_id": "Team Id",
+    "team_name": "Team Name",
+    "short_name": "Short Name",
+    "player_id": "Player Id",
+    "full_name": "Full Name",
+    "position_id": "Position Id",
+    "position_name": "Position Name",
+    "jersey_no": "Jersey No",
+    "is_captain": "Is Captain",
+    "country_id": "Country Id",
+    "country_name": "Country Name",
+    "gender": "Gender",
+    "name": "Name",
+    "role_id": "Role Id",
+    "role_name": "Role Name"
+  }
+}

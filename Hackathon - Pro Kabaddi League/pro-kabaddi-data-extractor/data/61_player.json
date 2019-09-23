@@ -1,0 +1,381 @@
+{
+  "bio": null,
+  "over_all_stats": [
+    {
+      "series_id": 1,
+      "series_name": "Pro Kabaddi League Season 1, 2014",
+      "player_id": 61,
+      "name": "Kuldeep Singh",
+      "match_played": 3,
+      "raid_points_per_match": 0.0,
+      "not_out_percentage": 0.0,
+      "success_tackles_per_match": 1.33,
+      "tackles": 14,
+      "points_per_match_raid_tackle": 1.66,
+      "points_defence_offence": 5,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 5,
+      "career_best_points": 3,
+      "total_tackle_points": 5,
+      "tackle_success_rate": 35.71,
+      "raids": 0,
+      "success_raids": 0,
+      "unsuccess_raids": 0,
+      "empty_raid": 0,
+      "success_raid_percent": 0.0,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 4,
+      "defence_touch_points": 5,
+      "defending_bonus_points": 1,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 10,
+      "total_raid_points": 0,
+      "total_defending_points": 5,
+      "super_tackles": 1,
+      "super_raids": 0,
+      "player_team": 0
+    },
+    {
+      "series_id": 3,
+      "series_name": "Pro Kabaddi League Season 3, 2016",
+      "player_id": 61,
+      "name": "Kuldeep Singh",
+      "match_played": 1,
+      "raid_points_per_match": 0.0,
+      "not_out_percentage": 0.0,
+      "success_tackles_per_match": 3,
+      "tackles": 4,
+      "points_per_match_raid_tackle": 3,
+      "points_defence_offence": 3,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 3,
+      "career_best_points": 3,
+      "total_tackle_points": 3,
+      "tackle_success_rate": 75.0,
+      "raids": 0,
+      "success_raids": 0,
+      "unsuccess_raids": 0,
+      "empty_raid": 0,
+      "success_raid_percent": 0.0,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 3,
+      "defence_touch_points": 3,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 1,
+      "total_raid_points": 0,
+      "total_defending_points": 3,
+      "super_tackles": 0,
+      "super_raids": 0,
+      "player_team": 0
+    },
+    {
+      "series_id": 8,
+      "series_name": "Pro Kabaddi League Season 5, 2017",
+      "player_id": 61,
+      "name": "Kuldeep Singh",
+      "match_played": 16,
+      "raid_points_per_match": 0.0,
+      "not_out_percentage": 0.0,
+      "success_tackles_per_match": 1.87,
+      "tackles": 68,
+      "points_per_match_raid_tackle": 2,
+      "points_defence_offence": 32,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 32,
+      "career_best_points": 5,
+      "total_tackle_points": 32,
+      "tackle_success_rate": 47.05,
+      "raids": 0,
+      "success_raids": 0,
+      "unsuccess_raids": 0,
+      "empty_raid": 0,
+      "success_raid_percent": 0.0,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 30,
+      "defence_touch_points": 32,
+      "defending_bonus_points": 2,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 38,
+      "total_raid_points": 0,
+      "total_defending_points": 32,
+      "super_tackles": 2,
+      "super_raids": 0,
+      "player_team": 0
+    },
+    {
+      "series_id": 0,
+      "series_name": "",
+      "player_id": 61,
+      "name": "Kuldeep Singh",
+      "match_played": 20,
+      "raid_points_per_match": 0.0,
+      "not_out_percentage": 0.0,
+      "success_tackles_per_match": 1.85,
+      "tackles": 86,
+      "points_per_match_raid_tackle": 2,
+      "points_defence_offence": 40,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 40,
+      "career_best_points": 5,
+      "total_tackle_points": 40,
+      "tackle_success_rate": 46.51,
+      "raids": 0,
+      "success_raids": 0,
+      "unsuccess_raids": 0,
+      "empty_raid": 0,
+      "success_raid_percent": 0.0,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 37,
+      "defence_touch_points": 40,
+      "defending_bonus_points": 3,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 49,
+      "total_raid_points": 0,
+      "total_defending_points": 40,
+      "super_tackles": 3,
+      "super_raids": 0,
+      "player_team": 0
+    }
+  ],
+  "language_lookup": {
+    "bio_keys_translation": {
+      "player_id": "Player Id",
+      "full_name": "Full Name",
+      "player_short_name": "Player Short Name",
+      "position_id": "Position Id",
+      "position_name": "Position Name",
+      "height": "Height",
+      "weight": "Weight",
+      "date_of_birth": "Date Of Birth",
+      "jersey_no": "Jersey No",
+      "nationality": "Nationality",
+      "writeup": "Writeup",
+      "team_id": "Team Id",
+      "team_name": "Team Name",
+      "short_name": "Short Name",
+      "has_additional_details": "Has Additional Details"
+    },
+    "stats_keys_translation": {
+      "series_id": "Series Id",
+      "series_name": "Series Name",
+      "player_id": "Player Id",
+      "name": "Name",
+      "match_played": "Match Played",
+      "raid_points_per_match": "Raid Points Per Match",
+      "not_out_percentage": "Not Out Percentage",
+      "success_tackles_per_match": "Success Tackles Per Match",
+      "tackles": "Tackles",
+      "points_per_match_raid_tackle": "Points Per Match Raid Tackle",
+      "points_defence_offence": "Points Defence Offence",
+      "role": "Role",
+      "total_capture_points": "Total Capture Points",
+      "tackle_bonus_points": "Tackle Bonus Points",
+      "raid_map_locations": "Raid Map Locations",
+      "location": "Location",
+      "point": "Point",
+      "career_best_points": "Career Best Points",
+      "total_tackle_points": "Total Tackle Points",
+      "tackle_success_rate": "Tackle Success Rate",
+      "raids": "Raids",
+      "success_raids": "Success Raids",
+      "unsuccess_raids": "Unsuccess Raids",
+      "empty_raid": "Empty Raid",
+      "success_raid_percent": "Success Raid Percent",
+      "green_cards": "Green Cards",
+      "yellow_cards": "Yellow Cards",
+      "red_cards": "Red Cards",
+      "raid_bonus_points": "Raid Bonus Points",
+      "success_tackles": "Success Tackles",
+      "defence_touch_points": "Defence Touch Points",
+      "defending_bonus_points": "Defending Bonus Points",
+      "raid_touch_points": "Raid Touch Points",
+      "unsuccesful_tackles": "Unsuccesful Tackles",
+      "total_raid_points": "Total Raid Points",
+      "total_defending_points": "Total Defending Points",
+      "super_tackles": "Super Tackles",
+      "super_raids": "Super Raids",
+      "player_team": "Player Team"
+    }
+  },
+  "last_5_matches": [
+    {
+      "match_id": 336,
+      "match_name": "Bengaluru Bulls VS U.P. Yoddha, Match 51 (PKL 5)",
+      "points": {
+        "total": 1,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 1,
+          "capture": 1,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 3,
+        "super_tackles": 0,
+        "successful": 1,
+        "unsuccessful": 2
+      }
+    },
+    {
+      "match_id": 383,
+      "match_name": "Bengaluru Bulls VS U Mumba, Match 98 (PKL 5)",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 5,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 5
+      }
+    },
+    {
+      "match_id": 395,
+      "match_name": "Tamil Thalaivas VS Bengaluru Bulls, Match 110 (PKL 5)",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 1,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 1
+      }
+    },
+    {
+      "match_id": 411,
+      "match_name": "Bengaluru Bulls VS U.P. Yoddha, Match 126 (PKL 5)",
+      "points": {
+        "total": 2,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 2,
+          "capture": 2,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 4,
+        "super_tackles": 0,
+        "successful": 2,
+        "unsuccessful": 2
+      }
+    },
+    {
+      "match_id": 414,
+      "match_name": "Patna Pirates VS Bengaluru Bulls, Match 129 (PKL 5)",
+      "points": {
+        "total": 3,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 3,
+          "capture": 3,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 6,
+        "super_tackles": 0,
+        "successful": 3,
+        "unsuccessful": 3
+      }
+    }
+  ]
+}

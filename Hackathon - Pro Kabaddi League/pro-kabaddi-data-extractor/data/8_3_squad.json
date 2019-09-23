@@ -1,0 +1,285 @@
+{
+  "squads": {
+    "series_id": "8",
+    "parent_series_id": "1",
+    "team_details": {
+      "team_id": 3,
+      "team_name": "Jaipur Pink Panthers",
+      "short_name": "Jaipur"
+    },
+    "squad": {
+      "players": [
+        {
+          "player_id": 69,
+          "full_name": "Manjeet Chhillar",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 5,
+          "is_captain": 1,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Manjeet Chhillar"
+        },
+        {
+          "player_id": 648,
+          "full_name": "Ajit Singh",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 19,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Ajit Singh"
+        },
+        {
+          "player_id": 52,
+          "full_name": "Jasvir Singh",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 2,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Jasvir Singh"
+        },
+        {
+          "player_id": 638,
+          "full_name": "Kamal Kishor",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 22,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Kamal Kishor"
+        },
+        {
+          "player_id": 156,
+          "full_name": "Pawan Kumar",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 12,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Pawan Kumar Kadian"
+        },
+        {
+          "player_id": 738,
+          "full_name": "Rahul Choudhary",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 1,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Rahul Choudhary"
+        },
+        {
+          "player_id": 264,
+          "full_name": "Selvamani K",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 10,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Selvamani K"
+        },
+        {
+          "player_id": 242,
+          "full_name": "Tushar Patil",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 99,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Tushar Patil"
+        },
+        {
+          "player_id": 109,
+          "full_name": "Somvir Shekhar",
+          "position_id": 7,
+          "position_name": "Defender, right cover",
+          "jersey_no": 55,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Somvir Shekhar"
+        },
+        {
+          "player_id": 613,
+          "full_name": "Sunil Siddhgavali",
+          "position_id": 7,
+          "position_name": "Defender, right cover",
+          "jersey_no": 11,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Sunil Siddhgavali"
+        },
+        {
+          "player_id": 590,
+          "full_name": "Vignesh B",
+          "position_id": 7,
+          "position_name": "Defender, right cover",
+          "jersey_no": 8,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Vignesh B"
+        },
+        {
+          "player_id": 233,
+          "full_name": "Manoj Dhull",
+          "position_id": 6,
+          "position_name": "Defender, right corner",
+          "jersey_no": 4,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Manoj Dhull"
+        },
+        {
+          "player_id": 384,
+          "full_name": "Ravinder Kumar",
+          "position_id": 6,
+          "position_name": "Defender, right corner",
+          "jersey_no": 33,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Ravinder Kumar"
+        },
+        {
+          "player_id": 676,
+          "full_name": "Santhapanaselvam",
+          "position_id": 6,
+          "position_name": "Defender, right corner",
+          "jersey_no": 66,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Santhapanaselvam"
+        },
+        {
+          "player_id": 516,
+          "full_name": "Jae Min Lee",
+          "position_id": 3,
+          "position_name": "Defender, left corner",
+          "jersey_no": 3,
+          "is_captain": 0,
+          "country_id": 132,
+          "country_name": "Korea",
+          "gender": "m",
+          "name": "Jae Min Lee"
+        },
+        {
+          "player_id": 72,
+          "full_name": "Navneet Gautam",
+          "position_id": 3,
+          "position_name": "Defender, left corner",
+          "jersey_no": 9,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Navneet Gautam"
+        },
+        {
+          "player_id": 721,
+          "full_name": "Abhishek N",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 7,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Abhishek N"
+        },
+        {
+          "player_id": 515,
+          "full_name": "Dong Gyu Kim",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 6,
+          "is_captain": 0,
+          "country_id": 132,
+          "country_name": "Korea",
+          "gender": "m",
+          "name": "Dong Gyu Kim"
+        },
+        {
+          "player_id": 791,
+          "full_name": "Nitin Rawal",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 14,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Nitin Rawal"
+        },
+        {
+          "player_id": 611,
+          "full_name": "Sidharth",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 77,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Sidharth"
+        }
+      ],
+      "staff_details": {
+        "member": [
+          {
+            "player_id": 130,
+            "full_name": "Balwan Singh",
+            "role_id": 6,
+            "role_name": "Coach",
+            "gender": "m",
+            "country_id": null,
+            "country_name": null
+          }
+        ]
+      }
+    }
+  },
+  "language_lookup": {
+    "team_id": "Team Id",
+    "team_name": "Team Name",
+    "short_name": "Short Name",
+    "player_id": "Player Id",
+    "full_name": "Full Name",
+    "position_id": "Position Id",
+    "position_name": "Position Name",
+    "jersey_no": "Jersey No",
+    "is_captain": "Is Captain",
+    "country_id": "Country Id",
+    "country_name": "Country Name",
+    "gender": "Gender",
+    "name": "Name",
+    "role_id": "Role Id",
+    "role_name": "Role Name"
+  }
+}

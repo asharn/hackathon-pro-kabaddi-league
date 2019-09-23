@@ -1,0 +1,556 @@
+{
+  "bio": {
+    "player_id": 363,
+    "full_name": "Sumit Singh",
+    "player_short_name": "Sumit Singh",
+    "position_id": 8,
+    "position_name": "Raider",
+    "height": "",
+    "weight": "",
+    "date_of_birth": "Jun 15 1996",
+    "jersey_no": 7,
+    "nationality": "India",
+    "writeup": "",
+    "team_id": 1,
+    "team_name": "Bengaluru Bulls",
+    "short_name": "Bengaluru",
+    "has_additional_details": false,
+    "is_captain": 0
+  },
+  "over_all_stats": [
+    {
+      "series_id": 4,
+      "series_name": "Pro Kabaddi League Season 4, 2016",
+      "player_id": 363,
+      "name": "Sumit Singh",
+      "match_played": 5,
+      "raid_points_per_match": 1.4,
+      "not_out_percentage": 70.0,
+      "success_tackles_per_match": 0.2,
+      "tackles": 5,
+      "points_per_match_raid_tackle": 1.8,
+      "points_defence_offence": 9,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 9,
+      "career_best_points": 4,
+      "total_tackle_points": 2,
+      "tackle_success_rate": 40.0,
+      "raids": 20,
+      "success_raids": 5,
+      "unsuccess_raids": 6,
+      "empty_raid": 9,
+      "success_raid_percent": 35.0,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 3,
+      "success_tackles": 1,
+      "defence_touch_points": 2,
+      "defending_bonus_points": 1,
+      "raid_touch_points": 4,
+      "unsuccesful_tackles": 4,
+      "total_raid_points": 7,
+      "total_defending_points": 2,
+      "super_tackles": 1,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 1,
+          "team_name": "Bengaluru Bulls",
+          "team_short_name": "Bengaluru",
+          "series_id": 4,
+          "series_name": "Pro Kabaddi League Season 4, 2016",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 8,
+      "series_name": "Pro Kabaddi League Season 5, 2017",
+      "player_id": 363,
+      "name": "Sumit Singh",
+      "match_played": 4,
+      "raid_points_per_match": 0.0,
+      "not_out_percentage": 60.0,
+      "success_tackles_per_match": 0,
+      "tackles": 0,
+      "points_per_match_raid_tackle": 0,
+      "points_defence_offence": 0,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 0,
+      "career_best_points": 0,
+      "total_tackle_points": 0,
+      "tackle_success_rate": 0.0,
+      "raids": 5,
+      "success_raids": 0,
+      "unsuccess_raids": 2,
+      "empty_raid": 3,
+      "success_raid_percent": 0.0,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 0,
+      "defence_touch_points": 0,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 0,
+      "total_raid_points": 0,
+      "total_defending_points": 0,
+      "super_tackles": 0,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 1,
+          "team_name": "Bengaluru Bulls",
+          "team_short_name": "Bengaluru",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 26,
+      "series_name": "Pro Kabaddi League Season 6, 2018",
+      "player_id": 363,
+      "name": "Sumit Singh",
+      "match_played": 8,
+      "raid_points_per_match": 1.37,
+      "not_out_percentage": 77.77,
+      "success_tackles_per_match": 0.5,
+      "tackles": 10,
+      "points_per_match_raid_tackle": 1.87,
+      "points_defence_offence": 15,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 15,
+      "career_best_points": 4,
+      "total_tackle_points": 4,
+      "tackle_success_rate": 40.0,
+      "raids": 27,
+      "success_raids": 7,
+      "unsuccess_raids": 6,
+      "empty_raid": 14,
+      "success_raid_percent": 40.74,
+      "green_cards": 2,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 6,
+      "success_tackles": 4,
+      "defence_touch_points": 4,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 5,
+      "unsuccesful_tackles": 6,
+      "total_raid_points": 11,
+      "total_defending_points": 4,
+      "super_tackles": 0,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 1,
+          "team_name": "Bengaluru Bulls",
+          "team_short_name": "Bengaluru",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 49,
+      "series_name": "Pro Kabaddi League Season 7, 2019",
+      "player_id": 363,
+      "name": "Sumit Singh",
+      "match_played": 14,
+      "raid_points_per_match": 2.35,
+      "not_out_percentage": 67.07,
+      "success_tackles_per_match": 0.14,
+      "tackles": 10,
+      "points_per_match_raid_tackle": 2.57,
+      "points_defence_offence": 36,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 36,
+      "career_best_points": 7,
+      "total_tackle_points": 3,
+      "tackle_success_rate": 30.0,
+      "raids": 82,
+      "success_raids": 24,
+      "unsuccess_raids": 27,
+      "empty_raid": 31,
+      "success_raid_percent": 40.24,
+      "green_cards": 1,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 22,
+      "success_tackles": 2,
+      "defence_touch_points": 3,
+      "defending_bonus_points": 1,
+      "raid_touch_points": 11,
+      "unsuccesful_tackles": 8,
+      "total_raid_points": 33,
+      "total_defending_points": 3,
+      "super_tackles": 1,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 1,
+          "team_name": "Bengaluru Bulls",
+          "team_short_name": "Bengaluru",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 0,
+      "series_name": "",
+      "player_id": 363,
+      "name": "Sumit Singh",
+      "match_played": 31,
+      "raid_points_per_match": 1.64,
+      "not_out_percentage": 69.4,
+      "success_tackles_per_match": 0.22,
+      "tackles": 25,
+      "points_per_match_raid_tackle": 1.93,
+      "points_defence_offence": 60,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 60,
+      "career_best_points": 7,
+      "total_tackle_points": 9,
+      "tackle_success_rate": 36.0,
+      "raids": 134,
+      "success_raids": 36,
+      "unsuccess_raids": 41,
+      "empty_raid": 57,
+      "success_raid_percent": 38.05,
+      "green_cards": 3,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 31,
+      "success_tackles": 7,
+      "defence_touch_points": 9,
+      "defending_bonus_points": 2,
+      "raid_touch_points": 20,
+      "unsuccesful_tackles": 18,
+      "total_raid_points": 51,
+      "total_defending_points": 9,
+      "super_tackles": 2,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 1,
+          "team_name": "Bengaluru Bulls",
+          "team_short_name": "Bengaluru",
+          "series_id": 4,
+          "series_name": "Pro Kabaddi League Season 4, 2016",
+          "is_latest": true
+        },
+        {
+          "team_id": 1,
+          "team_name": "Bengaluru Bulls",
+          "team_short_name": "Bengaluru",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        },
+        {
+          "team_id": 1,
+          "team_name": "Bengaluru Bulls",
+          "team_short_name": "Bengaluru",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        },
+        {
+          "team_id": 1,
+          "team_name": "Bengaluru Bulls",
+          "team_short_name": "Bengaluru",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "bio_keys_translation": {
+      "player_id": "Player Id",
+      "full_name": "Full Name",
+      "player_short_name": "Player Short Name",
+      "position_id": "Position Id",
+      "position_name": "Position Name",
+      "height": "Height",
+      "weight": "Weight",
+      "date_of_birth": "Date Of Birth",
+      "jersey_no": "Jersey No",
+      "nationality": "Nationality",
+      "writeup": "Writeup",
+      "team_id": "Team Id",
+      "team_name": "Team Name",
+      "short_name": "Short Name",
+      "has_additional_details": "Has Additional Details",
+      "is_captain": "Is Captain"
+    },
+    "stats_keys_translation": {
+      "series_id": "Series Id",
+      "series_name": "Series Name",
+      "player_id": "Player Id",
+      "name": "Name",
+      "match_played": "Match Played",
+      "raid_points_per_match": "Raid Points Per Match",
+      "not_out_percentage": "Not Out Percentage",
+      "success_tackles_per_match": "Success Tackles Per Match",
+      "tackles": "Tackles",
+      "points_per_match_raid_tackle": "Points Per Match Raid Tackle",
+      "points_defence_offence": "Points Defence Offence",
+      "role": "Role",
+      "total_capture_points": "Total Capture Points",
+      "tackle_bonus_points": "Tackle Bonus Points",
+      "raid_map_locations": "Raid Map Locations",
+      "location": "Location",
+      "point": "Point",
+      "career_best_points": "Career Best Points",
+      "total_tackle_points": "Total Tackle Points",
+      "tackle_success_rate": "Tackle Success Rate",
+      "raids": "Raids",
+      "success_raids": "Success Raids",
+      "unsuccess_raids": "Unsuccess Raids",
+      "empty_raid": "Empty Raid",
+      "success_raid_percent": "Success Raid Percent",
+      "green_cards": "Green Cards",
+      "yellow_cards": "Yellow Cards",
+      "red_cards": "Red Cards",
+      "raid_bonus_points": "Raid Bonus Points",
+      "success_tackles": "Success Tackles",
+      "defence_touch_points": "Defence Touch Points",
+      "defending_bonus_points": "Defending Bonus Points",
+      "raid_touch_points": "Raid Touch Points",
+      "unsuccesful_tackles": "Unsuccesful Tackles",
+      "total_raid_points": "Total Raid Points",
+      "total_defending_points": "Total Defending Points",
+      "super_tackles": "Super Tackles",
+      "super_raids": "Super Raids",
+      "player_team": "Player Team",
+      "super_10s": "Super 10S",
+      "high_5s": "High 5S"
+    }
+  },
+  "last_5_matches": [
+    {
+      "match_id": 1758,
+      "match_name": "Bengaluru Bulls VS Patna Pirates, Match 74 (PKL 7)",
+      "for_team_id": 1,
+      "for_team_name": "Bengaluru Bulls",
+      "against_team_id": 6,
+      "against_team_name": "Patna Pirates",
+      "matchdate": "2019-09-04",
+      "matchdate_gmt": "2019-09-04",
+      "points": {
+        "total": 1,
+        "raid_points": {
+          "total": 1,
+          "touch": 1,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 6,
+        "super_raids": 0,
+        "successful": 1,
+        "unsuccessful": 2,
+        "empty": 3
+      },
+      "tackles": {
+        "total": 0,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 0
+      }
+    },
+    {
+      "match_id": 1761,
+      "match_name": "Bengaluru Bulls VS Telugu Titans, Match 77 (PKL 7)",
+      "for_team_id": 1,
+      "for_team_name": "Bengaluru Bulls",
+      "against_team_id": 8,
+      "against_team_name": "Telugu Titans",
+      "matchdate": "2019-09-06",
+      "matchdate_gmt": "2019-09-06",
+      "points": {
+        "total": 1,
+        "raid_points": {
+          "total": 1,
+          "touch": 1,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 2,
+        "super_raids": 0,
+        "successful": 1,
+        "unsuccessful": 1,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 0,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 0
+      }
+    },
+    {
+      "match_id": 1772,
+      "match_name": "Bengal Warriors VS Bengaluru Bulls, Match 88 (PKL 7)",
+      "for_team_id": 1,
+      "for_team_name": "Bengaluru Bulls",
+      "against_team_id": 4,
+      "against_team_name": "Bengal Warriors",
+      "matchdate": "2019-09-12",
+      "matchdate_gmt": "2019-09-12",
+      "points": {
+        "total": 7,
+        "raid_points": {
+          "total": 7,
+          "touch": 3,
+          "raid_bonus": 4
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 8,
+        "super_raids": 0,
+        "successful": 4,
+        "unsuccessful": 2,
+        "empty": 2
+      },
+      "tackles": {
+        "total": 0,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 0
+      }
+    },
+    {
+      "match_id": 1783,
+      "match_name": "Puneri Paltan VS Bengaluru Bulls, Match 99 (PKL 7)",
+      "for_team_id": 1,
+      "for_team_name": "Bengaluru Bulls",
+      "against_team_id": 7,
+      "against_team_name": "Puneri Paltan",
+      "matchdate": "2019-09-20",
+      "matchdate_gmt": "2019-09-20",
+      "points": {
+        "total": 4,
+        "raid_points": {
+          "total": 4,
+          "touch": 1,
+          "raid_bonus": 3
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 7,
+        "super_raids": 0,
+        "successful": 3,
+        "unsuccessful": 3,
+        "empty": 1
+      },
+      "tackles": {
+        "total": 0,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 0
+      }
+    },
+    {
+      "match_id": 1789,
+      "match_name": "Dabang Delhi K.C. VS Bengaluru Bulls, Match 105 (PKL 7)",
+      "for_team_id": 1,
+      "for_team_name": "Bengaluru Bulls",
+      "against_team_id": 2,
+      "against_team_name": "Dabang Delhi K.C.",
+      "matchdate": "2019-09-23",
+      "matchdate_gmt": "2019-09-23",
+      "points": {
+        "total": 2,
+        "raid_points": {
+          "total": 2,
+          "touch": 0,
+          "raid_bonus": 2
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 12,
+        "super_raids": 0,
+        "successful": 1,
+        "unsuccessful": 4,
+        "empty": 7
+      },
+      "tackles": {
+        "total": 2,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 2
+      }
+    }
+  ]
+}

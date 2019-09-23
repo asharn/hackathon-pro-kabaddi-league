@@ -1,0 +1,495 @@
+{
+  "bio": {
+    "player_id": 482,
+    "full_name": "Farhad Rahimi Milaghardan",
+    "player_short_name": "Farhad Milaghardan",
+    "position_id": 1,
+    "position_name": "All Rounder",
+    "height": "6 ft",
+    "weight": "",
+    "date_of_birth": "Nov 13 1988",
+    "jersey_no": 6,
+    "nationality": "Iran",
+    "writeup": "",
+    "team_id": 8,
+    "team_name": "Telugu Titans",
+    "short_name": "Hyderabad",
+    "has_additional_details": false,
+    "is_captain": 0
+  },
+  "over_all_stats": [
+    {
+      "series_id": 8,
+      "series_name": "Pro Kabaddi League Season 5, 2017",
+      "player_id": 482,
+      "name": "Farhad Rahimi Milaghardan",
+      "match_played": 18,
+      "raid_points_per_match": 0.33,
+      "not_out_percentage": 61.11,
+      "success_tackles_per_match": 1.22,
+      "tackles": 54,
+      "points_per_match_raid_tackle": 1.55,
+      "points_defence_offence": 28,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 28,
+      "career_best_points": 4,
+      "total_tackle_points": 22,
+      "tackle_success_rate": 40.74,
+      "raids": 18,
+      "success_raids": 5,
+      "unsuccess_raids": 7,
+      "empty_raid": 6,
+      "success_raid_percent": 33.33,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 2,
+      "success_tackles": 22,
+      "defence_touch_points": 22,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 4,
+      "unsuccesful_tackles": 32,
+      "total_raid_points": 6,
+      "total_defending_points": 22,
+      "super_tackles": 0,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 8,
+          "team_name": "Telugu Titans",
+          "team_short_name": "Hyderabad",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 26,
+      "series_name": "Pro Kabaddi League Season 6, 2018",
+      "player_id": 482,
+      "name": "Farhad Rahimi Milaghardan",
+      "match_played": 22,
+      "raid_points_per_match": 1.0,
+      "not_out_percentage": 81.66,
+      "success_tackles_per_match": 0.95,
+      "tackles": 69,
+      "points_per_match_raid_tackle": 2.13,
+      "points_defence_offence": 47,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 47,
+      "career_best_points": 5,
+      "total_tackle_points": 25,
+      "tackle_success_rate": 36.23,
+      "raids": 60,
+      "success_raids": 17,
+      "unsuccess_raids": 11,
+      "empty_raid": 32,
+      "success_raid_percent": 36.66,
+      "green_cards": 3,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 6,
+      "success_tackles": 21,
+      "defence_touch_points": 25,
+      "defending_bonus_points": 4,
+      "raid_touch_points": 16,
+      "unsuccesful_tackles": 48,
+      "total_raid_points": 22,
+      "total_defending_points": 25,
+      "super_tackles": 4,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "1",
+      "player_team_arr": [
+        {
+          "team_id": 8,
+          "team_name": "Telugu Titans",
+          "team_short_name": "Hyderabad",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 49,
+      "series_name": "Pro Kabaddi League Season 7, 2019",
+      "player_id": 482,
+      "name": "Farhad Rahimi Milaghardan",
+      "match_played": 16,
+      "raid_points_per_match": 1.37,
+      "not_out_percentage": 83.58,
+      "success_tackles_per_match": 1.43,
+      "tackles": 56,
+      "points_per_match_raid_tackle": 2.81,
+      "points_defence_offence": 45,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 45,
+      "career_best_points": 5,
+      "total_tackle_points": 23,
+      "tackle_success_rate": 41.07,
+      "raids": 67,
+      "success_raids": 18,
+      "unsuccess_raids": 11,
+      "empty_raid": 38,
+      "success_raid_percent": 32.83,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 3,
+      "success_tackles": 23,
+      "defence_touch_points": 23,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 19,
+      "unsuccesful_tackles": 33,
+      "total_raid_points": 22,
+      "total_defending_points": 23,
+      "super_tackles": 0,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 8,
+          "team_name": "Telugu Titans",
+          "team_short_name": "Hyderabad",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 0,
+      "series_name": "",
+      "player_id": 482,
+      "name": "Farhad Rahimi Milaghardan",
+      "match_played": 56,
+      "raid_points_per_match": 0.89,
+      "not_out_percentage": 80.0,
+      "success_tackles_per_match": 1.17,
+      "tackles": 179,
+      "points_per_match_raid_tackle": 2.14,
+      "points_defence_offence": 120,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 120,
+      "career_best_points": 5,
+      "total_tackle_points": 70,
+      "tackle_success_rate": 39.1,
+      "raids": 145,
+      "success_raids": 40,
+      "unsuccess_raids": 29,
+      "empty_raid": 76,
+      "success_raid_percent": 34.48,
+      "green_cards": 3,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 11,
+      "success_tackles": 66,
+      "defence_touch_points": 70,
+      "defending_bonus_points": 4,
+      "raid_touch_points": 39,
+      "unsuccesful_tackles": 113,
+      "total_raid_points": 50,
+      "total_defending_points": 70,
+      "super_tackles": 4,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "1",
+      "player_team_arr": [
+        {
+          "team_id": 8,
+          "team_name": "Telugu Titans",
+          "team_short_name": "Hyderabad",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        },
+        {
+          "team_id": 8,
+          "team_name": "Telugu Titans",
+          "team_short_name": "Hyderabad",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        },
+        {
+          "team_id": 8,
+          "team_name": "Telugu Titans",
+          "team_short_name": "Hyderabad",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "bio_keys_translation": {
+      "player_id": "Player Id",
+      "full_name": "Full Name",
+      "player_short_name": "Player Short Name",
+      "position_id": "Position Id",
+      "position_name": "Position Name",
+      "height": "Height",
+      "weight": "Weight",
+      "date_of_birth": "Date Of Birth",
+      "jersey_no": "Jersey No",
+      "nationality": "Nationality",
+      "writeup": "Writeup",
+      "team_id": "Team Id",
+      "team_name": "Team Name",
+      "short_name": "Short Name",
+      "has_additional_details": "Has Additional Details",
+      "is_captain": "Is Captain"
+    },
+    "stats_keys_translation": {
+      "series_id": "Series Id",
+      "series_name": "Series Name",
+      "player_id": "Player Id",
+      "name": "Name",
+      "match_played": "Match Played",
+      "raid_points_per_match": "Raid Points Per Match",
+      "not_out_percentage": "Not Out Percentage",
+      "success_tackles_per_match": "Success Tackles Per Match",
+      "tackles": "Tackles",
+      "points_per_match_raid_tackle": "Points Per Match Raid Tackle",
+      "points_defence_offence": "Points Defence Offence",
+      "role": "Role",
+      "total_capture_points": "Total Capture Points",
+      "tackle_bonus_points": "Tackle Bonus Points",
+      "raid_map_locations": "Raid Map Locations",
+      "location": "Location",
+      "point": "Point",
+      "career_best_points": "Career Best Points",
+      "total_tackle_points": "Total Tackle Points",
+      "tackle_success_rate": "Tackle Success Rate",
+      "raids": "Raids",
+      "success_raids": "Success Raids",
+      "unsuccess_raids": "Unsuccess Raids",
+      "empty_raid": "Empty Raid",
+      "success_raid_percent": "Success Raid Percent",
+      "green_cards": "Green Cards",
+      "yellow_cards": "Yellow Cards",
+      "red_cards": "Red Cards",
+      "raid_bonus_points": "Raid Bonus Points",
+      "success_tackles": "Success Tackles",
+      "defence_touch_points": "Defence Touch Points",
+      "defending_bonus_points": "Defending Bonus Points",
+      "raid_touch_points": "Raid Touch Points",
+      "unsuccesful_tackles": "Unsuccesful Tackles",
+      "total_raid_points": "Total Raid Points",
+      "total_defending_points": "Total Defending Points",
+      "super_tackles": "Super Tackles",
+      "super_raids": "Super Raids",
+      "player_team": "Player Team",
+      "super_10s": "Super 10S",
+      "high_5s": "High 5S"
+    }
+  },
+  "last_5_matches": [
+    {
+      "match_id": 1756,
+      "match_name": "Telugu Titans VS Tamil Thalaivas, Match 72 (PKL 7)",
+      "for_team_id": 8,
+      "for_team_name": "Telugu Titans",
+      "against_team_id": 29,
+      "against_team_name": "Tamil Thalaivas",
+      "matchdate": "2019-09-02",
+      "matchdate_gmt": "2019-09-02",
+      "points": {
+        "total": 5,
+        "raid_points": {
+          "total": 3,
+          "touch": 3,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 2,
+          "capture": 2,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 8,
+        "super_raids": 0,
+        "successful": 3,
+        "unsuccessful": 0,
+        "empty": 5
+      },
+      "tackles": {
+        "total": 3,
+        "super_tackles": 0,
+        "successful": 2,
+        "unsuccessful": 1
+      }
+    },
+    {
+      "match_id": 1761,
+      "match_name": "Bengaluru Bulls VS Telugu Titans, Match 77 (PKL 7)",
+      "for_team_id": 8,
+      "for_team_name": "Telugu Titans",
+      "against_team_id": 1,
+      "against_team_name": "Bengaluru Bulls",
+      "matchdate": "2019-09-06",
+      "matchdate_gmt": "2019-09-06",
+      "points": {
+        "total": 2,
+        "raid_points": {
+          "total": 2,
+          "touch": 2,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 2,
+        "super_raids": 0,
+        "successful": 2,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 3,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 3
+      }
+    },
+    {
+      "match_id": 1771,
+      "match_name": "Telugu Titans VS U Mumba, Match 87 (PKL 7)",
+      "for_team_id": 8,
+      "for_team_name": "Telugu Titans",
+      "against_team_id": 5,
+      "against_team_name": "U Mumba",
+      "matchdate": "2019-09-10",
+      "matchdate_gmt": "2019-09-10",
+      "points": {
+        "total": 4,
+        "raid_points": {
+          "total": 3,
+          "touch": 1,
+          "raid_bonus": 2
+        },
+        "tackle_points": {
+          "total": 1,
+          "capture": 1,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 5,
+        "super_raids": 0,
+        "successful": 1,
+        "unsuccessful": 2,
+        "empty": 2
+      },
+      "tackles": {
+        "total": 3,
+        "super_tackles": 0,
+        "successful": 1,
+        "unsuccessful": 2
+      }
+    },
+    {
+      "match_id": 1778,
+      "match_name": "Telugu Titans VS Dabang Delhi K.C., Match 94 (PKL 7)",
+      "for_team_id": 8,
+      "for_team_name": "Telugu Titans",
+      "against_team_id": 2,
+      "against_team_name": "Dabang Delhi K.C.",
+      "matchdate": "2019-09-16",
+      "matchdate_gmt": "2019-09-16",
+      "points": {
+        "total": 4,
+        "raid_points": {
+          "total": 3,
+          "touch": 3,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 1,
+          "capture": 1,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 6,
+        "super_raids": 0,
+        "successful": 2,
+        "unsuccessful": 0,
+        "empty": 4
+      },
+      "tackles": {
+        "total": 2,
+        "super_tackles": 0,
+        "successful": 1,
+        "unsuccessful": 1
+      }
+    },
+    {
+      "match_id": 1782,
+      "match_name": "Telugu Titans VS Patna Pirates, Match 98 (PKL 7)",
+      "for_team_id": 8,
+      "for_team_name": "Telugu Titans",
+      "against_team_id": 6,
+      "against_team_name": "Patna Pirates",
+      "matchdate": "2019-09-20",
+      "matchdate_gmt": "2019-09-20",
+      "points": {
+        "total": 2,
+        "raid_points": {
+          "total": 2,
+          "touch": 2,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 1,
+        "super_raids": 0,
+        "successful": 1,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 3,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "squads": {
+    "series_id": "8",
+    "parent_series_id": "1",
+    "team_details": {
+      "team_id": 7,
+      "team_name": "Puneri Paltan",
+      "short_name": "Pune"
+    },
+    "squad": {
+      "players": [
+        {
+          "player_id": 41,
+          "full_name": "Deepak Hooda",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 5,
+          "is_captain": 1,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Deepak Niwas Hooda"
+        },
+        {
+          "player_id": 365,
+          "full_name": "Akshay Jadhav",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 2,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Akshay Jadhav"
+        },
+        {
+          "player_id": 772,
+          "full_name": "More G B",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 77,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "More G B"
+        },
+        {
+          "player_id": 85,
+          "full_name": "Rajesh Mondal",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 4,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Rajesh Mondal"
+        },
+        {
+          "player_id": 217,
+          "full_name": "Rohit Kumar Choudary",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 12,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Rohit Kumar Choudary"
+        },
+        {
+          "player_id": 771,
+          "full_name": "Suresh Kumar",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 44,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Suresh Kumar"
+        },
+        {
+          "player_id": 272,
+          "full_name": "Umesh Mhatre",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 7,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Umesh Mhatre"
+        },
+        {
+          "player_id": 240,
+          "full_name": "Ravi Kumar",
+          "position_id": 7,
+          "position_name": "Defender, right cover",
+          "jersey_no": 18,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Ravi Kumar"
+        },
+        {
+          "player_id": 797,
+          "full_name": "Vikash Khatri",
+          "position_id": 7,
+          "position_name": "Defender, right cover",
+          "jersey_no": 11,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Vikash Khatri"
+        },
+        {
+          "player_id": 42,
+          "full_name": "Dharmaraj Cheralathan",
+          "position_id": 10,
+          "position_name": "Defender, right and left corner",
+          "jersey_no": 1,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Dharmaraj Cheralathan"
+        },
+        {
+          "player_id": 536,
+          "full_name": "Ziaur Rahman",
+          "position_id": 4,
+          "position_name": "Defender, left cover",
+          "jersey_no": 3,
+          "is_captain": 0,
+          "country_id": 2,
+          "country_name": "Bangladesh",
+          "gender": "m",
+          "name": "Ziaur Rahman"
+        },
+        {
+          "player_id": 161,
+          "full_name": "Girish Maruti Ernak",
+          "position_id": 3,
+          "position_name": "Defender, left corner",
+          "jersey_no": 8,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Girish Maruti Ernak"
+        },
+        {
+          "player_id": 796,
+          "full_name": "Rinku Narwal",
+          "position_id": 3,
+          "position_name": "Defender, left corner",
+          "jersey_no": 6,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Rinku Narwal"
+        },
+        {
+          "player_id": 737,
+          "full_name": "Ajay",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 88,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Ajay"
+        },
+        {
+          "player_id": 795,
+          "full_name": "Monu",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 55,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Monu"
+        },
+        {
+          "player_id": 629,
+          "full_name": "Narender Hooda",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 9,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Narender Hooda"
+        },
+        {
+          "player_id": 142,
+          "full_name": "Sandeep Narwal",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 10,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Sandeep Narwal"
+        },
+        {
+          "player_id": 9,
+          "full_name": "Takamitsu Kono",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 15,
+          "is_captain": 0,
+          "country_id": 128,
+          "country_name": "Japan",
+          "gender": "m",
+          "name": "Takamitsu Kono"
+        }
+      ],
+      "staff_details": {
+        "member": [
+          {
+            "player_id": 812,
+            "full_name": "BC Ramesh",
+            "role_id": 6,
+            "role_name": "Coach",
+            "gender": "m",
+            "country_id": null,
+            "country_name": null
+          }
+        ]
+      }
+    }
+  },
+  "language_lookup": {
+    "team_id": "Team Id",
+    "team_name": "Team Name",
+    "short_name": "Short Name",
+    "player_id": "Player Id",
+    "full_name": "Full Name",
+    "position_id": "Position Id",
+    "position_name": "Position Name",
+    "jersey_no": "Jersey No",
+    "is_captain": "Is Captain",
+    "country_id": "Country Id",
+    "country_name": "Country Name",
+    "gender": "Gender",
+    "name": "Name",
+    "role_id": "Role Id",
+    "role_name": "Role Name"
+  }
+}

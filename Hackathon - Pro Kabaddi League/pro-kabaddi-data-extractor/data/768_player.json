@@ -1,0 +1,495 @@
+{
+  "bio": {
+    "player_id": 768,
+    "full_name": "Vijay Kumar",
+    "player_short_name": "Vijay Kumar",
+    "position_id": 6,
+    "position_name": "Defender, right corner",
+    "height": "6 ft 2 in ",
+    "weight": "",
+    "date_of_birth": "Mar  1 1994",
+    "jersey_no": 11,
+    "nationality": "India",
+    "writeup": "",
+    "team_id": 1,
+    "team_name": "Bengaluru Bulls",
+    "short_name": "Bengaluru",
+    "has_additional_details": false,
+    "is_captain": 0
+  },
+  "over_all_stats": [
+    {
+      "series_id": 8,
+      "series_name": "Pro Kabaddi League Season 5, 2017",
+      "player_id": 768,
+      "name": "Vijay Kumar",
+      "match_played": 8,
+      "raid_points_per_match": 0.12,
+      "not_out_percentage": 66.66,
+      "success_tackles_per_match": 0.37,
+      "tackles": 12,
+      "points_per_match_raid_tackle": 0.75,
+      "points_defence_offence": 6,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 6,
+      "career_best_points": 3,
+      "total_tackle_points": 5,
+      "tackle_success_rate": 41.66,
+      "raids": 3,
+      "success_raids": 0,
+      "unsuccess_raids": 1,
+      "empty_raid": 2,
+      "success_raid_percent": 33.33,
+      "green_cards": 1,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 1,
+      "success_tackles": 3,
+      "defence_touch_points": 5,
+      "defending_bonus_points": 2,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 9,
+      "total_raid_points": 1,
+      "total_defending_points": 5,
+      "super_tackles": 2,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 29,
+          "team_name": "Tamil Thalaivas",
+          "team_short_name": "Tamil Nadu",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 26,
+      "series_name": "Pro Kabaddi League Season 6, 2018",
+      "player_id": 768,
+      "name": "Vijay Kumar",
+      "match_played": 4,
+      "raid_points_per_match": 0.5,
+      "not_out_percentage": 100.0,
+      "success_tackles_per_match": 0.25,
+      "tackles": 11,
+      "points_per_match_raid_tackle": 0.75,
+      "points_defence_offence": 3,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 3,
+      "career_best_points": 2,
+      "total_tackle_points": 1,
+      "tackle_success_rate": 9.09,
+      "raids": 2,
+      "success_raids": 1,
+      "unsuccess_raids": 0,
+      "empty_raid": 1,
+      "success_raid_percent": 100.0,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 1,
+      "defence_touch_points": 1,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 2,
+      "unsuccesful_tackles": 10,
+      "total_raid_points": 2,
+      "total_defending_points": 1,
+      "super_tackles": 0,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 6,
+          "team_name": "Patna Pirates",
+          "team_short_name": "Patna",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 49,
+      "series_name": "Pro Kabaddi League Season 7, 2019",
+      "player_id": 768,
+      "name": "Vijay Kumar",
+      "match_played": 9,
+      "raid_points_per_match": 0.0,
+      "not_out_percentage": 100.0,
+      "success_tackles_per_match": 0.44,
+      "tackles": 16,
+      "points_per_match_raid_tackle": 0.55,
+      "points_defence_offence": 5,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 5,
+      "career_best_points": 3,
+      "total_tackle_points": 5,
+      "tackle_success_rate": 31.25,
+      "raids": 4,
+      "success_raids": 0,
+      "unsuccess_raids": 0,
+      "empty_raid": 4,
+      "success_raid_percent": 0.0,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 4,
+      "defence_touch_points": 5,
+      "defending_bonus_points": 1,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 12,
+      "total_raid_points": 0,
+      "total_defending_points": 5,
+      "super_tackles": 1,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 1,
+          "team_name": "Bengaluru Bulls",
+          "team_short_name": "Bengaluru",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 0,
+      "series_name": "",
+      "player_id": 768,
+      "name": "Vijay Kumar",
+      "match_played": 21,
+      "raid_points_per_match": 0.14,
+      "not_out_percentage": 88.88,
+      "success_tackles_per_match": 0.38,
+      "tackles": 39,
+      "points_per_match_raid_tackle": 0.66,
+      "points_defence_offence": 14,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 14,
+      "career_best_points": 3,
+      "total_tackle_points": 11,
+      "tackle_success_rate": 28.2,
+      "raids": 9,
+      "success_raids": 1,
+      "unsuccess_raids": 1,
+      "empty_raid": 7,
+      "success_raid_percent": 33.33,
+      "green_cards": 1,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 1,
+      "success_tackles": 8,
+      "defence_touch_points": 11,
+      "defending_bonus_points": 3,
+      "raid_touch_points": 2,
+      "unsuccesful_tackles": 31,
+      "total_raid_points": 3,
+      "total_defending_points": 11,
+      "super_tackles": 3,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 29,
+          "team_name": "Tamil Thalaivas",
+          "team_short_name": "Tamil Nadu",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        },
+        {
+          "team_id": 6,
+          "team_name": "Patna Pirates",
+          "team_short_name": "Patna",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        },
+        {
+          "team_id": 1,
+          "team_name": "Bengaluru Bulls",
+          "team_short_name": "Bengaluru",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "bio_keys_translation": {
+      "player_id": "Player Id",
+      "full_name": "Full Name",
+      "player_short_name": "Player Short Name",
+      "position_id": "Position Id",
+      "position_name": "Position Name",
+      "height": "Height",
+      "weight": "Weight",
+      "date_of_birth": "Date Of Birth",
+      "jersey_no": "Jersey No",
+      "nationality": "Nationality",
+      "writeup": "Writeup",
+      "team_id": "Team Id",
+      "team_name": "Team Name",
+      "short_name": "Short Name",
+      "has_additional_details": "Has Additional Details",
+      "is_captain": "Is Captain"
+    },
+    "stats_keys_translation": {
+      "series_id": "Series Id",
+      "series_name": "Series Name",
+      "player_id": "Player Id",
+      "name": "Name",
+      "match_played": "Match Played",
+      "raid_points_per_match": "Raid Points Per Match",
+      "not_out_percentage": "Not Out Percentage",
+      "success_tackles_per_match": "Success Tackles Per Match",
+      "tackles": "Tackles",
+      "points_per_match_raid_tackle": "Points Per Match Raid Tackle",
+      "points_defence_offence": "Points Defence Offence",
+      "role": "Role",
+      "total_capture_points": "Total Capture Points",
+      "tackle_bonus_points": "Tackle Bonus Points",
+      "raid_map_locations": "Raid Map Locations",
+      "location": "Location",
+      "point": "Point",
+      "career_best_points": "Career Best Points",
+      "total_tackle_points": "Total Tackle Points",
+      "tackle_success_rate": "Tackle Success Rate",
+      "raids": "Raids",
+      "success_raids": "Success Raids",
+      "unsuccess_raids": "Unsuccess Raids",
+      "empty_raid": "Empty Raid",
+      "success_raid_percent": "Success Raid Percent",
+      "green_cards": "Green Cards",
+      "yellow_cards": "Yellow Cards",
+      "red_cards": "Red Cards",
+      "raid_bonus_points": "Raid Bonus Points",
+      "success_tackles": "Success Tackles",
+      "defence_touch_points": "Defence Touch Points",
+      "defending_bonus_points": "Defending Bonus Points",
+      "raid_touch_points": "Raid Touch Points",
+      "unsuccesful_tackles": "Unsuccesful Tackles",
+      "total_raid_points": "Total Raid Points",
+      "total_defending_points": "Total Defending Points",
+      "super_tackles": "Super Tackles",
+      "super_raids": "Super Raids",
+      "player_team": "Player Team",
+      "super_10s": "Super 10S",
+      "high_5s": "High 5S"
+    }
+  },
+  "last_5_matches": [
+    {
+      "match_id": 1723,
+      "match_name": "U.P. Yoddha VS Bengaluru Bulls, Match 39 (PKL 7)",
+      "for_team_id": 1,
+      "for_team_name": "Bengaluru Bulls",
+      "against_team_id": 30,
+      "against_team_name": "U.P. Yoddha",
+      "matchdate": "2019-08-12",
+      "matchdate_gmt": "2019-08-12",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 0,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 0
+      }
+    },
+    {
+      "match_id": 1729,
+      "match_name": "Tamil Thalaivas VS Bengaluru Bulls, Match 45 (PKL 7)",
+      "for_team_id": 1,
+      "for_team_name": "Bengaluru Bulls",
+      "against_team_id": 29,
+      "against_team_name": "Tamil Thalaivas",
+      "matchdate": "2019-08-17",
+      "matchdate_gmt": "2019-08-17",
+      "points": {
+        "total": 1,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 1,
+          "capture": 1,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 2,
+        "super_tackles": 0,
+        "successful": 1,
+        "unsuccessful": 1
+      }
+    },
+    {
+      "match_id": 1735,
+      "match_name": "Puneri Paltan VS Bengaluru Bulls, Match 51 (PKL 7)",
+      "for_team_id": 1,
+      "for_team_name": "Bengaluru Bulls",
+      "against_team_id": 7,
+      "against_team_name": "Puneri Paltan",
+      "matchdate": "2019-08-21",
+      "matchdate_gmt": "2019-08-21",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 0,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 0
+      }
+    },
+    {
+      "match_id": 1740,
+      "match_name": "Dabang Delhi K.C. VS Bengaluru Bulls, Match 56 (PKL 7)",
+      "for_team_id": 1,
+      "for_team_name": "Bengaluru Bulls",
+      "against_team_id": 2,
+      "against_team_name": "Dabang Delhi K.C.",
+      "matchdate": "2019-08-24",
+      "matchdate_gmt": "2019-08-24",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 2,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 2
+      }
+    },
+    {
+      "match_id": 1761,
+      "match_name": "Bengaluru Bulls VS Telugu Titans, Match 77 (PKL 7)",
+      "for_team_id": 1,
+      "for_team_name": "Bengaluru Bulls",
+      "against_team_id": 8,
+      "against_team_name": "Telugu Titans",
+      "matchdate": "2019-09-06",
+      "matchdate_gmt": "2019-09-06",
+      "points": {
+        "total": 1,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 1,
+          "capture": 1,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 2,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 2
+      },
+      "tackles": {
+        "total": 4,
+        "super_tackles": 0,
+        "successful": 1,
+        "unsuccessful": 3
+      }
+    }
+  ]
+}

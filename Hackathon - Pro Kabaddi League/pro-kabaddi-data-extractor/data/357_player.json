@@ -1,0 +1,556 @@
+{
+  "bio": {
+    "player_id": 357,
+    "full_name": "Parvesh Bhainswal",
+    "player_short_name": "Parvesh Bhainswal",
+    "position_id": 4,
+    "position_name": "Defender, left cover",
+    "height": "5 ft 10 in ",
+    "weight": "74 kg",
+    "date_of_birth": "Dec  4 1997",
+    "jersey_no": 5,
+    "nationality": "India",
+    "writeup": "<p>He plays at left cover position and he made his debut in season 4 with Jaipur Pink Panthers and shifted to Gujarat Fortune Giants in season 5. He was the second leading tackle point scorer in season 6.</p>",
+    "team_id": 31,
+    "team_name": "Gujarat Fortunegiants",
+    "short_name": "Gujarat",
+    "has_additional_details": true,
+    "is_captain": 0
+  },
+  "over_all_stats": [
+    {
+      "series_id": 4,
+      "series_name": "Pro Kabaddi League Season 4, 2016",
+      "player_id": 357,
+      "name": "Parvesh Bhainswal",
+      "match_played": 7,
+      "raid_points_per_match": 0.0,
+      "not_out_percentage": 0.0,
+      "success_tackles_per_match": 0.42,
+      "tackles": 17,
+      "points_per_match_raid_tackle": 0.42,
+      "points_defence_offence": 3,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 3,
+      "career_best_points": 2,
+      "total_tackle_points": 3,
+      "tackle_success_rate": 17.64,
+      "raids": 0,
+      "success_raids": 0,
+      "unsuccess_raids": 0,
+      "empty_raid": 0,
+      "success_raid_percent": 0.0,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 3,
+      "defence_touch_points": 3,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 14,
+      "total_raid_points": 0,
+      "total_defending_points": 3,
+      "super_tackles": 0,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 3,
+          "team_name": "Jaipur Pink Panthers",
+          "team_short_name": "Jaipur",
+          "series_id": 4,
+          "series_name": "Pro Kabaddi League Season 4, 2016",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 8,
+      "series_name": "Pro Kabaddi League Season 5, 2017",
+      "player_id": 357,
+      "name": "Parvesh Bhainswal",
+      "match_played": 24,
+      "raid_points_per_match": 0.0,
+      "not_out_percentage": 0.0,
+      "success_tackles_per_match": 1.83,
+      "tackles": 89,
+      "points_per_match_raid_tackle": 2,
+      "points_defence_offence": 48,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 48,
+      "career_best_points": 5,
+      "total_tackle_points": 48,
+      "tackle_success_rate": 53.93,
+      "raids": 0,
+      "success_raids": 0,
+      "unsuccess_raids": 0,
+      "empty_raid": 0,
+      "success_raid_percent": 0.0,
+      "green_cards": 1,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 44,
+      "defence_touch_points": 48,
+      "defending_bonus_points": 4,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 45,
+      "total_raid_points": 0,
+      "total_defending_points": 48,
+      "super_tackles": 4,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "2",
+      "player_team_arr": [
+        {
+          "team_id": 31,
+          "team_name": "Gujarat Fortunegiants",
+          "team_short_name": "Gujarat",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 26,
+      "series_name": "Pro Kabaddi League Season 6, 2018",
+      "player_id": 357,
+      "name": "Parvesh Bhainswal",
+      "match_played": 25,
+      "raid_points_per_match": 0.0,
+      "not_out_percentage": 100.0,
+      "success_tackles_per_match": 3.28,
+      "tackles": 138,
+      "points_per_match_raid_tackle": 3.44,
+      "points_defence_offence": 86,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 86,
+      "career_best_points": 8,
+      "total_tackle_points": 86,
+      "tackle_success_rate": 62.31,
+      "raids": 1,
+      "success_raids": 0,
+      "unsuccess_raids": 0,
+      "empty_raid": 1,
+      "success_raid_percent": 0.0,
+      "green_cards": 3,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 82,
+      "defence_touch_points": 86,
+      "defending_bonus_points": 4,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 56,
+      "total_raid_points": 0,
+      "total_defending_points": 86,
+      "super_tackles": 4,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "5",
+      "player_team_arr": [
+        {
+          "team_id": 31,
+          "team_name": "Gujarat Fortunegiants",
+          "team_short_name": "Gujarat",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 49,
+      "series_name": "Pro Kabaddi League Season 7, 2019",
+      "player_id": 357,
+      "name": "Parvesh Bhainswal",
+      "match_played": 18,
+      "raid_points_per_match": 0.0,
+      "not_out_percentage": 0.0,
+      "success_tackles_per_match": 2.11,
+      "tackles": 76,
+      "points_per_match_raid_tackle": 2.22,
+      "points_defence_offence": 40,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 40,
+      "career_best_points": 7,
+      "total_tackle_points": 40,
+      "tackle_success_rate": 52.63,
+      "raids": 0,
+      "success_raids": 0,
+      "unsuccess_raids": 0,
+      "empty_raid": 0,
+      "success_raid_percent": 0.0,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 38,
+      "defence_touch_points": 40,
+      "defending_bonus_points": 2,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 38,
+      "total_raid_points": 0,
+      "total_defending_points": 40,
+      "super_tackles": 2,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "3",
+      "player_team_arr": [
+        {
+          "team_id": 31,
+          "team_name": "Gujarat Fortunegiants",
+          "team_short_name": "Gujarat",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 0,
+      "series_name": "",
+      "player_id": 357,
+      "name": "Parvesh Bhainswal",
+      "match_played": 74,
+      "raid_points_per_match": 0.0,
+      "not_out_percentage": 100.0,
+      "success_tackles_per_match": 2.25,
+      "tackles": 320,
+      "points_per_match_raid_tackle": 2.39,
+      "points_defence_offence": 177,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 177,
+      "career_best_points": 8,
+      "total_tackle_points": 177,
+      "tackle_success_rate": 55.31,
+      "raids": 1,
+      "success_raids": 0,
+      "unsuccess_raids": 0,
+      "empty_raid": 1,
+      "success_raid_percent": 0.0,
+      "green_cards": 4,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 167,
+      "defence_touch_points": 177,
+      "defending_bonus_points": 10,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 153,
+      "total_raid_points": 0,
+      "total_defending_points": 177,
+      "super_tackles": 10,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "10",
+      "player_team_arr": [
+        {
+          "team_id": 3,
+          "team_name": "Jaipur Pink Panthers",
+          "team_short_name": "Jaipur",
+          "series_id": 4,
+          "series_name": "Pro Kabaddi League Season 4, 2016",
+          "is_latest": true
+        },
+        {
+          "team_id": 31,
+          "team_name": "Gujarat Fortunegiants",
+          "team_short_name": "Gujarat",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        },
+        {
+          "team_id": 31,
+          "team_name": "Gujarat Fortunegiants",
+          "team_short_name": "Gujarat",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        },
+        {
+          "team_id": 31,
+          "team_name": "Gujarat Fortunegiants",
+          "team_short_name": "Gujarat",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "bio_keys_translation": {
+      "player_id": "Player Id",
+      "full_name": "Full Name",
+      "player_short_name": "Player Short Name",
+      "position_id": "Position Id",
+      "position_name": "Position Name",
+      "height": "Height",
+      "weight": "Weight",
+      "date_of_birth": "Date Of Birth",
+      "jersey_no": "Jersey No",
+      "nationality": "Nationality",
+      "writeup": "Writeup",
+      "team_id": "Team Id",
+      "team_name": "Team Name",
+      "short_name": "Short Name",
+      "has_additional_details": "Has Additional Details",
+      "is_captain": "Is Captain"
+    },
+    "stats_keys_translation": {
+      "series_id": "Series Id",
+      "series_name": "Series Name",
+      "player_id": "Player Id",
+      "name": "Name",
+      "match_played": "Match Played",
+      "raid_points_per_match": "Raid Points Per Match",
+      "not_out_percentage": "Not Out Percentage",
+      "success_tackles_per_match": "Success Tackles Per Match",
+      "tackles": "Tackles",
+      "points_per_match_raid_tackle": "Points Per Match Raid Tackle",
+      "points_defence_offence": "Points Defence Offence",
+      "role": "Role",
+      "total_capture_points": "Total Capture Points",
+      "tackle_bonus_points": "Tackle Bonus Points",
+      "raid_map_locations": "Raid Map Locations",
+      "location": "Location",
+      "point": "Point",
+      "career_best_points": "Career Best Points",
+      "total_tackle_points": "Total Tackle Points",
+      "tackle_success_rate": "Tackle Success Rate",
+      "raids": "Raids",
+      "success_raids": "Success Raids",
+      "unsuccess_raids": "Unsuccess Raids",
+      "empty_raid": "Empty Raid",
+      "success_raid_percent": "Success Raid Percent",
+      "green_cards": "Green Cards",
+      "yellow_cards": "Yellow Cards",
+      "red_cards": "Red Cards",
+      "raid_bonus_points": "Raid Bonus Points",
+      "success_tackles": "Success Tackles",
+      "defence_touch_points": "Defence Touch Points",
+      "defending_bonus_points": "Defending Bonus Points",
+      "raid_touch_points": "Raid Touch Points",
+      "unsuccesful_tackles": "Unsuccesful Tackles",
+      "total_raid_points": "Total Raid Points",
+      "total_defending_points": "Total Defending Points",
+      "super_tackles": "Super Tackles",
+      "super_raids": "Super Raids",
+      "player_team": "Player Team",
+      "super_10s": "Super 10S",
+      "high_5s": "High 5S"
+    }
+  },
+  "last_5_matches": [
+    {
+      "match_id": 1766,
+      "match_name": "U.P. Yoddha VS Gujarat Fortunegiants, Match 82 (PKL 7)",
+      "for_team_id": 31,
+      "for_team_name": "Gujarat Fortunegiants",
+      "against_team_id": 30,
+      "against_team_name": "U.P. Yoddha",
+      "matchdate": "2019-09-09",
+      "matchdate_gmt": "2019-09-09",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 3,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 3
+      }
+    },
+    {
+      "match_id": 1773,
+      "match_name": "Puneri Paltan VS Gujarat Fortunegiants, Match 89 (PKL 7)",
+      "for_team_id": 31,
+      "for_team_name": "Gujarat Fortunegiants",
+      "against_team_id": 7,
+      "against_team_name": "Puneri Paltan",
+      "matchdate": "2019-09-14",
+      "matchdate_gmt": "2019-09-14",
+      "points": {
+        "total": 3,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 3,
+          "capture": 3,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 7,
+        "super_tackles": 0,
+        "successful": 3,
+        "unsuccessful": 4
+      }
+    },
+    {
+      "match_id": 1775,
+      "match_name": "Dabang Delhi K.C. VS Gujarat Fortunegiants, Match 91 (PKL 7)",
+      "for_team_id": 31,
+      "for_team_name": "Gujarat Fortunegiants",
+      "against_team_id": 2,
+      "against_team_name": "Dabang Delhi K.C.",
+      "matchdate": "2019-09-15",
+      "matchdate_gmt": "2019-09-15",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 2,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 2
+      }
+    },
+    {
+      "match_id": 1784,
+      "match_name": "Jaipur Pink Panthers VS Gujarat Fortunegiants, Match 100 (PKL 7)",
+      "for_team_id": 31,
+      "for_team_name": "Gujarat Fortunegiants",
+      "against_team_id": 3,
+      "against_team_name": "Jaipur Pink Panthers",
+      "matchdate": "2019-09-21",
+      "matchdate_gmt": "2019-09-21",
+      "points": {
+        "total": 5,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 5,
+          "capture": 5,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 6,
+        "super_tackles": 0,
+        "successful": 5,
+        "unsuccessful": 1
+      }
+    },
+    {
+      "match_id": 1786,
+      "match_name": "U Mumba VS Gujarat Fortunegiants, Match 102 (PKL 7)",
+      "for_team_id": 31,
+      "for_team_name": "Gujarat Fortunegiants",
+      "against_team_id": 5,
+      "against_team_name": "U Mumba",
+      "matchdate": "2019-09-22",
+      "matchdate_gmt": "2019-09-22",
+      "points": {
+        "total": 1,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 1,
+          "capture": 1,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 2,
+        "super_tackles": 0,
+        "successful": 1,
+        "unsuccessful": 1
+      }
+    }
+  ]
+}

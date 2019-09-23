@@ -1,0 +1,495 @@
+{
+  "bio": {
+    "player_id": 735,
+    "full_name": "Vishal",
+    "player_short_name": "Vishal",
+    "position_id": 1,
+    "position_name": "All Rounder",
+    "height": "5 ft 6 in ",
+    "weight": "71 kg",
+    "date_of_birth": "Jun 15 1996",
+    "jersey_no": 3,
+    "nationality": "India",
+    "writeup": "",
+    "team_id": 3,
+    "team_name": "Jaipur Pink Panthers",
+    "short_name": "Jaipur",
+    "has_additional_details": false,
+    "is_captain": 0
+  },
+  "over_all_stats": [
+    {
+      "series_id": 8,
+      "series_name": "Pro Kabaddi League Season 5, 2017",
+      "player_id": 735,
+      "name": "Vishal",
+      "match_played": 5,
+      "raid_points_per_match": 0.4,
+      "not_out_percentage": 57.14,
+      "success_tackles_per_match": 1.2,
+      "tackles": 23,
+      "points_per_match_raid_tackle": 2.2,
+      "points_defence_offence": 11,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 11,
+      "career_best_points": 7,
+      "total_tackle_points": 9,
+      "tackle_success_rate": 39.13,
+      "raids": 7,
+      "success_raids": 1,
+      "unsuccess_raids": 3,
+      "empty_raid": 3,
+      "success_raid_percent": 28.57,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 1,
+      "success_tackles": 6,
+      "defence_touch_points": 9,
+      "defending_bonus_points": 3,
+      "raid_touch_points": 1,
+      "unsuccesful_tackles": 17,
+      "total_raid_points": 2,
+      "total_defending_points": 9,
+      "super_tackles": 3,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "1",
+      "player_team_arr": [
+        {
+          "team_id": 2,
+          "team_name": "Dabang Delhi K.C.",
+          "team_short_name": "Delhi",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 26,
+      "series_name": "Pro Kabaddi League Season 6, 2018",
+      "player_id": 735,
+      "name": "Vishal",
+      "match_played": 6,
+      "raid_points_per_match": 0.16,
+      "not_out_percentage": 100.0,
+      "success_tackles_per_match": 1.16,
+      "tackles": 26,
+      "points_per_match_raid_tackle": 1.66,
+      "points_defence_offence": 10,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 10,
+      "career_best_points": 3,
+      "total_tackle_points": 9,
+      "tackle_success_rate": 34.61,
+      "raids": 6,
+      "success_raids": 1,
+      "unsuccess_raids": 0,
+      "empty_raid": 5,
+      "success_raid_percent": 16.66,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 7,
+      "defence_touch_points": 9,
+      "defending_bonus_points": 2,
+      "raid_touch_points": 1,
+      "unsuccesful_tackles": 19,
+      "total_raid_points": 1,
+      "total_defending_points": 9,
+      "super_tackles": 2,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 2,
+          "team_name": "Dabang Delhi K.C.",
+          "team_short_name": "Delhi",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 49,
+      "series_name": "Pro Kabaddi League Season 7, 2019",
+      "player_id": 735,
+      "name": "Vishal",
+      "match_played": 12,
+      "raid_points_per_match": 0.0,
+      "not_out_percentage": 100.0,
+      "success_tackles_per_match": 2.58,
+      "tackles": 63,
+      "points_per_match_raid_tackle": 3.16,
+      "points_defence_offence": 38,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 38,
+      "career_best_points": 9,
+      "total_tackle_points": 38,
+      "tackle_success_rate": 60.31,
+      "raids": 1,
+      "success_raids": 0,
+      "unsuccess_raids": 0,
+      "empty_raid": 1,
+      "success_raid_percent": 0.0,
+      "green_cards": 1,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 31,
+      "defence_touch_points": 38,
+      "defending_bonus_points": 7,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 32,
+      "total_raid_points": 0,
+      "total_defending_points": 38,
+      "super_tackles": 7,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "1",
+      "player_team_arr": [
+        {
+          "team_id": 3,
+          "team_name": "Jaipur Pink Panthers",
+          "team_short_name": "Jaipur",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 0,
+      "series_name": "",
+      "player_id": 735,
+      "name": "Vishal",
+      "match_played": 23,
+      "raid_points_per_match": 0.13,
+      "not_out_percentage": 78.57,
+      "success_tackles_per_match": 1.91,
+      "tackles": 112,
+      "points_per_match_raid_tackle": 2.56,
+      "points_defence_offence": 59,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 59,
+      "career_best_points": 9,
+      "total_tackle_points": 56,
+      "tackle_success_rate": 50.0,
+      "raids": 14,
+      "success_raids": 2,
+      "unsuccess_raids": 3,
+      "empty_raid": 9,
+      "success_raid_percent": 21.42,
+      "green_cards": 1,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 1,
+      "success_tackles": 44,
+      "defence_touch_points": 56,
+      "defending_bonus_points": 12,
+      "raid_touch_points": 2,
+      "unsuccesful_tackles": 68,
+      "total_raid_points": 3,
+      "total_defending_points": 56,
+      "super_tackles": 12,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "2",
+      "player_team_arr": [
+        {
+          "team_id": 2,
+          "team_name": "Dabang Delhi K.C.",
+          "team_short_name": "Delhi",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        },
+        {
+          "team_id": 2,
+          "team_name": "Dabang Delhi K.C.",
+          "team_short_name": "Delhi",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        },
+        {
+          "team_id": 3,
+          "team_name": "Jaipur Pink Panthers",
+          "team_short_name": "Jaipur",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "bio_keys_translation": {
+      "player_id": "Player Id",
+      "full_name": "Full Name",
+      "player_short_name": "Player Short Name",
+      "position_id": "Position Id",
+      "position_name": "Position Name",
+      "height": "Height",
+      "weight": "Weight",
+      "date_of_birth": "Date Of Birth",
+      "jersey_no": "Jersey No",
+      "nationality": "Nationality",
+      "writeup": "Writeup",
+      "team_id": "Team Id",
+      "team_name": "Team Name",
+      "short_name": "Short Name",
+      "has_additional_details": "Has Additional Details",
+      "is_captain": "Is Captain"
+    },
+    "stats_keys_translation": {
+      "series_id": "Series Id",
+      "series_name": "Series Name",
+      "player_id": "Player Id",
+      "name": "Name",
+      "match_played": "Match Played",
+      "raid_points_per_match": "Raid Points Per Match",
+      "not_out_percentage": "Not Out Percentage",
+      "success_tackles_per_match": "Success Tackles Per Match",
+      "tackles": "Tackles",
+      "points_per_match_raid_tackle": "Points Per Match Raid Tackle",
+      "points_defence_offence": "Points Defence Offence",
+      "role": "Role",
+      "total_capture_points": "Total Capture Points",
+      "tackle_bonus_points": "Tackle Bonus Points",
+      "raid_map_locations": "Raid Map Locations",
+      "location": "Location",
+      "point": "Point",
+      "career_best_points": "Career Best Points",
+      "total_tackle_points": "Total Tackle Points",
+      "tackle_success_rate": "Tackle Success Rate",
+      "raids": "Raids",
+      "success_raids": "Success Raids",
+      "unsuccess_raids": "Unsuccess Raids",
+      "empty_raid": "Empty Raid",
+      "success_raid_percent": "Success Raid Percent",
+      "green_cards": "Green Cards",
+      "yellow_cards": "Yellow Cards",
+      "red_cards": "Red Cards",
+      "raid_bonus_points": "Raid Bonus Points",
+      "success_tackles": "Success Tackles",
+      "defence_touch_points": "Defence Touch Points",
+      "defending_bonus_points": "Defending Bonus Points",
+      "raid_touch_points": "Raid Touch Points",
+      "unsuccesful_tackles": "Unsuccesful Tackles",
+      "total_raid_points": "Total Raid Points",
+      "total_defending_points": "Total Defending Points",
+      "super_tackles": "Super Tackles",
+      "super_raids": "Super Raids",
+      "player_team": "Player Team",
+      "super_10s": "Super 10S",
+      "high_5s": "High 5S"
+    }
+  },
+  "last_5_matches": [
+    {
+      "match_id": 1734,
+      "match_name": "U.P. Yoddha VS Jaipur Pink Panthers, Match 50 (PKL 7)",
+      "for_team_id": 3,
+      "for_team_name": "Jaipur Pink Panthers",
+      "against_team_id": 30,
+      "against_team_name": "U.P. Yoddha",
+      "matchdate": "2019-08-19",
+      "matchdate_gmt": "2019-08-19",
+      "points": {
+        "total": 4,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 4,
+          "capture": 4,
+          "capture_bonus": 2
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 5,
+        "super_tackles": 2,
+        "successful": 2,
+        "unsuccessful": 3
+      }
+    },
+    {
+      "match_id": 1736,
+      "match_name": "Tamil Thalaivas VS Jaipur Pink Panthers, Match 52 (PKL 7)",
+      "for_team_id": 3,
+      "for_team_name": "Jaipur Pink Panthers",
+      "against_team_id": 29,
+      "against_team_name": "Tamil Thalaivas",
+      "matchdate": "2019-08-21",
+      "matchdate_gmt": "2019-08-21",
+      "points": {
+        "total": 4,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 4,
+          "capture": 4,
+          "capture_bonus": 1
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 7,
+        "super_tackles": 1,
+        "successful": 3,
+        "unsuccessful": 4
+      }
+    },
+    {
+      "match_id": 1777,
+      "match_name": "Jaipur Pink Panthers VS U.P. Yoddha, Match 93 (PKL 7)",
+      "for_team_id": 3,
+      "for_team_name": "Jaipur Pink Panthers",
+      "against_team_id": 30,
+      "against_team_name": "U.P. Yoddha",
+      "matchdate": "2019-09-16",
+      "matchdate_gmt": "2019-09-16",
+      "points": {
+        "total": 3,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 3,
+          "capture": 3,
+          "capture_bonus": 1
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 7,
+        "super_tackles": 1,
+        "successful": 2,
+        "unsuccessful": 5
+      }
+    },
+    {
+      "match_id": 1784,
+      "match_name": "Jaipur Pink Panthers VS Gujarat Fortunegiants, Match 100 (PKL 7)",
+      "for_team_id": 3,
+      "for_team_name": "Jaipur Pink Panthers",
+      "against_team_id": 31,
+      "against_team_name": "Gujarat Fortunegiants",
+      "matchdate": "2019-09-21",
+      "matchdate_gmt": "2019-09-21",
+      "points": {
+        "total": 9,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 9,
+          "capture": 9,
+          "capture_bonus": 3
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 7,
+        "super_tackles": 3,
+        "successful": 6,
+        "unsuccessful": 1
+      }
+    },
+    {
+      "match_id": 1787,
+      "match_name": "Jaipur Pink Panthers VS Bengal Warriors, Match 103 (PKL 7)",
+      "for_team_id": 3,
+      "for_team_name": "Jaipur Pink Panthers",
+      "against_team_id": 4,
+      "against_team_name": "Bengal Warriors",
+      "matchdate": "2019-09-22",
+      "matchdate_gmt": "2019-09-22",
+      "points": {
+        "total": 2,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 2,
+          "capture": 2,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 7,
+        "super_tackles": 0,
+        "successful": 2,
+        "unsuccessful": 5
+      }
+    }
+  ]
+}

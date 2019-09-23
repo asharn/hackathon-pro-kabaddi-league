@@ -1,0 +1,495 @@
+{
+  "bio": {
+    "player_id": 764,
+    "full_name": "Vinod Kumar",
+    "player_short_name": "Vinod Kumar",
+    "position_id": 1,
+    "position_name": "All Rounder",
+    "height": "5 ft 11 in ",
+    "weight": "84 kg",
+    "date_of_birth": "May 26 1985",
+    "jersey_no": 3,
+    "nationality": "India",
+    "writeup": "<p>A handy all-rounder who made a debut for Patna Pirates in Season 5 and played for U Mumba in season 6. He is the most experienced player in the Gujarat Fortune Giants.&nbsp;</p>",
+    "team_id": 31,
+    "team_name": "Gujarat Fortunegiants",
+    "short_name": "Gujarat",
+    "has_additional_details": false,
+    "is_captain": 0
+  },
+  "over_all_stats": [
+    {
+      "series_id": 8,
+      "series_name": "Pro Kabaddi League Season 5, 2017",
+      "player_id": 764,
+      "name": "Vinod Kumar",
+      "match_played": 21,
+      "raid_points_per_match": 1.61,
+      "not_out_percentage": 72.0,
+      "success_tackles_per_match": 0.42,
+      "tackles": 21,
+      "points_per_match_raid_tackle": 2.28,
+      "points_defence_offence": 48,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 48,
+      "career_best_points": 8,
+      "total_tackle_points": 14,
+      "tackle_success_rate": 66.66,
+      "raids": 75,
+      "success_raids": 20,
+      "unsuccess_raids": 21,
+      "empty_raid": 34,
+      "success_raid_percent": 45.33,
+      "green_cards": 1,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 13,
+      "success_tackles": 9,
+      "defence_touch_points": 14,
+      "defending_bonus_points": 5,
+      "raid_touch_points": 21,
+      "unsuccesful_tackles": 12,
+      "total_raid_points": 34,
+      "total_defending_points": 14,
+      "super_tackles": 5,
+      "super_raids": 2,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 6,
+          "team_name": "Patna Pirates",
+          "team_short_name": "Patna",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 26,
+      "series_name": "Pro Kabaddi League Season 6, 2018",
+      "player_id": 764,
+      "name": "Vinod Kumar",
+      "match_played": 17,
+      "raid_points_per_match": 1.29,
+      "not_out_percentage": 83.82,
+      "success_tackles_per_match": 1.47,
+      "tackles": 43,
+      "points_per_match_raid_tackle": 3,
+      "points_defence_offence": 51,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 51,
+      "career_best_points": 7,
+      "total_tackle_points": 29,
+      "tackle_success_rate": 67.44,
+      "raids": 68,
+      "success_raids": 15,
+      "unsuccess_raids": 11,
+      "empty_raid": 42,
+      "success_raid_percent": 32.35,
+      "green_cards": 1,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 10,
+      "success_tackles": 25,
+      "defence_touch_points": 29,
+      "defending_bonus_points": 4,
+      "raid_touch_points": 12,
+      "unsuccesful_tackles": 18,
+      "total_raid_points": 22,
+      "total_defending_points": 29,
+      "super_tackles": 4,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "2",
+      "player_team_arr": [
+        {
+          "team_id": 5,
+          "team_name": "U Mumba",
+          "team_short_name": "Mumbai",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 49,
+      "series_name": "Pro Kabaddi League Season 7, 2019",
+      "player_id": 764,
+      "name": "Vinod Kumar",
+      "match_played": 7,
+      "raid_points_per_match": 0.85,
+      "not_out_percentage": 68.18,
+      "success_tackles_per_match": 0.14,
+      "tackles": 4,
+      "points_per_match_raid_tackle": 1,
+      "points_defence_offence": 7,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 7,
+      "career_best_points": 3,
+      "total_tackle_points": 1,
+      "tackle_success_rate": 25.0,
+      "raids": 22,
+      "success_raids": 6,
+      "unsuccess_raids": 7,
+      "empty_raid": 9,
+      "success_raid_percent": 27.27,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 1,
+      "success_tackles": 1,
+      "defence_touch_points": 1,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 5,
+      "unsuccesful_tackles": 3,
+      "total_raid_points": 6,
+      "total_defending_points": 1,
+      "super_tackles": 0,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 31,
+          "team_name": "Gujarat Fortunegiants",
+          "team_short_name": "Gujarat",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 0,
+      "series_name": "",
+      "player_id": 764,
+      "name": "Vinod Kumar",
+      "match_played": 45,
+      "raid_points_per_match": 1.37,
+      "not_out_percentage": 76.36,
+      "success_tackles_per_match": 0.77,
+      "tackles": 68,
+      "points_per_match_raid_tackle": 2.35,
+      "points_defence_offence": 106,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 106,
+      "career_best_points": 8,
+      "total_tackle_points": 44,
+      "tackle_success_rate": 64.7,
+      "raids": 165,
+      "success_raids": 41,
+      "unsuccess_raids": 39,
+      "empty_raid": 85,
+      "success_raid_percent": 37.57,
+      "green_cards": 2,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 24,
+      "success_tackles": 35,
+      "defence_touch_points": 44,
+      "defending_bonus_points": 9,
+      "raid_touch_points": 38,
+      "unsuccesful_tackles": 33,
+      "total_raid_points": 62,
+      "total_defending_points": 44,
+      "super_tackles": 9,
+      "super_raids": 2,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "2",
+      "player_team_arr": [
+        {
+          "team_id": 6,
+          "team_name": "Patna Pirates",
+          "team_short_name": "Patna",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        },
+        {
+          "team_id": 5,
+          "team_name": "U Mumba",
+          "team_short_name": "Mumbai",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        },
+        {
+          "team_id": 31,
+          "team_name": "Gujarat Fortunegiants",
+          "team_short_name": "Gujarat",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "bio_keys_translation": {
+      "player_id": "Player Id",
+      "full_name": "Full Name",
+      "player_short_name": "Player Short Name",
+      "position_id": "Position Id",
+      "position_name": "Position Name",
+      "height": "Height",
+      "weight": "Weight",
+      "date_of_birth": "Date Of Birth",
+      "jersey_no": "Jersey No",
+      "nationality": "Nationality",
+      "writeup": "Writeup",
+      "team_id": "Team Id",
+      "team_name": "Team Name",
+      "short_name": "Short Name",
+      "has_additional_details": "Has Additional Details",
+      "is_captain": "Is Captain"
+    },
+    "stats_keys_translation": {
+      "series_id": "Series Id",
+      "series_name": "Series Name",
+      "player_id": "Player Id",
+      "name": "Name",
+      "match_played": "Match Played",
+      "raid_points_per_match": "Raid Points Per Match",
+      "not_out_percentage": "Not Out Percentage",
+      "success_tackles_per_match": "Success Tackles Per Match",
+      "tackles": "Tackles",
+      "points_per_match_raid_tackle": "Points Per Match Raid Tackle",
+      "points_defence_offence": "Points Defence Offence",
+      "role": "Role",
+      "total_capture_points": "Total Capture Points",
+      "tackle_bonus_points": "Tackle Bonus Points",
+      "raid_map_locations": "Raid Map Locations",
+      "location": "Location",
+      "point": "Point",
+      "career_best_points": "Career Best Points",
+      "total_tackle_points": "Total Tackle Points",
+      "tackle_success_rate": "Tackle Success Rate",
+      "raids": "Raids",
+      "success_raids": "Success Raids",
+      "unsuccess_raids": "Unsuccess Raids",
+      "empty_raid": "Empty Raid",
+      "success_raid_percent": "Success Raid Percent",
+      "green_cards": "Green Cards",
+      "yellow_cards": "Yellow Cards",
+      "red_cards": "Red Cards",
+      "raid_bonus_points": "Raid Bonus Points",
+      "success_tackles": "Success Tackles",
+      "defence_touch_points": "Defence Touch Points",
+      "defending_bonus_points": "Defending Bonus Points",
+      "raid_touch_points": "Raid Touch Points",
+      "unsuccesful_tackles": "Unsuccesful Tackles",
+      "total_raid_points": "Total Raid Points",
+      "total_defending_points": "Total Defending Points",
+      "super_tackles": "Super Tackles",
+      "super_raids": "Super Raids",
+      "player_team": "Player Team",
+      "super_10s": "Super 10S",
+      "high_5s": "High 5S"
+    }
+  },
+  "last_5_matches": [
+    {
+      "match_id": 1706,
+      "match_name": "U Mumba VS Gujarat Fortunegiants, Match 22 (PKL 7)",
+      "for_team_id": 31,
+      "for_team_name": "Gujarat Fortunegiants",
+      "against_team_id": 5,
+      "against_team_name": "U Mumba",
+      "matchdate": "2019-08-02",
+      "matchdate_gmt": "2019-08-02",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 7,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 1,
+        "empty": 6
+      },
+      "tackles": {
+        "total": 0,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 0
+      }
+    },
+    {
+      "match_id": 1725,
+      "match_name": "Gujarat Fortunegiants VS Bengal Warriors, Match 41 (PKL 7)",
+      "for_team_id": 31,
+      "for_team_name": "Gujarat Fortunegiants",
+      "against_team_id": 4,
+      "against_team_name": "Bengal Warriors",
+      "matchdate": "2019-08-14",
+      "matchdate_gmt": "2019-08-14",
+      "points": {
+        "total": 2,
+        "raid_points": {
+          "total": 2,
+          "touch": 2,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 5,
+        "super_raids": 0,
+        "successful": 2,
+        "unsuccessful": 1,
+        "empty": 2
+      },
+      "tackles": {
+        "total": 1,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 1
+      }
+    },
+    {
+      "match_id": 1746,
+      "match_name": "Gujarat Fortunegiants VS Haryana Steelers, Match 62 (PKL 7)",
+      "for_team_id": 31,
+      "for_team_name": "Gujarat Fortunegiants",
+      "against_team_id": 28,
+      "against_team_name": "Haryana Steelers",
+      "matchdate": "2019-08-28",
+      "matchdate_gmt": "2019-08-28",
+      "points": {
+        "total": 3,
+        "raid_points": {
+          "total": 3,
+          "touch": 3,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 6,
+        "super_raids": 0,
+        "successful": 3,
+        "unsuccessful": 3,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 0,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 0
+      }
+    },
+    {
+      "match_id": 1775,
+      "match_name": "Dabang Delhi K.C. VS Gujarat Fortunegiants, Match 91 (PKL 7)",
+      "for_team_id": 31,
+      "for_team_name": "Gujarat Fortunegiants",
+      "against_team_id": 2,
+      "against_team_name": "Dabang Delhi K.C.",
+      "matchdate": "2019-09-15",
+      "matchdate_gmt": "2019-09-15",
+      "points": {
+        "total": 2,
+        "raid_points": {
+          "total": 1,
+          "touch": 0,
+          "raid_bonus": 1
+        },
+        "tackle_points": {
+          "total": 1,
+          "capture": 1,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 2,
+        "super_raids": 0,
+        "successful": 1,
+        "unsuccessful": 1,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 3,
+        "super_tackles": 0,
+        "successful": 1,
+        "unsuccessful": 2
+      }
+    },
+    {
+      "match_id": 1786,
+      "match_name": "U Mumba VS Gujarat Fortunegiants, Match 102 (PKL 7)",
+      "for_team_id": 31,
+      "for_team_name": "Gujarat Fortunegiants",
+      "against_team_id": 5,
+      "against_team_name": "U Mumba",
+      "matchdate": "2019-09-22",
+      "matchdate_gmt": "2019-09-22",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 1,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 1
+      },
+      "tackles": {
+        "total": 0,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 0
+      }
+    }
+  ]
+}

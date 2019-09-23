@@ -1,0 +1,434 @@
+{
+  "bio": {
+    "player_id": 214,
+    "full_name": "Amit Kumar",
+    "player_short_name": "Amit Kumar",
+    "position_id": 8,
+    "position_name": "Raider",
+    "height": "5 ft 11 in ",
+    "weight": "80 kg",
+    "date_of_birth": "Mar  7 1990",
+    "jersey_no": 77,
+    "nationality": "India",
+    "writeup": "",
+    "team_id": 8,
+    "team_name": "Telugu Titans",
+    "short_name": "Hyderabad",
+    "has_additional_details": false,
+    "is_captain": 0
+  },
+  "over_all_stats": [
+    {
+      "series_id": 26,
+      "series_name": "Pro Kabaddi League Season 6, 2018",
+      "player_id": 214,
+      "name": "Amit Kumar",
+      "match_played": 2,
+      "raid_points_per_match": 0.5,
+      "not_out_percentage": 85.71,
+      "success_tackles_per_match": 1.5,
+      "tackles": 8,
+      "points_per_match_raid_tackle": 2,
+      "points_defence_offence": 4,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 4,
+      "career_best_points": 3,
+      "total_tackle_points": 3,
+      "tackle_success_rate": 37.5,
+      "raids": 7,
+      "success_raids": 1,
+      "unsuccess_raids": 1,
+      "empty_raid": 5,
+      "success_raid_percent": 14.28,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 3,
+      "defence_touch_points": 3,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 1,
+      "unsuccesful_tackles": 5,
+      "total_raid_points": 1,
+      "total_defending_points": 3,
+      "super_tackles": 0,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 4,
+          "team_name": "Bengal Warriors",
+          "team_short_name": "Bengal",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 49,
+      "series_name": "Pro Kabaddi League Season 7, 2019",
+      "player_id": 214,
+      "name": "Amit Kumar",
+      "match_played": 9,
+      "raid_points_per_match": 0.33,
+      "not_out_percentage": 93.61,
+      "success_tackles_per_match": 0.88,
+      "tackles": 21,
+      "points_per_match_raid_tackle": 1.44,
+      "points_defence_offence": 13,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 13,
+      "career_best_points": 3,
+      "total_tackle_points": 10,
+      "tackle_success_rate": 47.61,
+      "raids": 47,
+      "success_raids": 2,
+      "unsuccess_raids": 3,
+      "empty_raid": 42,
+      "success_raid_percent": 6.38,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 1,
+      "success_tackles": 8,
+      "defence_touch_points": 10,
+      "defending_bonus_points": 2,
+      "raid_touch_points": 2,
+      "unsuccesful_tackles": 13,
+      "total_raid_points": 3,
+      "total_defending_points": 10,
+      "super_tackles": 2,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 8,
+          "team_name": "Telugu Titans",
+          "team_short_name": "Hyderabad",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 0,
+      "series_name": "",
+      "player_id": 214,
+      "name": "Amit Kumar",
+      "match_played": 11,
+      "raid_points_per_match": 0.36,
+      "not_out_percentage": 92.59,
+      "success_tackles_per_match": 1,
+      "tackles": 29,
+      "points_per_match_raid_tackle": 1.54,
+      "points_defence_offence": 17,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 17,
+      "career_best_points": 3,
+      "total_tackle_points": 13,
+      "tackle_success_rate": 44.82,
+      "raids": 54,
+      "success_raids": 3,
+      "unsuccess_raids": 4,
+      "empty_raid": 47,
+      "success_raid_percent": 7.4,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 1,
+      "success_tackles": 11,
+      "defence_touch_points": 13,
+      "defending_bonus_points": 2,
+      "raid_touch_points": 3,
+      "unsuccesful_tackles": 18,
+      "total_raid_points": 4,
+      "total_defending_points": 13,
+      "super_tackles": 2,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 4,
+          "team_name": "Bengal Warriors",
+          "team_short_name": "Bengal",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        },
+        {
+          "team_id": 8,
+          "team_name": "Telugu Titans",
+          "team_short_name": "Hyderabad",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "bio_keys_translation": {
+      "player_id": "Player Id",
+      "full_name": "Full Name",
+      "player_short_name": "Player Short Name",
+      "position_id": "Position Id",
+      "position_name": "Position Name",
+      "height": "Height",
+      "weight": "Weight",
+      "date_of_birth": "Date Of Birth",
+      "jersey_no": "Jersey No",
+      "nationality": "Nationality",
+      "writeup": "Writeup",
+      "team_id": "Team Id",
+      "team_name": "Team Name",
+      "short_name": "Short Name",
+      "has_additional_details": "Has Additional Details",
+      "is_captain": "Is Captain"
+    },
+    "stats_keys_translation": {
+      "series_id": "Series Id",
+      "series_name": "Series Name",
+      "player_id": "Player Id",
+      "name": "Name",
+      "match_played": "Match Played",
+      "raid_points_per_match": "Raid Points Per Match",
+      "not_out_percentage": "Not Out Percentage",
+      "success_tackles_per_match": "Success Tackles Per Match",
+      "tackles": "Tackles",
+      "points_per_match_raid_tackle": "Points Per Match Raid Tackle",
+      "points_defence_offence": "Points Defence Offence",
+      "role": "Role",
+      "total_capture_points": "Total Capture Points",
+      "tackle_bonus_points": "Tackle Bonus Points",
+      "raid_map_locations": "Raid Map Locations",
+      "location": "Location",
+      "point": "Point",
+      "career_best_points": "Career Best Points",
+      "total_tackle_points": "Total Tackle Points",
+      "tackle_success_rate": "Tackle Success Rate",
+      "raids": "Raids",
+      "success_raids": "Success Raids",
+      "unsuccess_raids": "Unsuccess Raids",
+      "empty_raid": "Empty Raid",
+      "success_raid_percent": "Success Raid Percent",
+      "green_cards": "Green Cards",
+      "yellow_cards": "Yellow Cards",
+      "red_cards": "Red Cards",
+      "raid_bonus_points": "Raid Bonus Points",
+      "success_tackles": "Success Tackles",
+      "defence_touch_points": "Defence Touch Points",
+      "defending_bonus_points": "Defending Bonus Points",
+      "raid_touch_points": "Raid Touch Points",
+      "unsuccesful_tackles": "Unsuccesful Tackles",
+      "total_raid_points": "Total Raid Points",
+      "total_defending_points": "Total Defending Points",
+      "super_tackles": "Super Tackles",
+      "super_raids": "Super Raids",
+      "player_team": "Player Team",
+      "super_10s": "Super 10S",
+      "high_5s": "High 5S"
+    }
+  },
+  "last_5_matches": [
+    {
+      "match_id": 1722,
+      "match_name": "Bengal Warriors VS Telugu Titans, Match 38 (PKL 7)",
+      "for_team_id": 8,
+      "for_team_name": "Telugu Titans",
+      "against_team_id": 4,
+      "against_team_name": "Bengal Warriors",
+      "matchdate": "2019-08-12",
+      "matchdate_gmt": "2019-08-12",
+      "points": {
+        "total": 2,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 2,
+          "capture": 2,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 3,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 3
+      },
+      "tackles": {
+        "total": 3,
+        "super_tackles": 0,
+        "successful": 2,
+        "unsuccessful": 1
+      }
+    },
+    {
+      "match_id": 1731,
+      "match_name": "Haryana Steelers VS Telugu Titans, Match 47 (PKL 7)",
+      "for_team_id": 8,
+      "for_team_name": "Telugu Titans",
+      "against_team_id": 28,
+      "against_team_name": "Haryana Steelers",
+      "matchdate": "2019-08-18",
+      "matchdate_gmt": "2019-08-18",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 8,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 8
+      },
+      "tackles": {
+        "total": 3,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 3
+      }
+    },
+    {
+      "match_id": 1741,
+      "match_name": "Jaipur Pink Panthers VS Telugu Titans, Match 57 (PKL 7)",
+      "for_team_id": 8,
+      "for_team_name": "Telugu Titans",
+      "against_team_id": 3,
+      "against_team_name": "Jaipur Pink Panthers",
+      "matchdate": "2019-08-24",
+      "matchdate_gmt": "2019-08-24",
+      "points": {
+        "total": 1,
+        "raid_points": {
+          "total": 1,
+          "touch": 1,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 6,
+        "super_raids": 0,
+        "successful": 1,
+        "unsuccessful": 0,
+        "empty": 5
+      },
+      "tackles": {
+        "total": 1,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 1
+      }
+    },
+    {
+      "match_id": 1749,
+      "match_name": "Telugu Titans VS Puneri Paltan, Match 65 (PKL 7)",
+      "for_team_id": 8,
+      "for_team_name": "Telugu Titans",
+      "against_team_id": 7,
+      "against_team_name": "Puneri Paltan",
+      "matchdate": "2019-08-30",
+      "matchdate_gmt": "2019-08-30",
+      "points": {
+        "total": 2,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 2,
+          "capture": 2,
+          "capture_bonus": 1
+        }
+      },
+      "raids": {
+        "total": 8,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 1,
+        "empty": 7
+      },
+      "tackles": {
+        "total": 2,
+        "super_tackles": 1,
+        "successful": 1,
+        "unsuccessful": 1
+      }
+    },
+    {
+      "match_id": 1771,
+      "match_name": "Telugu Titans VS U Mumba, Match 87 (PKL 7)",
+      "for_team_id": 8,
+      "for_team_name": "Telugu Titans",
+      "against_team_id": 5,
+      "against_team_name": "U Mumba",
+      "matchdate": "2019-09-10",
+      "matchdate_gmt": "2019-09-10",
+      "points": {
+        "total": 1,
+        "raid_points": {
+          "total": 1,
+          "touch": 0,
+          "raid_bonus": 1
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 2,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 1,
+        "empty": 1
+      },
+      "tackles": {
+        "total": 0,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 0
+      }
+    }
+  ]
+}

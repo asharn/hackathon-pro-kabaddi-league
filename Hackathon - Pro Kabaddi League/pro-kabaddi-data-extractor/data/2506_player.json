@@ -1,0 +1,373 @@
+{
+  "bio": {
+    "player_id": 2506,
+    "full_name": "M. Abishek",
+    "player_short_name": "M. Abishek",
+    "position_id": 7,
+    "position_name": "Defender, right cover",
+    "height": "5 ft 6 in ",
+    "weight": "76.8 kg",
+    "date_of_birth": "Jan  8 2001",
+    "jersey_no": 66,
+    "nationality": "India",
+    "writeup": "",
+    "team_id": 29,
+    "team_name": "Tamil Thalaivas",
+    "short_name": "Tamil Nadu",
+    "has_additional_details": false,
+    "is_captain": 0
+  },
+  "over_all_stats": [
+    {
+      "series_id": 49,
+      "series_name": "Pro Kabaddi League Season 7, 2019",
+      "player_id": 2506,
+      "name": "M. Abishek",
+      "match_played": 5,
+      "raid_points_per_match": 0.0,
+      "not_out_percentage": 0.0,
+      "success_tackles_per_match": 1.2,
+      "tackles": 15,
+      "points_per_match_raid_tackle": 1.2,
+      "points_defence_offence": 6,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 6,
+      "career_best_points": 3,
+      "total_tackle_points": 6,
+      "tackle_success_rate": 40.0,
+      "raids": 0,
+      "success_raids": 0,
+      "unsuccess_raids": 0,
+      "empty_raid": 0,
+      "success_raid_percent": 0.0,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 6,
+      "defence_touch_points": 6,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 9,
+      "total_raid_points": 0,
+      "total_defending_points": 6,
+      "super_tackles": 0,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 29,
+          "team_name": "Tamil Thalaivas",
+          "team_short_name": "Tamil Nadu",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 0,
+      "series_name": "",
+      "player_id": 2506,
+      "name": "M. Abishek",
+      "match_played": 5,
+      "raid_points_per_match": 0.0,
+      "not_out_percentage": 0.0,
+      "success_tackles_per_match": 1.2,
+      "tackles": 15,
+      "points_per_match_raid_tackle": 1.2,
+      "points_defence_offence": 6,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 6,
+      "career_best_points": 3,
+      "total_tackle_points": 6,
+      "tackle_success_rate": 40.0,
+      "raids": 0,
+      "success_raids": 0,
+      "unsuccess_raids": 0,
+      "empty_raid": 0,
+      "success_raid_percent": 0.0,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 6,
+      "defence_touch_points": 6,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 9,
+      "total_raid_points": 0,
+      "total_defending_points": 6,
+      "super_tackles": 0,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 29,
+          "team_name": "Tamil Thalaivas",
+          "team_short_name": "Tamil Nadu",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "bio_keys_translation": {
+      "player_id": "Player Id",
+      "full_name": "Full Name",
+      "player_short_name": "Player Short Name",
+      "position_id": "Position Id",
+      "position_name": "Position Name",
+      "height": "Height",
+      "weight": "Weight",
+      "date_of_birth": "Date Of Birth",
+      "jersey_no": "Jersey No",
+      "nationality": "Nationality",
+      "writeup": "Writeup",
+      "team_id": "Team Id",
+      "team_name": "Team Name",
+      "short_name": "Short Name",
+      "has_additional_details": "Has Additional Details",
+      "is_captain": "Is Captain"
+    },
+    "stats_keys_translation": {
+      "series_id": "Series Id",
+      "series_name": "Series Name",
+      "player_id": "Player Id",
+      "name": "Name",
+      "match_played": "Match Played",
+      "raid_points_per_match": "Raid Points Per Match",
+      "not_out_percentage": "Not Out Percentage",
+      "success_tackles_per_match": "Success Tackles Per Match",
+      "tackles": "Tackles",
+      "points_per_match_raid_tackle": "Points Per Match Raid Tackle",
+      "points_defence_offence": "Points Defence Offence",
+      "role": "Role",
+      "total_capture_points": "Total Capture Points",
+      "tackle_bonus_points": "Tackle Bonus Points",
+      "raid_map_locations": "Raid Map Locations",
+      "location": "Location",
+      "point": "Point",
+      "career_best_points": "Career Best Points",
+      "total_tackle_points": "Total Tackle Points",
+      "tackle_success_rate": "Tackle Success Rate",
+      "raids": "Raids",
+      "success_raids": "Success Raids",
+      "unsuccess_raids": "Unsuccess Raids",
+      "empty_raid": "Empty Raid",
+      "success_raid_percent": "Success Raid Percent",
+      "green_cards": "Green Cards",
+      "yellow_cards": "Yellow Cards",
+      "red_cards": "Red Cards",
+      "raid_bonus_points": "Raid Bonus Points",
+      "success_tackles": "Success Tackles",
+      "defence_touch_points": "Defence Touch Points",
+      "defending_bonus_points": "Defending Bonus Points",
+      "raid_touch_points": "Raid Touch Points",
+      "unsuccesful_tackles": "Unsuccesful Tackles",
+      "total_raid_points": "Total Raid Points",
+      "total_defending_points": "Total Defending Points",
+      "super_tackles": "Super Tackles",
+      "super_raids": "Super Raids",
+      "player_team": "Player Team",
+      "super_10s": "Super 10S",
+      "high_5s": "High 5S"
+    }
+  },
+  "last_5_matches": [
+    {
+      "match_id": 1764,
+      "match_name": "Dabang Delhi K.C. VS Tamil Thalaivas, Match 80 (PKL 7)",
+      "for_team_id": 29,
+      "for_team_name": "Tamil Thalaivas",
+      "against_team_id": 2,
+      "against_team_name": "Dabang Delhi K.C.",
+      "matchdate": "2019-09-08",
+      "matchdate_gmt": "2019-09-08",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 0,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 0
+      }
+    },
+    {
+      "match_id": 1767,
+      "match_name": "Tamil Thalaivas VS Patna Pirates, Match 83 (PKL 7)",
+      "for_team_id": 29,
+      "for_team_name": "Tamil Thalaivas",
+      "against_team_id": 6,
+      "against_team_name": "Patna Pirates",
+      "matchdate": "2019-09-09",
+      "matchdate_gmt": "2019-09-09",
+      "points": {
+        "total": 1,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 1,
+          "capture": 1,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 3,
+        "super_tackles": 0,
+        "successful": 1,
+        "unsuccessful": 2
+      }
+    },
+    {
+      "match_id": 1774,
+      "match_name": "Tamil Thalaivas VS Haryana Steelers, Match 90 (PKL 7)",
+      "for_team_id": 29,
+      "for_team_name": "Tamil Thalaivas",
+      "against_team_id": 28,
+      "against_team_name": "Haryana Steelers",
+      "matchdate": "2019-09-14",
+      "matchdate_gmt": "2019-09-14",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 1,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 1
+      }
+    },
+    {
+      "match_id": 1780,
+      "match_name": "Puneri Paltan VS Tamil Thalaivas, Match 96 (PKL 7)",
+      "for_team_id": 29,
+      "for_team_name": "Tamil Thalaivas",
+      "against_team_id": 7,
+      "against_team_name": "Puneri Paltan",
+      "matchdate": "2019-09-18",
+      "matchdate_gmt": "2019-09-18",
+      "points": {
+        "total": 2,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 2,
+          "capture": 2,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 6,
+        "super_tackles": 0,
+        "successful": 2,
+        "unsuccessful": 4
+      }
+    },
+    {
+      "match_id": 1785,
+      "match_name": "U.P. Yoddha VS Tamil Thalaivas, Match 101 (PKL 7)",
+      "for_team_id": 29,
+      "for_team_name": "Tamil Thalaivas",
+      "against_team_id": 30,
+      "against_team_name": "U.P. Yoddha",
+      "matchdate": "2019-09-21",
+      "matchdate_gmt": "2019-09-21",
+      "points": {
+        "total": 3,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 3,
+          "capture": 3,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 5,
+        "super_tackles": 0,
+        "successful": 3,
+        "unsuccessful": 2
+      }
+    }
+  ]
+}

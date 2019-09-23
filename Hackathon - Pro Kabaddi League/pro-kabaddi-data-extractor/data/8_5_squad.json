@@ -1,0 +1,261 @@
+{
+  "squads": {
+    "series_id": "8",
+    "parent_series_id": "1",
+    "team_details": {
+      "team_id": 5,
+      "team_name": "U Mumba",
+      "short_name": "Mumbai"
+    },
+    "squad": {
+      "players": [
+        {
+          "player_id": 29,
+          "full_name": "Anup Kumar",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 3,
+          "is_captain": 1,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Anup Kumar"
+        },
+        {
+          "player_id": 324,
+          "full_name": "Darshan Kadian",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 88,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Darshan Kadian"
+        },
+        {
+          "player_id": 58,
+          "full_name": "Kashiling Adake",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 11,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Kashiling Adake"
+        },
+        {
+          "player_id": 689,
+          "full_name": "Mohan Raman G",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 6,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Mohan Raman G"
+        },
+        {
+          "player_id": 75,
+          "full_name": "Nitin Madane",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 7,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Nitin Madane"
+        },
+        {
+          "player_id": 105,
+          "full_name": "Shabeer Bappu",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 2,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Shabeer Bappu"
+        },
+        {
+          "player_id": 106,
+          "full_name": "Shrikant Jadhav",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 22,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Shrikant Jadhav"
+        },
+        {
+          "player_id": 162,
+          "full_name": "D. Suresh Kumar",
+          "position_id": 7,
+          "position_name": "Defender, right cover",
+          "jersey_no": 1,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "D. Suresh Kumar"
+        },
+        {
+          "player_id": 694,
+          "full_name": "Deepak Yadav",
+          "position_id": 7,
+          "position_name": "Defender, right cover",
+          "jersey_no": 33,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Deepak Yadav"
+        },
+        {
+          "player_id": 733,
+          "full_name": "Surinder Singh",
+          "position_id": 7,
+          "position_name": "Defender, right cover",
+          "jersey_no": 5,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Surinder Singh"
+        },
+        {
+          "player_id": 249,
+          "full_name": "Hadi Oshtorak",
+          "position_id": 6,
+          "position_name": "Defender, right corner",
+          "jersey_no": 4,
+          "is_captain": 0,
+          "country_id": 122,
+          "country_name": "Iran",
+          "gender": "m",
+          "name": "Hadi Oshtorak"
+        },
+        {
+          "player_id": 194,
+          "full_name": "Joginder Narwal",
+          "position_id": 3,
+          "position_name": "Defender, left corner",
+          "jersey_no": 8,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Joginder Singh Narwal"
+        },
+        {
+          "player_id": 710,
+          "full_name": "N. Renjith",
+          "position_id": 3,
+          "position_name": "Defender, left corner",
+          "jersey_no": 12,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "N. Renjith"
+        },
+        {
+          "player_id": 11,
+          "full_name": "Dong Ju Hong",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 55,
+          "is_captain": 0,
+          "country_id": 132,
+          "country_name": "Korea",
+          "gender": "m",
+          "name": "Dong Ju Hong"
+        },
+        {
+          "player_id": 690,
+          "full_name": "E Subash",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 10,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "E Subash"
+        },
+        {
+          "player_id": 252,
+          "full_name": "Kuldeep Singh",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 9,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Kuldeep Singh"
+        },
+        {
+          "player_id": 610,
+          "full_name": "Shiv Om",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 20,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Shiv Om"
+        },
+        {
+          "player_id": 513,
+          "full_name": "Yong Joo Ok",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 80,
+          "is_captain": 0,
+          "country_id": 132,
+          "country_name": "Korea",
+          "gender": "m",
+          "name": "Yong Joo Ok"
+        }
+      ],
+      "staff_details": {
+        "member": [
+          {
+            "player_id": 134,
+            "full_name": "Bhaskaran Edacherry",
+            "role_id": 6,
+            "role_name": "Coach",
+            "gender": "m",
+            "country_id": 4,
+            "country_name": "India"
+          }
+        ]
+      }
+    }
+  },
+  "language_lookup": {
+    "team_id": "Team Id",
+    "team_name": "Team Name",
+    "short_name": "Short Name",
+    "player_id": "Player Id",
+    "full_name": "Full Name",
+    "position_id": "Position Id",
+    "position_name": "Position Name",
+    "jersey_no": "Jersey No",
+    "is_captain": "Is Captain",
+    "country_id": "Country Id",
+    "country_name": "Country Name",
+    "gender": "Gender",
+    "name": "Name",
+    "role_id": "Role Id",
+    "role_name": "Role Name"
+  }
+}

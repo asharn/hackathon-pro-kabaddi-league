@@ -1,0 +1,333 @@
+{
+  "squads": {
+    "series_id": "8",
+    "parent_series_id": "1",
+    "team_details": {
+      "team_id": 29,
+      "team_name": "Tamil Thalaivas",
+      "short_name": "Tamil Nadu"
+    },
+    "squad": {
+      "players": [
+        {
+          "player_id": 26,
+          "full_name": "Ajay Thakur",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 7,
+          "is_captain": 1,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Ajay Thakur"
+        },
+        {
+          "player_id": 660,
+          "full_name": "Bhavani Rajput",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 6,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Bhavani Rajput"
+        },
+        {
+          "player_id": 522,
+          "full_name": "Dong Geon Lee",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 1,
+          "is_captain": 0,
+          "country_id": 132,
+          "country_name": "Korea",
+          "gender": "m",
+          "name": "Dong Geon Lee"
+        },
+        {
+          "player_id": 219,
+          "full_name": "K. Prapanjan",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 11,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "K. Prapanjan"
+        },
+        {
+          "player_id": 696,
+          "full_name": "M. Thivakaran",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 9,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "M. Thivakaran"
+        },
+        {
+          "player_id": 595,
+          "full_name": "Sarang Arun Deshmukh",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 55,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Sarang Arun Deshmukh"
+        },
+        {
+          "player_id": 788,
+          "full_name": "Sombir",
+          "position_id": 8,
+          "position_name": "Raider",
+          "jersey_no": 18,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Sombir"
+        },
+        {
+          "player_id": 724,
+          "full_name": "Darshan J.",
+          "position_id": 7,
+          "position_name": "Defender, right cover",
+          "jersey_no": 28,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Darshan J."
+        },
+        {
+          "player_id": 776,
+          "full_name": "Muruthu M",
+          "position_id": 7,
+          "position_name": "Defender, right cover",
+          "jersey_no": 12,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Muruthu M"
+        },
+        {
+          "player_id": 185,
+          "full_name": "Vijin Thangadurai",
+          "position_id": 7,
+          "position_name": "Defender, right cover",
+          "jersey_no": 67,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Vijin Thangadurai"
+        },
+        {
+          "player_id": 212,
+          "full_name": "Amit Hooda",
+          "position_id": 6,
+          "position_name": "Defender, right corner",
+          "jersey_no": 10,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Amit Hooda"
+        },
+        {
+          "player_id": 780,
+          "full_name": "Mugilan",
+          "position_id": 6,
+          "position_name": "Defender, right corner",
+          "jersey_no": 13,
+          "is_captain": 0,
+          "country_id": 149,
+          "country_name": "Malaysia",
+          "gender": "m",
+          "name": "Mugilan"
+        },
+        {
+          "player_id": 614,
+          "full_name": "T. Prabhakaran",
+          "position_id": 6,
+          "position_name": "Defender, right corner",
+          "jersey_no": 2,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "T. Prabhakaran"
+        },
+        {
+          "player_id": 311,
+          "full_name": "Anil Kumar",
+          "position_id": 4,
+          "position_name": "Defender, left cover",
+          "jersey_no": 8,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Anil Kumar"
+        },
+        {
+          "player_id": 191,
+          "full_name": "C. Arun",
+          "position_id": 4,
+          "position_name": "Defender, left cover",
+          "jersey_no": 5,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "C. Arun"
+        },
+        {
+          "player_id": 729,
+          "full_name": "Rajesh Manokaran",
+          "position_id": 4,
+          "position_name": "Defender, left cover",
+          "jersey_no": 4,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Rajesh Manokaran"
+        },
+        {
+          "player_id": 386,
+          "full_name": "Anil Kumar",
+          "position_id": 3,
+          "position_name": "Defender, left corner",
+          "jersey_no": 77,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Anil Kumar"
+        },
+        {
+          "player_id": 360,
+          "full_name": "Sanket Chavan",
+          "position_id": 3,
+          "position_name": "Defender, left corner",
+          "jersey_no": 63,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Sanket Chavan"
+        },
+        {
+          "player_id": 768,
+          "full_name": "Vijay Kumar",
+          "position_id": 3,
+          "position_name": "Defender, left corner",
+          "jersey_no": 21,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Vijay Kumar"
+        },
+        {
+          "player_id": 699,
+          "full_name": "Ananth Kumar",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 25,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Ananth Kumar"
+        },
+        {
+          "player_id": 514,
+          "full_name": "Chan Sik Park",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 27,
+          "is_captain": 0,
+          "country_id": 132,
+          "country_name": "Korea",
+          "gender": "m",
+          "name": "Chan Sik Park"
+        },
+        {
+          "player_id": 722,
+          "full_name": "D. Pradap",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 88,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "D. Pradap"
+        },
+        {
+          "player_id": 645,
+          "full_name": "Sujit  Maharana",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 14,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Sujit  Maharana"
+        },
+        {
+          "player_id": 268,
+          "full_name": "Vineet Kumar",
+          "position_id": 1,
+          "position_name": "All Rounder",
+          "jersey_no": 3,
+          "is_captain": 0,
+          "country_id": 4,
+          "country_name": "India",
+          "gender": "m",
+          "name": "Vineet Kumar"
+        }
+      ],
+      "staff_details": {
+        "member": [
+          {
+            "player_id": 175,
+            "full_name": "K Baskaran",
+            "role_id": 6,
+            "role_name": "Coach",
+            "gender": "m",
+            "country_id": 4,
+            "country_name": "India"
+          }
+        ]
+      }
+    }
+  },
+  "language_lookup": {
+    "team_id": "Team Id",
+    "team_name": "Team Name",
+    "short_name": "Short Name",
+    "player_id": "Player Id",
+    "full_name": "Full Name",
+    "position_id": "Position Id",
+    "position_name": "Position Name",
+    "jersey_no": "Jersey No",
+    "is_captain": "Is Captain",
+    "country_id": "Country Id",
+    "country_name": "Country Name",
+    "gender": "Gender",
+    "name": "Name",
+    "role_id": "Role Id",
+    "role_name": "Role Name"
+  }
+}

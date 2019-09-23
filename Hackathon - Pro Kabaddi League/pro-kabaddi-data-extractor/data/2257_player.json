@@ -1,0 +1,434 @@
+{
+  "bio": {
+    "player_id": 2257,
+    "full_name": "Victor Onyango Obiero",
+    "player_short_name": "Victor Obiero",
+    "position_id": 1,
+    "position_name": "All Rounder",
+    "height": "6 ft",
+    "weight": "",
+    "date_of_birth": "Jan 29 2000",
+    "jersey_no": 20,
+    "nationality": "Kenya",
+    "writeup": "",
+    "team_id": 29,
+    "team_name": "Tamil Thalaivas",
+    "short_name": "Tamil Nadu",
+    "has_additional_details": false,
+    "is_captain": 0
+  },
+  "over_all_stats": [
+    {
+      "series_id": 26,
+      "series_name": "Pro Kabaddi League Season 6, 2018",
+      "player_id": 2257,
+      "name": "Victor Onyango Obiero",
+      "match_played": 3,
+      "raid_points_per_match": 2.0,
+      "not_out_percentage": 57.14,
+      "success_tackles_per_match": 0,
+      "tackles": 0,
+      "points_per_match_raid_tackle": 2,
+      "points_defence_offence": 6,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 6,
+      "career_best_points": 5,
+      "total_tackle_points": 0,
+      "tackle_success_rate": 0.0,
+      "raids": 7,
+      "success_raids": 4,
+      "unsuccess_raids": 3,
+      "empty_raid": 0,
+      "success_raid_percent": 85.71,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 2,
+      "success_tackles": 0,
+      "defence_touch_points": 0,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 4,
+      "unsuccesful_tackles": 0,
+      "total_raid_points": 6,
+      "total_defending_points": 0,
+      "super_tackles": 0,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 29,
+          "team_name": "Tamil Thalaivas",
+          "team_short_name": "Tamil Nadu",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 49,
+      "series_name": "Pro Kabaddi League Season 7, 2019",
+      "player_id": 2257,
+      "name": "Victor Onyango Obiero",
+      "match_played": 3,
+      "raid_points_per_match": 2.0,
+      "not_out_percentage": 75.0,
+      "success_tackles_per_match": 0.33,
+      "tackles": 5,
+      "points_per_match_raid_tackle": 2.66,
+      "points_defence_offence": 8,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 8,
+      "career_best_points": 5,
+      "total_tackle_points": 2,
+      "tackle_success_rate": 40.0,
+      "raids": 8,
+      "success_raids": 4,
+      "unsuccess_raids": 2,
+      "empty_raid": 2,
+      "success_raid_percent": 75.0,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 3,
+      "success_tackles": 1,
+      "defence_touch_points": 2,
+      "defending_bonus_points": 1,
+      "raid_touch_points": 3,
+      "unsuccesful_tackles": 4,
+      "total_raid_points": 6,
+      "total_defending_points": 2,
+      "super_tackles": 1,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 29,
+          "team_name": "Tamil Thalaivas",
+          "team_short_name": "Tamil Nadu",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 0,
+      "series_name": "",
+      "player_id": 2257,
+      "name": "Victor Onyango Obiero",
+      "match_played": 6,
+      "raid_points_per_match": 2.0,
+      "not_out_percentage": 66.66,
+      "success_tackles_per_match": 0.16,
+      "tackles": 5,
+      "points_per_match_raid_tackle": 2.33,
+      "points_defence_offence": 14,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 14,
+      "career_best_points": 5,
+      "total_tackle_points": 2,
+      "tackle_success_rate": 40.0,
+      "raids": 15,
+      "success_raids": 8,
+      "unsuccess_raids": 5,
+      "empty_raid": 2,
+      "success_raid_percent": 80.0,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 5,
+      "success_tackles": 1,
+      "defence_touch_points": 2,
+      "defending_bonus_points": 1,
+      "raid_touch_points": 7,
+      "unsuccesful_tackles": 4,
+      "total_raid_points": 12,
+      "total_defending_points": 2,
+      "super_tackles": 1,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 29,
+          "team_name": "Tamil Thalaivas",
+          "team_short_name": "Tamil Nadu",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        },
+        {
+          "team_id": 29,
+          "team_name": "Tamil Thalaivas",
+          "team_short_name": "Tamil Nadu",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "bio_keys_translation": {
+      "player_id": "Player Id",
+      "full_name": "Full Name",
+      "player_short_name": "Player Short Name",
+      "position_id": "Position Id",
+      "position_name": "Position Name",
+      "height": "Height",
+      "weight": "Weight",
+      "date_of_birth": "Date Of Birth",
+      "jersey_no": "Jersey No",
+      "nationality": "Nationality",
+      "writeup": "Writeup",
+      "team_id": "Team Id",
+      "team_name": "Team Name",
+      "short_name": "Short Name",
+      "has_additional_details": "Has Additional Details",
+      "is_captain": "Is Captain"
+    },
+    "stats_keys_translation": {
+      "series_id": "Series Id",
+      "series_name": "Series Name",
+      "player_id": "Player Id",
+      "name": "Name",
+      "match_played": "Match Played",
+      "raid_points_per_match": "Raid Points Per Match",
+      "not_out_percentage": "Not Out Percentage",
+      "success_tackles_per_match": "Success Tackles Per Match",
+      "tackles": "Tackles",
+      "points_per_match_raid_tackle": "Points Per Match Raid Tackle",
+      "points_defence_offence": "Points Defence Offence",
+      "role": "Role",
+      "total_capture_points": "Total Capture Points",
+      "tackle_bonus_points": "Tackle Bonus Points",
+      "raid_map_locations": "Raid Map Locations",
+      "location": "Location",
+      "point": "Point",
+      "career_best_points": "Career Best Points",
+      "total_tackle_points": "Total Tackle Points",
+      "tackle_success_rate": "Tackle Success Rate",
+      "raids": "Raids",
+      "success_raids": "Success Raids",
+      "unsuccess_raids": "Unsuccess Raids",
+      "empty_raid": "Empty Raid",
+      "success_raid_percent": "Success Raid Percent",
+      "green_cards": "Green Cards",
+      "yellow_cards": "Yellow Cards",
+      "red_cards": "Red Cards",
+      "raid_bonus_points": "Raid Bonus Points",
+      "success_tackles": "Success Tackles",
+      "defence_touch_points": "Defence Touch Points",
+      "defending_bonus_points": "Defending Bonus Points",
+      "raid_touch_points": "Raid Touch Points",
+      "unsuccesful_tackles": "Unsuccesful Tackles",
+      "total_raid_points": "Total Raid Points",
+      "total_defending_points": "Total Defending Points",
+      "super_tackles": "Super Tackles",
+      "super_raids": "Super Raids",
+      "player_team": "Player Team",
+      "super_10s": "Super 10S",
+      "high_5s": "High 5S"
+    }
+  },
+  "last_5_matches": [
+    {
+      "match_id": 728,
+      "match_name": "Tamil Thalaivas VS Jaipur Pink Panthers, Match 104 (PKL 6)",
+      "for_team_id": 29,
+      "for_team_name": "Tamil Thalaivas",
+      "against_team_id": 3,
+      "against_team_name": "Jaipur Pink Panthers",
+      "matchdate": "2018-12-09",
+      "matchdate_gmt": "2018-12-09",
+      "points": {
+        "total": 5,
+        "raid_points": {
+          "total": 5,
+          "touch": 4,
+          "raid_bonus": 1
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 5,
+        "super_raids": 0,
+        "successful": 4,
+        "unsuccessful": 1,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 0,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 0
+      }
+    },
+    {
+      "match_id": 736,
+      "match_name": "Bengal Warriors VS Tamil Thalaivas, Match 112 (PKL 6)",
+      "for_team_id": 29,
+      "for_team_name": "Tamil Thalaivas",
+      "against_team_id": 4,
+      "against_team_name": "Bengal Warriors",
+      "matchdate": "2018-12-14",
+      "matchdate_gmt": "2018-12-14",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 1,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 1,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 0,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 0
+      }
+    },
+    {
+      "match_id": 1767,
+      "match_name": "Tamil Thalaivas VS Patna Pirates, Match 83 (PKL 7)",
+      "for_team_id": 29,
+      "for_team_name": "Tamil Thalaivas",
+      "against_team_id": 6,
+      "against_team_name": "Patna Pirates",
+      "matchdate": "2019-09-09",
+      "matchdate_gmt": "2019-09-09",
+      "points": {
+        "total": 1,
+        "raid_points": {
+          "total": 1,
+          "touch": 0,
+          "raid_bonus": 1
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 2,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 1,
+        "empty": 1
+      },
+      "tackles": {
+        "total": 1,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 1
+      }
+    },
+    {
+      "match_id": 1774,
+      "match_name": "Tamil Thalaivas VS Haryana Steelers, Match 90 (PKL 7)",
+      "for_team_id": 29,
+      "for_team_name": "Tamil Thalaivas",
+      "against_team_id": 28,
+      "against_team_name": "Haryana Steelers",
+      "matchdate": "2019-09-14",
+      "matchdate_gmt": "2019-09-14",
+      "points": {
+        "total": 5,
+        "raid_points": {
+          "total": 3,
+          "touch": 2,
+          "raid_bonus": 1
+        },
+        "tackle_points": {
+          "total": 2,
+          "capture": 2,
+          "capture_bonus": 1
+        }
+      },
+      "raids": {
+        "total": 4,
+        "super_raids": 0,
+        "successful": 2,
+        "unsuccessful": 1,
+        "empty": 1
+      },
+      "tackles": {
+        "total": 2,
+        "super_tackles": 1,
+        "successful": 1,
+        "unsuccessful": 1
+      }
+    },
+    {
+      "match_id": 1780,
+      "match_name": "Puneri Paltan VS Tamil Thalaivas, Match 96 (PKL 7)",
+      "for_team_id": 29,
+      "for_team_name": "Tamil Thalaivas",
+      "against_team_id": 7,
+      "against_team_name": "Puneri Paltan",
+      "matchdate": "2019-09-18",
+      "matchdate_gmt": "2019-09-18",
+      "points": {
+        "total": 2,
+        "raid_points": {
+          "total": 2,
+          "touch": 1,
+          "raid_bonus": 1
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 2,
+        "super_raids": 0,
+        "successful": 2,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 2,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 2
+      }
+    }
+  ]
+}

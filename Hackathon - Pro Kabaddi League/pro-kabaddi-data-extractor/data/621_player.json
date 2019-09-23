@@ -1,0 +1,434 @@
+{
+  "bio": {
+    "player_id": 621,
+    "full_name": "Baldev Singh",
+    "player_short_name": "Baldev Singh",
+    "position_id": 6,
+    "position_name": "Defender, right corner",
+    "height": "5 ft 10 in ",
+    "weight": "74 kg",
+    "date_of_birth": "May 27 1993",
+    "jersey_no": 1,
+    "nationality": "India",
+    "writeup": "",
+    "team_id": 4,
+    "team_name": "Bengal Warriors",
+    "short_name": "Bengal",
+    "has_additional_details": false,
+    "is_captain": 0
+  },
+  "over_all_stats": [
+    {
+      "series_id": 26,
+      "series_name": "Pro Kabaddi League Season 6, 2018",
+      "player_id": 621,
+      "name": "Baldev Singh",
+      "match_played": 18,
+      "raid_points_per_match": 0.05,
+      "not_out_percentage": 0.0,
+      "success_tackles_per_match": 1.33,
+      "tackles": 70,
+      "points_per_match_raid_tackle": 1.55,
+      "points_defence_offence": 28,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 28,
+      "career_best_points": 5,
+      "total_tackle_points": 27,
+      "tackle_success_rate": 38.57,
+      "raids": 1,
+      "success_raids": 0,
+      "unsuccess_raids": 1,
+      "empty_raid": 0,
+      "success_raid_percent": 100.0,
+      "green_cards": 2,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 1,
+      "success_tackles": 24,
+      "defence_touch_points": 27,
+      "defending_bonus_points": 3,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 46,
+      "total_raid_points": 1,
+      "total_defending_points": 27,
+      "super_tackles": 3,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "1",
+      "player_team_arr": [
+        {
+          "team_id": 4,
+          "team_name": "Bengal Warriors",
+          "team_short_name": "Bengal",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 49,
+      "series_name": "Pro Kabaddi League Season 7, 2019",
+      "player_id": 621,
+      "name": "Baldev Singh",
+      "match_played": 18,
+      "raid_points_per_match": 0.0,
+      "not_out_percentage": 80.0,
+      "success_tackles_per_match": 2.66,
+      "tackles": 94,
+      "points_per_match_raid_tackle": 2.94,
+      "points_defence_offence": 53,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 53,
+      "career_best_points": 7,
+      "total_tackle_points": 53,
+      "tackle_success_rate": 56.38,
+      "raids": 5,
+      "success_raids": 0,
+      "unsuccess_raids": 1,
+      "empty_raid": 4,
+      "success_raid_percent": 0.0,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 48,
+      "defence_touch_points": 53,
+      "defending_bonus_points": 5,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 46,
+      "total_raid_points": 0,
+      "total_defending_points": 53,
+      "super_tackles": 5,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "6",
+      "player_team_arr": [
+        {
+          "team_id": 4,
+          "team_name": "Bengal Warriors",
+          "team_short_name": "Bengal",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 0,
+      "series_name": "",
+      "player_id": 621,
+      "name": "Baldev Singh",
+      "match_played": 36,
+      "raid_points_per_match": 0.02,
+      "not_out_percentage": 66.66,
+      "success_tackles_per_match": 2,
+      "tackles": 164,
+      "points_per_match_raid_tackle": 2.25,
+      "points_defence_offence": 81,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 81,
+      "career_best_points": 7,
+      "total_tackle_points": 80,
+      "tackle_success_rate": 48.78,
+      "raids": 6,
+      "success_raids": 0,
+      "unsuccess_raids": 2,
+      "empty_raid": 4,
+      "success_raid_percent": 16.66,
+      "green_cards": 2,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 1,
+      "success_tackles": 72,
+      "defence_touch_points": 80,
+      "defending_bonus_points": 8,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 92,
+      "total_raid_points": 1,
+      "total_defending_points": 80,
+      "super_tackles": 8,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "7",
+      "player_team_arr": [
+        {
+          "team_id": 4,
+          "team_name": "Bengal Warriors",
+          "team_short_name": "Bengal",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        },
+        {
+          "team_id": 4,
+          "team_name": "Bengal Warriors",
+          "team_short_name": "Bengal",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "bio_keys_translation": {
+      "player_id": "Player Id",
+      "full_name": "Full Name",
+      "player_short_name": "Player Short Name",
+      "position_id": "Position Id",
+      "position_name": "Position Name",
+      "height": "Height",
+      "weight": "Weight",
+      "date_of_birth": "Date Of Birth",
+      "jersey_no": "Jersey No",
+      "nationality": "Nationality",
+      "writeup": "Writeup",
+      "team_id": "Team Id",
+      "team_name": "Team Name",
+      "short_name": "Short Name",
+      "has_additional_details": "Has Additional Details",
+      "is_captain": "Is Captain"
+    },
+    "stats_keys_translation": {
+      "series_id": "Series Id",
+      "series_name": "Series Name",
+      "player_id": "Player Id",
+      "name": "Name",
+      "match_played": "Match Played",
+      "raid_points_per_match": "Raid Points Per Match",
+      "not_out_percentage": "Not Out Percentage",
+      "success_tackles_per_match": "Success Tackles Per Match",
+      "tackles": "Tackles",
+      "points_per_match_raid_tackle": "Points Per Match Raid Tackle",
+      "points_defence_offence": "Points Defence Offence",
+      "role": "Role",
+      "total_capture_points": "Total Capture Points",
+      "tackle_bonus_points": "Tackle Bonus Points",
+      "raid_map_locations": "Raid Map Locations",
+      "location": "Location",
+      "point": "Point",
+      "career_best_points": "Career Best Points",
+      "total_tackle_points": "Total Tackle Points",
+      "tackle_success_rate": "Tackle Success Rate",
+      "raids": "Raids",
+      "success_raids": "Success Raids",
+      "unsuccess_raids": "Unsuccess Raids",
+      "empty_raid": "Empty Raid",
+      "success_raid_percent": "Success Raid Percent",
+      "green_cards": "Green Cards",
+      "yellow_cards": "Yellow Cards",
+      "red_cards": "Red Cards",
+      "raid_bonus_points": "Raid Bonus Points",
+      "success_tackles": "Success Tackles",
+      "defence_touch_points": "Defence Touch Points",
+      "defending_bonus_points": "Defending Bonus Points",
+      "raid_touch_points": "Raid Touch Points",
+      "unsuccesful_tackles": "Unsuccesful Tackles",
+      "total_raid_points": "Total Raid Points",
+      "total_defending_points": "Total Defending Points",
+      "super_tackles": "Super Tackles",
+      "super_raids": "Super Raids",
+      "player_team": "Player Team",
+      "super_10s": "Super 10S",
+      "high_5s": "High 5S"
+    }
+  },
+  "last_5_matches": [
+    {
+      "match_id": 1765,
+      "match_name": "Bengal Warriors VS Puneri Paltan, Match 81 (PKL 7)",
+      "for_team_id": 4,
+      "for_team_name": "Bengal Warriors",
+      "against_team_id": 7,
+      "against_team_name": "Puneri Paltan",
+      "matchdate": "2019-09-08",
+      "matchdate_gmt": "2019-09-08",
+      "points": {
+        "total": 5,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 5,
+          "capture": 5,
+          "capture_bonus": 1
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 6,
+        "super_tackles": 1,
+        "successful": 4,
+        "unsuccessful": 2
+      }
+    },
+    {
+      "match_id": 1769,
+      "match_name": "Bengal Warriors VS U Mumba, Match 85 (PKL 7)",
+      "for_team_id": 4,
+      "for_team_name": "Bengal Warriors",
+      "against_team_id": 5,
+      "against_team_name": "U Mumba",
+      "matchdate": "2019-09-11",
+      "matchdate_gmt": "2019-09-11",
+      "points": {
+        "total": 1,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 1,
+          "capture": 1,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 2,
+        "super_tackles": 0,
+        "successful": 1,
+        "unsuccessful": 1
+      }
+    },
+    {
+      "match_id": 1772,
+      "match_name": "Bengal Warriors VS Bengaluru Bulls, Match 88 (PKL 7)",
+      "for_team_id": 4,
+      "for_team_name": "Bengal Warriors",
+      "against_team_id": 1,
+      "against_team_name": "Bengaluru Bulls",
+      "matchdate": "2019-09-12",
+      "matchdate_gmt": "2019-09-12",
+      "points": {
+        "total": 2,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 2,
+          "capture": 2,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 5,
+        "super_tackles": 0,
+        "successful": 2,
+        "unsuccessful": 3
+      }
+    },
+    {
+      "match_id": 1781,
+      "match_name": "Bengal Warriors VS Haryana Steelers, Match 97 (PKL 7)",
+      "for_team_id": 4,
+      "for_team_name": "Bengal Warriors",
+      "against_team_id": 28,
+      "against_team_name": "Haryana Steelers",
+      "matchdate": "2019-09-19",
+      "matchdate_gmt": "2019-09-19",
+      "points": {
+        "total": 6,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 6,
+          "capture": 6,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 10,
+        "super_tackles": 0,
+        "successful": 6,
+        "unsuccessful": 4
+      }
+    },
+    {
+      "match_id": 1787,
+      "match_name": "Jaipur Pink Panthers VS Bengal Warriors, Match 103 (PKL 7)",
+      "for_team_id": 4,
+      "for_team_name": "Bengal Warriors",
+      "against_team_id": 3,
+      "against_team_name": "Jaipur Pink Panthers",
+      "matchdate": "2019-09-22",
+      "matchdate_gmt": "2019-09-22",
+      "points": {
+        "total": 3,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 3,
+          "capture": 3,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 7,
+        "super_tackles": 0,
+        "successful": 3,
+        "unsuccessful": 4
+      }
+    }
+  ]
+}

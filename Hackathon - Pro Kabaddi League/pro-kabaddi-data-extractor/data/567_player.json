@@ -1,0 +1,495 @@
+{
+  "bio": {
+    "player_id": 567,
+    "full_name": "Mohsen Maghsoudloujafari",
+    "player_short_name": "Mohsen Maghsoudlou",
+    "position_id": 1,
+    "position_name": "All Rounder",
+    "height": "5 ft 10 in ",
+    "weight": "78 kg",
+    "date_of_birth": "Mar 17 1995",
+    "jersey_no": 6,
+    "nationality": "Iran",
+    "writeup": "<p>Mohsen Maghsoudlou made his debut in Season 5 of VIVO Pro Kabaddi with the Telugu Titans. The Iranian raider an made instant impact in the league, scoring 47 points in 16 games for the Titans in his debut season itself which included a Super 10. Maghsoudlou also won a gold medal with the Iran National team at the 2018 Asian Games.</p>",
+    "team_id": 30,
+    "team_name": "U.P. Yoddha",
+    "short_name": "UP",
+    "has_additional_details": true,
+    "is_captain": 0
+  },
+  "over_all_stats": [
+    {
+      "series_id": 8,
+      "series_name": "Pro Kabaddi League Season 5, 2017",
+      "player_id": 567,
+      "name": "Mohsen Maghsoudloujafari",
+      "match_played": 16,
+      "raid_points_per_match": 2.56,
+      "not_out_percentage": 75.9,
+      "success_tackles_per_match": 0.31,
+      "tackles": 16,
+      "points_per_match_raid_tackle": 2.93,
+      "points_defence_offence": 47,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 47,
+      "career_best_points": 12,
+      "total_tackle_points": 6,
+      "tackle_success_rate": 37.5,
+      "raids": 83,
+      "success_raids": 26,
+      "unsuccess_raids": 20,
+      "empty_raid": 37,
+      "success_raid_percent": 49.39,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 10,
+      "success_tackles": 5,
+      "defence_touch_points": 6,
+      "defending_bonus_points": 1,
+      "raid_touch_points": 31,
+      "unsuccesful_tackles": 11,
+      "total_raid_points": 41,
+      "total_defending_points": 6,
+      "super_tackles": 1,
+      "super_raids": 2,
+      "player_team": 0,
+      "super_10s": "1",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 8,
+          "team_name": "Telugu Titans",
+          "team_short_name": "Hyderabad",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 26,
+      "series_name": "Pro Kabaddi League Season 6, 2018",
+      "player_id": 567,
+      "name": "Mohsen Maghsoudloujafari",
+      "match_played": 19,
+      "raid_points_per_match": 1.52,
+      "not_out_percentage": 77.67,
+      "success_tackles_per_match": 1.31,
+      "tackles": 52,
+      "points_per_match_raid_tackle": 2.94,
+      "points_defence_offence": 56,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 56,
+      "career_best_points": 7,
+      "total_tackle_points": 27,
+      "tackle_success_rate": 51.92,
+      "raids": 112,
+      "success_raids": 25,
+      "unsuccess_raids": 25,
+      "empty_raid": 62,
+      "success_raid_percent": 25.89,
+      "green_cards": 2,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 10,
+      "success_tackles": 25,
+      "defence_touch_points": 27,
+      "defending_bonus_points": 2,
+      "raid_touch_points": 19,
+      "unsuccesful_tackles": 27,
+      "total_raid_points": 29,
+      "total_defending_points": 27,
+      "super_tackles": 2,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 8,
+          "team_name": "Telugu Titans",
+          "team_short_name": "Hyderabad",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 49,
+      "series_name": "Pro Kabaddi League Season 7, 2019",
+      "player_id": 567,
+      "name": "Mohsen Maghsoudloujafari",
+      "match_played": 10,
+      "raid_points_per_match": 0.4,
+      "not_out_percentage": 56.52,
+      "success_tackles_per_match": 0.2,
+      "tackles": 8,
+      "points_per_match_raid_tackle": 0.7,
+      "points_defence_offence": 7,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 7,
+      "career_best_points": 2,
+      "total_tackle_points": 3,
+      "tackle_success_rate": 37.5,
+      "raids": 23,
+      "success_raids": 3,
+      "unsuccess_raids": 10,
+      "empty_raid": 10,
+      "success_raid_percent": 17.39,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 2,
+      "success_tackles": 2,
+      "defence_touch_points": 3,
+      "defending_bonus_points": 1,
+      "raid_touch_points": 2,
+      "unsuccesful_tackles": 6,
+      "total_raid_points": 4,
+      "total_defending_points": 3,
+      "super_tackles": 1,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 30,
+          "team_name": "U.P. Yoddha",
+          "team_short_name": "UP",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 0,
+      "series_name": "",
+      "player_id": 567,
+      "name": "Mohsen Maghsoudloujafari",
+      "match_played": 45,
+      "raid_points_per_match": 1.64,
+      "not_out_percentage": 74.77,
+      "success_tackles_per_match": 0.71,
+      "tackles": 76,
+      "points_per_match_raid_tackle": 2.44,
+      "points_defence_offence": 110,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 110,
+      "career_best_points": 12,
+      "total_tackle_points": 36,
+      "tackle_success_rate": 47.36,
+      "raids": 218,
+      "success_raids": 54,
+      "unsuccess_raids": 55,
+      "empty_raid": 109,
+      "success_raid_percent": 33.94,
+      "green_cards": 2,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 22,
+      "success_tackles": 32,
+      "defence_touch_points": 36,
+      "defending_bonus_points": 4,
+      "raid_touch_points": 52,
+      "unsuccesful_tackles": 44,
+      "total_raid_points": 74,
+      "total_defending_points": 36,
+      "super_tackles": 4,
+      "super_raids": 2,
+      "player_team": 0,
+      "super_10s": "1",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 8,
+          "team_name": "Telugu Titans",
+          "team_short_name": "Hyderabad",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        },
+        {
+          "team_id": 8,
+          "team_name": "Telugu Titans",
+          "team_short_name": "Hyderabad",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        },
+        {
+          "team_id": 30,
+          "team_name": "U.P. Yoddha",
+          "team_short_name": "UP",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "bio_keys_translation": {
+      "player_id": "Player Id",
+      "full_name": "Full Name",
+      "player_short_name": "Player Short Name",
+      "position_id": "Position Id",
+      "position_name": "Position Name",
+      "height": "Height",
+      "weight": "Weight",
+      "date_of_birth": "Date Of Birth",
+      "jersey_no": "Jersey No",
+      "nationality": "Nationality",
+      "writeup": "Writeup",
+      "team_id": "Team Id",
+      "team_name": "Team Name",
+      "short_name": "Short Name",
+      "has_additional_details": "Has Additional Details",
+      "is_captain": "Is Captain"
+    },
+    "stats_keys_translation": {
+      "series_id": "Series Id",
+      "series_name": "Series Name",
+      "player_id": "Player Id",
+      "name": "Name",
+      "match_played": "Match Played",
+      "raid_points_per_match": "Raid Points Per Match",
+      "not_out_percentage": "Not Out Percentage",
+      "success_tackles_per_match": "Success Tackles Per Match",
+      "tackles": "Tackles",
+      "points_per_match_raid_tackle": "Points Per Match Raid Tackle",
+      "points_defence_offence": "Points Defence Offence",
+      "role": "Role",
+      "total_capture_points": "Total Capture Points",
+      "tackle_bonus_points": "Tackle Bonus Points",
+      "raid_map_locations": "Raid Map Locations",
+      "location": "Location",
+      "point": "Point",
+      "career_best_points": "Career Best Points",
+      "total_tackle_points": "Total Tackle Points",
+      "tackle_success_rate": "Tackle Success Rate",
+      "raids": "Raids",
+      "success_raids": "Success Raids",
+      "unsuccess_raids": "Unsuccess Raids",
+      "empty_raid": "Empty Raid",
+      "success_raid_percent": "Success Raid Percent",
+      "green_cards": "Green Cards",
+      "yellow_cards": "Yellow Cards",
+      "red_cards": "Red Cards",
+      "raid_bonus_points": "Raid Bonus Points",
+      "success_tackles": "Success Tackles",
+      "defence_touch_points": "Defence Touch Points",
+      "defending_bonus_points": "Defending Bonus Points",
+      "raid_touch_points": "Raid Touch Points",
+      "unsuccesful_tackles": "Unsuccesful Tackles",
+      "total_raid_points": "Total Raid Points",
+      "total_defending_points": "Total Defending Points",
+      "super_tackles": "Super Tackles",
+      "super_raids": "Super Raids",
+      "player_team": "Player Team",
+      "super_10s": "Super 10S",
+      "high_5s": "High 5S"
+    }
+  },
+  "last_5_matches": [
+    {
+      "match_id": 1724,
+      "match_name": "U.P. Yoddha VS Haryana Steelers, Match 40 (PKL 7)",
+      "for_team_id": 30,
+      "for_team_name": "U.P. Yoddha",
+      "against_team_id": 28,
+      "against_team_name": "Haryana Steelers",
+      "matchdate": "2019-08-14",
+      "matchdate_gmt": "2019-08-14",
+      "points": {
+        "total": 2,
+        "raid_points": {
+          "total": 1,
+          "touch": 0,
+          "raid_bonus": 1
+        },
+        "tackle_points": {
+          "total": 1,
+          "capture": 1,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 9,
+        "super_raids": 0,
+        "successful": 1,
+        "unsuccessful": 3,
+        "empty": 5
+      },
+      "tackles": {
+        "total": 2,
+        "super_tackles": 0,
+        "successful": 1,
+        "unsuccessful": 1
+      }
+    },
+    {
+      "match_id": 1734,
+      "match_name": "U.P. Yoddha VS Jaipur Pink Panthers, Match 50 (PKL 7)",
+      "for_team_id": 30,
+      "for_team_name": "U.P. Yoddha",
+      "against_team_id": 3,
+      "against_team_name": "Jaipur Pink Panthers",
+      "matchdate": "2019-08-19",
+      "matchdate_gmt": "2019-08-19",
+      "points": {
+        "total": 2,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 2,
+          "capture": 2,
+          "capture_bonus": 1
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 2,
+        "super_tackles": 1,
+        "successful": 1,
+        "unsuccessful": 1
+      }
+    },
+    {
+      "match_id": 1743,
+      "match_name": "Dabang Delhi K.C. VS U.P. Yoddha, Match 59 (PKL 7)",
+      "for_team_id": 30,
+      "for_team_name": "U.P. Yoddha",
+      "against_team_id": 2,
+      "against_team_name": "Dabang Delhi K.C.",
+      "matchdate": "2019-08-25",
+      "matchdate_gmt": "2019-08-25",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 1,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 1
+      }
+    },
+    {
+      "match_id": 1745,
+      "match_name": "U.P. Yoddha VS Puneri Paltan, Match 61 (PKL 7)",
+      "for_team_id": 30,
+      "for_team_name": "U.P. Yoddha",
+      "against_team_id": 7,
+      "against_team_name": "Puneri Paltan",
+      "matchdate": "2019-08-26",
+      "matchdate_gmt": "2019-08-26",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 2,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 2,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 0,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 0
+      }
+    },
+    {
+      "match_id": 1766,
+      "match_name": "U.P. Yoddha VS Gujarat Fortunegiants, Match 82 (PKL 7)",
+      "for_team_id": 30,
+      "for_team_name": "U.P. Yoddha",
+      "against_team_id": 31,
+      "against_team_name": "Gujarat Fortunegiants",
+      "matchdate": "2019-09-09",
+      "matchdate_gmt": "2019-09-09",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 1,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 1
+      }
+    }
+  ]
+}

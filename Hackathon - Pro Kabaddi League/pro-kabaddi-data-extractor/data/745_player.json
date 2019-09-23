@@ -1,0 +1,495 @@
+{
+  "bio": {
+    "player_id": 745,
+    "full_name": "Vijay",
+    "player_short_name": "Vijay",
+    "position_id": 1,
+    "position_name": "All Rounder",
+    "height": "5 ft 10 in ",
+    "weight": "73 kg",
+    "date_of_birth": "Jul  1 1997",
+    "jersey_no": 1,
+    "nationality": "India",
+    "writeup": "",
+    "team_id": 2,
+    "team_name": "Dabang Delhi K.C.",
+    "short_name": "Delhi",
+    "has_additional_details": false,
+    "is_captain": 0
+  },
+  "over_all_stats": [
+    {
+      "series_id": 8,
+      "series_name": "Pro Kabaddi League Season 5, 2017",
+      "player_id": 745,
+      "name": "Vijay",
+      "match_played": 19,
+      "raid_points_per_match": 1.42,
+      "not_out_percentage": 89.15,
+      "success_tackles_per_match": 1.78,
+      "tackles": 83,
+      "points_per_match_raid_tackle": 3.36,
+      "points_defence_offence": 64,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 64,
+      "career_best_points": 7,
+      "total_tackle_points": 37,
+      "tackle_success_rate": 44.57,
+      "raids": 83,
+      "success_raids": 18,
+      "unsuccess_raids": 9,
+      "empty_raid": 56,
+      "success_raid_percent": 32.53,
+      "green_cards": 0,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "raid_bonus_points": 10,
+      "success_tackles": 34,
+      "defence_touch_points": 37,
+      "defending_bonus_points": 3,
+      "raid_touch_points": 17,
+      "unsuccesful_tackles": 49,
+      "total_raid_points": 27,
+      "total_defending_points": 37,
+      "super_tackles": 3,
+      "super_raids": 1,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "1",
+      "player_team_arr": [
+        {
+          "team_id": 6,
+          "team_name": "Patna Pirates",
+          "team_short_name": "Patna",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 26,
+      "series_name": "Pro Kabaddi League Season 6, 2018",
+      "player_id": 745,
+      "name": "Vijay",
+      "match_played": 21,
+      "raid_points_per_match": 2.85,
+      "not_out_percentage": 81.08,
+      "success_tackles_per_match": 0.57,
+      "tackles": 44,
+      "points_per_match_raid_tackle": 3.47,
+      "points_defence_offence": 73,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 73,
+      "career_best_points": 8,
+      "total_tackle_points": 13,
+      "tackle_success_rate": 29.54,
+      "raids": 111,
+      "success_raids": 50,
+      "unsuccess_raids": 21,
+      "empty_raid": 40,
+      "success_raid_percent": 54.05,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 27,
+      "success_tackles": 12,
+      "defence_touch_points": 13,
+      "defending_bonus_points": 1,
+      "raid_touch_points": 33,
+      "unsuccesful_tackles": 32,
+      "total_raid_points": 60,
+      "total_defending_points": 13,
+      "super_tackles": 1,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 6,
+          "team_name": "Patna Pirates",
+          "team_short_name": "Patna",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 49,
+      "series_name": "Pro Kabaddi League Season 7, 2019",
+      "player_id": 745,
+      "name": "Vijay",
+      "match_played": 16,
+      "raid_points_per_match": 1.5,
+      "not_out_percentage": 84.12,
+      "success_tackles_per_match": 0.62,
+      "tackles": 32,
+      "points_per_match_raid_tackle": 2.12,
+      "points_defence_offence": 34,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 34,
+      "career_best_points": 6,
+      "total_tackle_points": 10,
+      "tackle_success_rate": 31.25,
+      "raids": 63,
+      "success_raids": 21,
+      "unsuccess_raids": 10,
+      "empty_raid": 32,
+      "success_raid_percent": 38.09,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 6,
+      "success_tackles": 10,
+      "defence_touch_points": 10,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 18,
+      "unsuccesful_tackles": 22,
+      "total_raid_points": 24,
+      "total_defending_points": 10,
+      "super_tackles": 0,
+      "super_raids": 1,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 2,
+          "team_name": "Dabang Delhi K.C.",
+          "team_short_name": "Delhi",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 0,
+      "series_name": "",
+      "player_id": 745,
+      "name": "Vijay",
+      "match_played": 56,
+      "raid_points_per_match": 1.98,
+      "not_out_percentage": 84.43,
+      "success_tackles_per_match": 1,
+      "tackles": 159,
+      "points_per_match_raid_tackle": 3.05,
+      "points_defence_offence": 171,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 171,
+      "career_best_points": 8,
+      "total_tackle_points": 60,
+      "tackle_success_rate": 37.73,
+      "raids": 257,
+      "success_raids": 89,
+      "unsuccess_raids": 40,
+      "empty_raid": 128,
+      "success_raid_percent": 43.19,
+      "green_cards": 0,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "raid_bonus_points": 43,
+      "success_tackles": 56,
+      "defence_touch_points": 60,
+      "defending_bonus_points": 4,
+      "raid_touch_points": 68,
+      "unsuccesful_tackles": 103,
+      "total_raid_points": 111,
+      "total_defending_points": 60,
+      "super_tackles": 4,
+      "super_raids": 2,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "1",
+      "player_team_arr": [
+        {
+          "team_id": 6,
+          "team_name": "Patna Pirates",
+          "team_short_name": "Patna",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        },
+        {
+          "team_id": 6,
+          "team_name": "Patna Pirates",
+          "team_short_name": "Patna",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        },
+        {
+          "team_id": 2,
+          "team_name": "Dabang Delhi K.C.",
+          "team_short_name": "Delhi",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "bio_keys_translation": {
+      "player_id": "Player Id",
+      "full_name": "Full Name",
+      "player_short_name": "Player Short Name",
+      "position_id": "Position Id",
+      "position_name": "Position Name",
+      "height": "Height",
+      "weight": "Weight",
+      "date_of_birth": "Date Of Birth",
+      "jersey_no": "Jersey No",
+      "nationality": "Nationality",
+      "writeup": "Writeup",
+      "team_id": "Team Id",
+      "team_name": "Team Name",
+      "short_name": "Short Name",
+      "has_additional_details": "Has Additional Details",
+      "is_captain": "Is Captain"
+    },
+    "stats_keys_translation": {
+      "series_id": "Series Id",
+      "series_name": "Series Name",
+      "player_id": "Player Id",
+      "name": "Name",
+      "match_played": "Match Played",
+      "raid_points_per_match": "Raid Points Per Match",
+      "not_out_percentage": "Not Out Percentage",
+      "success_tackles_per_match": "Success Tackles Per Match",
+      "tackles": "Tackles",
+      "points_per_match_raid_tackle": "Points Per Match Raid Tackle",
+      "points_defence_offence": "Points Defence Offence",
+      "role": "Role",
+      "total_capture_points": "Total Capture Points",
+      "tackle_bonus_points": "Tackle Bonus Points",
+      "raid_map_locations": "Raid Map Locations",
+      "location": "Location",
+      "point": "Point",
+      "career_best_points": "Career Best Points",
+      "total_tackle_points": "Total Tackle Points",
+      "tackle_success_rate": "Tackle Success Rate",
+      "raids": "Raids",
+      "success_raids": "Success Raids",
+      "unsuccess_raids": "Unsuccess Raids",
+      "empty_raid": "Empty Raid",
+      "success_raid_percent": "Success Raid Percent",
+      "green_cards": "Green Cards",
+      "yellow_cards": "Yellow Cards",
+      "red_cards": "Red Cards",
+      "raid_bonus_points": "Raid Bonus Points",
+      "success_tackles": "Success Tackles",
+      "defence_touch_points": "Defence Touch Points",
+      "defending_bonus_points": "Defending Bonus Points",
+      "raid_touch_points": "Raid Touch Points",
+      "unsuccesful_tackles": "Unsuccesful Tackles",
+      "total_raid_points": "Total Raid Points",
+      "total_defending_points": "Total Defending Points",
+      "super_tackles": "Super Tackles",
+      "super_raids": "Super Raids",
+      "player_team": "Player Team",
+      "super_10s": "Super 10S",
+      "high_5s": "High 5S"
+    }
+  },
+  "last_5_matches": [
+    {
+      "match_id": 1763,
+      "match_name": "Dabang Delhi K.C. VS Haryana Steelers, Match 79 (PKL 7)",
+      "for_team_id": 2,
+      "for_team_name": "Dabang Delhi K.C.",
+      "against_team_id": 28,
+      "against_team_name": "Haryana Steelers",
+      "matchdate": "2019-09-07",
+      "matchdate_gmt": "2019-09-07",
+      "points": {
+        "total": 1,
+        "raid_points": {
+          "total": 1,
+          "touch": 0,
+          "raid_bonus": 1
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 5,
+        "super_raids": 0,
+        "successful": 1,
+        "unsuccessful": 2,
+        "empty": 2
+      },
+      "tackles": {
+        "total": 3,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 3
+      }
+    },
+    {
+      "match_id": 1764,
+      "match_name": "Dabang Delhi K.C. VS Tamil Thalaivas, Match 80 (PKL 7)",
+      "for_team_id": 2,
+      "for_team_name": "Dabang Delhi K.C.",
+      "against_team_id": 29,
+      "against_team_name": "Tamil Thalaivas",
+      "matchdate": "2019-09-08",
+      "matchdate_gmt": "2019-09-08",
+      "points": {
+        "total": 5,
+        "raid_points": {
+          "total": 3,
+          "touch": 1,
+          "raid_bonus": 2
+        },
+        "tackle_points": {
+          "total": 2,
+          "capture": 2,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 3,
+        "super_raids": 0,
+        "successful": 3,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 2,
+        "super_tackles": 0,
+        "successful": 2,
+        "unsuccessful": 0
+      }
+    },
+    {
+      "match_id": 1775,
+      "match_name": "Dabang Delhi K.C. VS Gujarat Fortunegiants, Match 91 (PKL 7)",
+      "for_team_id": 2,
+      "for_team_name": "Dabang Delhi K.C.",
+      "against_team_id": 31,
+      "against_team_name": "Gujarat Fortunegiants",
+      "matchdate": "2019-09-15",
+      "matchdate_gmt": "2019-09-15",
+      "points": {
+        "total": 5,
+        "raid_points": {
+          "total": 5,
+          "touch": 5,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 10,
+        "super_raids": 0,
+        "successful": 5,
+        "unsuccessful": 1,
+        "empty": 4
+      },
+      "tackles": {
+        "total": 2,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 2
+      }
+    },
+    {
+      "match_id": 1778,
+      "match_name": "Telugu Titans VS Dabang Delhi K.C., Match 94 (PKL 7)",
+      "for_team_id": 2,
+      "for_team_name": "Dabang Delhi K.C.",
+      "against_team_id": 8,
+      "against_team_name": "Telugu Titans",
+      "matchdate": "2019-09-16",
+      "matchdate_gmt": "2019-09-16",
+      "points": {
+        "total": 6,
+        "raid_points": {
+          "total": 4,
+          "touch": 4,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 2,
+          "capture": 2,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 8,
+        "super_raids": 0,
+        "successful": 4,
+        "unsuccessful": 0,
+        "empty": 4
+      },
+      "tackles": {
+        "total": 2,
+        "super_tackles": 0,
+        "successful": 2,
+        "unsuccessful": 0
+      }
+    },
+    {
+      "match_id": 1789,
+      "match_name": "Dabang Delhi K.C. VS Bengaluru Bulls, Match 105 (PKL 7)",
+      "for_team_id": 2,
+      "for_team_name": "Dabang Delhi K.C.",
+      "against_team_id": 1,
+      "against_team_name": "Bengaluru Bulls",
+      "matchdate": "2019-09-23",
+      "matchdate_gmt": "2019-09-23",
+      "points": {
+        "total": 1,
+        "raid_points": {
+          "total": 1,
+          "touch": 1,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 5,
+        "super_raids": 0,
+        "successful": 1,
+        "unsuccessful": 1,
+        "empty": 3
+      },
+      "tackles": {
+        "total": 2,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 2
+      }
+    }
+  ]
+}

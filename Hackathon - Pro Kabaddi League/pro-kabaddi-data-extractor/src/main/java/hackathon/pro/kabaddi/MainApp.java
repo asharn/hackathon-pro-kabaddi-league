@@ -11,13 +11,14 @@ import java.util.Set;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
+import org.json.simple.parser.ParseException;
 
 /**
  * Main Application to read data from JSON file through website URL
  *
  */
 public class MainApp {
-	private static final String DATA_DIR_PATH = "/home/akarn/Downloads/Artificial-Intelligence-master/Hackathon - Pro Kabaddi League/pro-kabaddi-data-extractor/data/";
+	private static final String DATA_DIR_PATH = "/home/ash/AI_AND_ML/Hackathon---Pro-Kabaddi-League/Hackathon - Pro Kabaddi League/pro-kabaddi-data-extractor/data/";
 	private static String teamStatsUrl;
 	private static String matchFileUrl;
 	private static String seasonStatsUrl;
@@ -50,18 +51,37 @@ public class MainApp {
 					teamIds.add(teamId);
 					try {
 						fetchAndSaveTeamData(teamId);
-						//fetchAndSaveMatchData(teamItr);
+						fetchAndSaveMatchData(teamItr);
 					} catch (Exception e) {
 						e.printStackTrace();
 					}
 				});
 			});
-			
+
 			fetchAndSaveSquadRelatedData();
+			fetchAndSavePlayerData();
 		} catch (final Exception e) {
 			e.printStackTrace();
 		}
 		System.out.println("All required data saved successfully.");
+	}
+
+	private static void fetchAndSavePlayerData() {
+
+		/**
+		 * Fetch player related information.
+		 */
+		playerIds.forEach(playerId -> {
+			String playerData;
+			try {
+				playerData = readUrl(
+						KabaddiContants.BASE_URL + playerStatsUrl.replace("{{player_Id}}", String.valueOf(playerId)));
+				saveAsJsonFile(playerData, playerId + "_player.json");
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		});
+
 	}
 
 	private static void fetchAndSaveMatchData(Object teamItr) {
@@ -96,20 +116,34 @@ public class MainApp {
 		 */
 		seasonIds.forEach(seriesId -> teamIds.forEach(teamId -> {
 			try {
-				/*teamSquadUrl = teamSquadUrl.replace("{{series_id}}", String.valueOf(seriesId)+"_");
-				teamSquadUrl = teamSquadUrl.replace("{{team_id}}", String.valueOf(teamId));*/
-				String squadData = readUrl(KabaddiContants.BASE_URL
-						+ teamSquadUrl.replace("{{series_id}}", String.valueOf(seriesId) + "_")).replace("{{team_id}}", String.valueOf(teamId));
-				saveAsJsonFile(squadData, seriesId + "_" + teamId + "_tracker.json");
-			} catch (IOException e) {
+				/*
+				 * teamSquadUrl = teamSquadUrl.replace("{{series_id}}",
+				 * String.valueOf(seriesId)+"_"); teamSquadUrl =
+				 * teamSquadUrl.replace("{{team_id}}", String.valueOf(teamId));
+				 */
+				String squadData = readUrl(
+						KabaddiContants.BASE_URL + teamSquadUrl.replace("{{series_id}}", String.valueOf(seriesId) + "_")
+								.replace("{{team_id}}", String.valueOf(teamId)));
+				collectPlayerIds(squadData);
+				saveAsJsonFile(squadData, seriesId + "_" + teamId + "_squad.json");
+			} catch (IOException | ParseException e) {
 				e.printStackTrace();
 			}
 		})
 
 		);
 	}
-	
-	
+
+	private static void collectPlayerIds(String squadData) throws ParseException {
+		JSONParser jsonParser = new JSONParser();
+		JSONObject squadParsedData = (JSONObject) jsonParser.parse(squadData);
+		JSONObject squads = (JSONObject) squadParsedData.get("squads");
+		JSONObject squad = (JSONObject) squads.get("squad");
+		JSONArray players = (JSONArray) squad.get("players");
+		players.forEach(player -> playerIds.add((Long) ((JSONObject) player).get("player_id")));
+
+	}
+
 	private static void fetchAndSaveSeasonTrackerData() {
 		/**
 		 * Fetch all season tracking related information except all and current going on

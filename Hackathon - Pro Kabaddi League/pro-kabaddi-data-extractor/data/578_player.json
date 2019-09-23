@@ -1,0 +1,495 @@
+{
+  "bio": {
+    "player_id": 578,
+    "full_name": "Mayur Shivtarkar",
+    "player_short_name": "Mayur Shivtarkar",
+    "position_id": 1,
+    "position_name": "All Rounder",
+    "height": "5 ft 8 in ",
+    "weight": "79 kg",
+    "date_of_birth": "Sep 13 1996",
+    "jersey_no": 14,
+    "nationality": "India",
+    "writeup": "<p>The only Mumbai boy in the team, Mayur&rsquo;s desire to take up the sport and make it big in it comes from watching his father play for South Mumbai&rsquo;s JJ Hospital's kabaddi team. Continuing his father's legacy, Mayur too turns up for tournaments in the JJ Hospital colours. How did he trump the plethora of talent that Mumbai has to offer and get selected for Pro Kabaddi? &lsquo;It's a lot of hard work and a little bit of luck,' he answers.<br />\n<br />\nMayur's happy-go-lucky attitude has rubbed off on his peers. There&rsquo;s never a dull moment around this boy. When not practicing his moves on the court, Mayur can be seen twirling his well groomed, Shikar Dhawan-esque moustache.  It&rsquo;s hard to miss, just like the man himself.</p>",
+    "team_id": 4,
+    "team_name": "Bengal Warriors",
+    "short_name": "Bengal",
+    "has_additional_details": false,
+    "is_captain": 0
+  },
+  "over_all_stats": [
+    {
+      "series_id": 8,
+      "series_name": "Pro Kabaddi League Season 5, 2017",
+      "player_id": 578,
+      "name": "Mayur Shivtarkar",
+      "match_played": 5,
+      "raid_points_per_match": 1.0,
+      "not_out_percentage": 56.0,
+      "success_tackles_per_match": 0.2,
+      "tackles": 2,
+      "points_per_match_raid_tackle": 1.2,
+      "points_defence_offence": 6,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 6,
+      "career_best_points": 3,
+      "total_tackle_points": 1,
+      "tackle_success_rate": 50.0,
+      "raids": 25,
+      "success_raids": 5,
+      "unsuccess_raids": 11,
+      "empty_raid": 9,
+      "success_raid_percent": 20.0,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 1,
+      "defence_touch_points": 1,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 5,
+      "unsuccesful_tackles": 1,
+      "total_raid_points": 5,
+      "total_defending_points": 1,
+      "super_tackles": 0,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 28,
+          "team_name": "Haryana Steelers",
+          "team_short_name": "Haryana",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 26,
+      "series_name": "Pro Kabaddi League Season 6, 2018",
+      "player_id": 578,
+      "name": "Mayur Shivtarkar",
+      "match_played": 18,
+      "raid_points_per_match": 0.22,
+      "not_out_percentage": 77.77,
+      "success_tackles_per_match": 1.05,
+      "tackles": 65,
+      "points_per_match_raid_tackle": 1.27,
+      "points_defence_offence": 23,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 23,
+      "career_best_points": 3,
+      "total_tackle_points": 19,
+      "tackle_success_rate": 29.23,
+      "raids": 36,
+      "success_raids": 1,
+      "unsuccess_raids": 8,
+      "empty_raid": 27,
+      "success_raid_percent": 11.11,
+      "green_cards": 2,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 4,
+      "success_tackles": 19,
+      "defence_touch_points": 19,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 46,
+      "total_raid_points": 4,
+      "total_defending_points": 19,
+      "super_tackles": 0,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 28,
+          "team_name": "Haryana Steelers",
+          "team_short_name": "Haryana",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 49,
+      "series_name": "Pro Kabaddi League Season 7, 2019",
+      "player_id": 578,
+      "name": "Mayur Shivtarkar",
+      "match_played": 6,
+      "raid_points_per_match": 0.0,
+      "not_out_percentage": 0.0,
+      "success_tackles_per_match": 0.66,
+      "tackles": 21,
+      "points_per_match_raid_tackle": 0.66,
+      "points_defence_offence": 4,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 4,
+      "career_best_points": 2,
+      "total_tackle_points": 4,
+      "tackle_success_rate": 19.04,
+      "raids": 0,
+      "success_raids": 0,
+      "unsuccess_raids": 0,
+      "empty_raid": 0,
+      "success_raid_percent": 0.0,
+      "green_cards": 1,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 4,
+      "defence_touch_points": 4,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 17,
+      "total_raid_points": 0,
+      "total_defending_points": 4,
+      "super_tackles": 0,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 4,
+          "team_name": "Bengal Warriors",
+          "team_short_name": "Bengal",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 0,
+      "series_name": "",
+      "player_id": 578,
+      "name": "Mayur Shivtarkar",
+      "match_played": 29,
+      "raid_points_per_match": 0.31,
+      "not_out_percentage": 68.85,
+      "success_tackles_per_match": 0.82,
+      "tackles": 88,
+      "points_per_match_raid_tackle": 1.13,
+      "points_defence_offence": 33,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 33,
+      "career_best_points": 3,
+      "total_tackle_points": 24,
+      "tackle_success_rate": 27.27,
+      "raids": 61,
+      "success_raids": 6,
+      "unsuccess_raids": 19,
+      "empty_raid": 36,
+      "success_raid_percent": 14.75,
+      "green_cards": 3,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 4,
+      "success_tackles": 24,
+      "defence_touch_points": 24,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 5,
+      "unsuccesful_tackles": 64,
+      "total_raid_points": 9,
+      "total_defending_points": 24,
+      "super_tackles": 0,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 28,
+          "team_name": "Haryana Steelers",
+          "team_short_name": "Haryana",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        },
+        {
+          "team_id": 28,
+          "team_name": "Haryana Steelers",
+          "team_short_name": "Haryana",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        },
+        {
+          "team_id": 4,
+          "team_name": "Bengal Warriors",
+          "team_short_name": "Bengal",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "bio_keys_translation": {
+      "player_id": "Player Id",
+      "full_name": "Full Name",
+      "player_short_name": "Player Short Name",
+      "position_id": "Position Id",
+      "position_name": "Position Name",
+      "height": "Height",
+      "weight": "Weight",
+      "date_of_birth": "Date Of Birth",
+      "jersey_no": "Jersey No",
+      "nationality": "Nationality",
+      "writeup": "Writeup",
+      "team_id": "Team Id",
+      "team_name": "Team Name",
+      "short_name": "Short Name",
+      "has_additional_details": "Has Additional Details",
+      "is_captain": "Is Captain"
+    },
+    "stats_keys_translation": {
+      "series_id": "Series Id",
+      "series_name": "Series Name",
+      "player_id": "Player Id",
+      "name": "Name",
+      "match_played": "Match Played",
+      "raid_points_per_match": "Raid Points Per Match",
+      "not_out_percentage": "Not Out Percentage",
+      "success_tackles_per_match": "Success Tackles Per Match",
+      "tackles": "Tackles",
+      "points_per_match_raid_tackle": "Points Per Match Raid Tackle",
+      "points_defence_offence": "Points Defence Offence",
+      "role": "Role",
+      "total_capture_points": "Total Capture Points",
+      "tackle_bonus_points": "Tackle Bonus Points",
+      "raid_map_locations": "Raid Map Locations",
+      "location": "Location",
+      "point": "Point",
+      "career_best_points": "Career Best Points",
+      "total_tackle_points": "Total Tackle Points",
+      "tackle_success_rate": "Tackle Success Rate",
+      "raids": "Raids",
+      "success_raids": "Success Raids",
+      "unsuccess_raids": "Unsuccess Raids",
+      "empty_raid": "Empty Raid",
+      "success_raid_percent": "Success Raid Percent",
+      "green_cards": "Green Cards",
+      "yellow_cards": "Yellow Cards",
+      "red_cards": "Red Cards",
+      "raid_bonus_points": "Raid Bonus Points",
+      "success_tackles": "Success Tackles",
+      "defence_touch_points": "Defence Touch Points",
+      "defending_bonus_points": "Defending Bonus Points",
+      "raid_touch_points": "Raid Touch Points",
+      "unsuccesful_tackles": "Unsuccesful Tackles",
+      "total_raid_points": "Total Raid Points",
+      "total_defending_points": "Total Defending Points",
+      "super_tackles": "Super Tackles",
+      "super_raids": "Super Raids",
+      "player_team": "Player Team",
+      "super_10s": "Super 10S",
+      "high_5s": "High 5S"
+    }
+  },
+  "last_5_matches": [
+    {
+      "match_id": 1762,
+      "match_name": "Bengal Warriors VS Gujarat Fortunegiants, Match 78 (PKL 7)",
+      "for_team_id": 4,
+      "for_team_name": "Bengal Warriors",
+      "against_team_id": 31,
+      "against_team_name": "Gujarat Fortunegiants",
+      "matchdate": "2019-09-07",
+      "matchdate_gmt": "2019-09-07",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 2,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 2
+      }
+    },
+    {
+      "match_id": 1765,
+      "match_name": "Bengal Warriors VS Puneri Paltan, Match 81 (PKL 7)",
+      "for_team_id": 4,
+      "for_team_name": "Bengal Warriors",
+      "against_team_id": 7,
+      "against_team_name": "Puneri Paltan",
+      "matchdate": "2019-09-08",
+      "matchdate_gmt": "2019-09-08",
+      "points": {
+        "total": 2,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 2,
+          "capture": 2,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 9,
+        "super_tackles": 0,
+        "successful": 2,
+        "unsuccessful": 7
+      }
+    },
+    {
+      "match_id": 1769,
+      "match_name": "Bengal Warriors VS U Mumba, Match 85 (PKL 7)",
+      "for_team_id": 4,
+      "for_team_name": "Bengal Warriors",
+      "against_team_id": 5,
+      "against_team_name": "U Mumba",
+      "matchdate": "2019-09-11",
+      "matchdate_gmt": "2019-09-11",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 4,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 4
+      }
+    },
+    {
+      "match_id": 1772,
+      "match_name": "Bengal Warriors VS Bengaluru Bulls, Match 88 (PKL 7)",
+      "for_team_id": 4,
+      "for_team_name": "Bengal Warriors",
+      "against_team_id": 1,
+      "against_team_name": "Bengaluru Bulls",
+      "matchdate": "2019-09-12",
+      "matchdate_gmt": "2019-09-12",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 0,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 0
+      }
+    },
+    {
+      "match_id": 1781,
+      "match_name": "Bengal Warriors VS Haryana Steelers, Match 97 (PKL 7)",
+      "for_team_id": 4,
+      "for_team_name": "Bengal Warriors",
+      "against_team_id": 28,
+      "against_team_name": "Haryana Steelers",
+      "matchdate": "2019-09-19",
+      "matchdate_gmt": "2019-09-19",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 0,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 0,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 3,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 3
+      }
+    }
+  ]
+}

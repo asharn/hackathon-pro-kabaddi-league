@@ -1,0 +1,495 @@
+{
+  "bio": {
+    "player_id": 686,
+    "full_name": "Rohit Gulia",
+    "player_short_name": "Rohit Gulia",
+    "position_id": 1,
+    "position_name": "All Rounder",
+    "height": "5 ft 8 in ",
+    "weight": "75 kg",
+    "date_of_birth": "Jul  3 1998",
+    "jersey_no": 7,
+    "nationality": "India",
+    "writeup": "<p>Chosen through the Future Kabaddi Heroes Program, Rohit Gulia made his debut in Season 5 of VIVO Pro Kabaddi with the Gujarat Fortunegiants. The all-rounder was a consistent contributor with his raiding ability whenever he was brought it, which was mostly in pressure situations. Gulia is also a reliable 'Do-Or-Die' raider owing to his fearless approach to raiding.</p>",
+    "team_id": 31,
+    "team_name": "Gujarat Fortunegiants",
+    "short_name": "Gujarat",
+    "has_additional_details": true,
+    "is_captain": 1
+  },
+  "over_all_stats": [
+    {
+      "series_id": 8,
+      "series_name": "Pro Kabaddi League Season 5, 2017",
+      "player_id": 686,
+      "name": "Rohit Gulia",
+      "match_played": 19,
+      "raid_points_per_match": 1.84,
+      "not_out_percentage": 78.12,
+      "success_tackles_per_match": 0.15,
+      "tackles": 20,
+      "points_per_match_raid_tackle": 2,
+      "points_defence_offence": 38,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 38,
+      "career_best_points": 9,
+      "total_tackle_points": 3,
+      "tackle_success_rate": 15.0,
+      "raids": 160,
+      "success_raids": 33,
+      "unsuccess_raids": 35,
+      "empty_raid": 92,
+      "success_raid_percent": 21.87,
+      "green_cards": 1,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 3,
+      "success_tackles": 3,
+      "defence_touch_points": 3,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 32,
+      "unsuccesful_tackles": 17,
+      "total_raid_points": 35,
+      "total_defending_points": 3,
+      "super_tackles": 0,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 31,
+          "team_name": "Gujarat Fortunegiants",
+          "team_short_name": "Gujarat",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 26,
+      "series_name": "Pro Kabaddi League Season 6, 2018",
+      "player_id": 686,
+      "name": "Rohit Gulia",
+      "match_played": 19,
+      "raid_points_per_match": 3.05,
+      "not_out_percentage": 77.63,
+      "success_tackles_per_match": 0.15,
+      "tackles": 19,
+      "points_per_match_raid_tackle": 3.21,
+      "points_defence_offence": 61,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 61,
+      "career_best_points": 9,
+      "total_tackle_points": 3,
+      "tackle_success_rate": 15.78,
+      "raids": 152,
+      "success_raids": 48,
+      "unsuccess_raids": 34,
+      "empty_raid": 70,
+      "success_raid_percent": 38.15,
+      "green_cards": 3,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 18,
+      "success_tackles": 3,
+      "defence_touch_points": 3,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 40,
+      "unsuccesful_tackles": 16,
+      "total_raid_points": 58,
+      "total_defending_points": 3,
+      "super_tackles": 0,
+      "super_raids": 2,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 31,
+          "team_name": "Gujarat Fortunegiants",
+          "team_short_name": "Gujarat",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 49,
+      "series_name": "Pro Kabaddi League Season 7, 2019",
+      "player_id": 686,
+      "name": "Rohit Gulia",
+      "match_played": 18,
+      "raid_points_per_match": 5.55,
+      "not_out_percentage": 73.79,
+      "success_tackles_per_match": 0.27,
+      "tackles": 17,
+      "points_per_match_raid_tackle": 5.83,
+      "points_defence_offence": 105,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 105,
+      "career_best_points": 13,
+      "total_tackle_points": 5,
+      "tackle_success_rate": 29.41,
+      "raids": 248,
+      "success_raids": 81,
+      "unsuccess_raids": 65,
+      "empty_raid": 102,
+      "success_raid_percent": 40.32,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 27,
+      "success_tackles": 5,
+      "defence_touch_points": 5,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 73,
+      "unsuccesful_tackles": 12,
+      "total_raid_points": 100,
+      "total_defending_points": 5,
+      "super_tackles": 0,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "3",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 31,
+          "team_name": "Gujarat Fortunegiants",
+          "team_short_name": "Gujarat",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 0,
+      "series_name": "",
+      "player_id": 686,
+      "name": "Rohit Gulia",
+      "match_played": 56,
+      "raid_points_per_match": 3.44,
+      "not_out_percentage": 76.07,
+      "success_tackles_per_match": 0.19,
+      "tackles": 56,
+      "points_per_match_raid_tackle": 3.64,
+      "points_defence_offence": 204,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 204,
+      "career_best_points": 13,
+      "total_tackle_points": 11,
+      "tackle_success_rate": 19.64,
+      "raids": 560,
+      "success_raids": 162,
+      "unsuccess_raids": 134,
+      "empty_raid": 264,
+      "success_raid_percent": 34.46,
+      "green_cards": 4,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 48,
+      "success_tackles": 11,
+      "defence_touch_points": 11,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 145,
+      "unsuccesful_tackles": 45,
+      "total_raid_points": 193,
+      "total_defending_points": 11,
+      "super_tackles": 0,
+      "super_raids": 2,
+      "player_team": 0,
+      "super_10s": "3",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 31,
+          "team_name": "Gujarat Fortunegiants",
+          "team_short_name": "Gujarat",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        },
+        {
+          "team_id": 31,
+          "team_name": "Gujarat Fortunegiants",
+          "team_short_name": "Gujarat",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        },
+        {
+          "team_id": 31,
+          "team_name": "Gujarat Fortunegiants",
+          "team_short_name": "Gujarat",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "bio_keys_translation": {
+      "player_id": "Player Id",
+      "full_name": "Full Name",
+      "player_short_name": "Player Short Name",
+      "position_id": "Position Id",
+      "position_name": "Position Name",
+      "height": "Height",
+      "weight": "Weight",
+      "date_of_birth": "Date Of Birth",
+      "jersey_no": "Jersey No",
+      "nationality": "Nationality",
+      "writeup": "Writeup",
+      "team_id": "Team Id",
+      "team_name": "Team Name",
+      "short_name": "Short Name",
+      "has_additional_details": "Has Additional Details",
+      "is_captain": "Is Captain"
+    },
+    "stats_keys_translation": {
+      "series_id": "Series Id",
+      "series_name": "Series Name",
+      "player_id": "Player Id",
+      "name": "Name",
+      "match_played": "Match Played",
+      "raid_points_per_match": "Raid Points Per Match",
+      "not_out_percentage": "Not Out Percentage",
+      "success_tackles_per_match": "Success Tackles Per Match",
+      "tackles": "Tackles",
+      "points_per_match_raid_tackle": "Points Per Match Raid Tackle",
+      "points_defence_offence": "Points Defence Offence",
+      "role": "Role",
+      "total_capture_points": "Total Capture Points",
+      "tackle_bonus_points": "Tackle Bonus Points",
+      "raid_map_locations": "Raid Map Locations",
+      "location": "Location",
+      "point": "Point",
+      "career_best_points": "Career Best Points",
+      "total_tackle_points": "Total Tackle Points",
+      "tackle_success_rate": "Tackle Success Rate",
+      "raids": "Raids",
+      "success_raids": "Success Raids",
+      "unsuccess_raids": "Unsuccess Raids",
+      "empty_raid": "Empty Raid",
+      "success_raid_percent": "Success Raid Percent",
+      "green_cards": "Green Cards",
+      "yellow_cards": "Yellow Cards",
+      "red_cards": "Red Cards",
+      "raid_bonus_points": "Raid Bonus Points",
+      "success_tackles": "Success Tackles",
+      "defence_touch_points": "Defence Touch Points",
+      "defending_bonus_points": "Defending Bonus Points",
+      "raid_touch_points": "Raid Touch Points",
+      "unsuccesful_tackles": "Unsuccesful Tackles",
+      "total_raid_points": "Total Raid Points",
+      "total_defending_points": "Total Defending Points",
+      "super_tackles": "Super Tackles",
+      "super_raids": "Super Raids",
+      "player_team": "Player Team",
+      "super_10s": "Super 10S",
+      "high_5s": "High 5S"
+    }
+  },
+  "last_5_matches": [
+    {
+      "match_id": 1766,
+      "match_name": "U.P. Yoddha VS Gujarat Fortunegiants, Match 82 (PKL 7)",
+      "for_team_id": 31,
+      "for_team_name": "Gujarat Fortunegiants",
+      "against_team_id": 30,
+      "against_team_name": "U.P. Yoddha",
+      "matchdate": "2019-09-09",
+      "matchdate_gmt": "2019-09-09",
+      "points": {
+        "total": 2,
+        "raid_points": {
+          "total": 2,
+          "touch": 0,
+          "raid_bonus": 2
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 11,
+        "super_raids": 0,
+        "successful": 2,
+        "unsuccessful": 3,
+        "empty": 6
+      },
+      "tackles": {
+        "total": 1,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 1
+      }
+    },
+    {
+      "match_id": 1773,
+      "match_name": "Puneri Paltan VS Gujarat Fortunegiants, Match 89 (PKL 7)",
+      "for_team_id": 31,
+      "for_team_name": "Gujarat Fortunegiants",
+      "against_team_id": 7,
+      "against_team_name": "Puneri Paltan",
+      "matchdate": "2019-09-14",
+      "matchdate_gmt": "2019-09-14",
+      "points": {
+        "total": 7,
+        "raid_points": {
+          "total": 7,
+          "touch": 3,
+          "raid_bonus": 4
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 14,
+        "super_raids": 0,
+        "successful": 6,
+        "unsuccessful": 5,
+        "empty": 3
+      },
+      "tackles": {
+        "total": 0,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 0
+      }
+    },
+    {
+      "match_id": 1775,
+      "match_name": "Dabang Delhi K.C. VS Gujarat Fortunegiants, Match 91 (PKL 7)",
+      "for_team_id": 31,
+      "for_team_name": "Gujarat Fortunegiants",
+      "against_team_id": 2,
+      "against_team_name": "Dabang Delhi K.C.",
+      "matchdate": "2019-09-15",
+      "matchdate_gmt": "2019-09-15",
+      "points": {
+        "total": 13,
+        "raid_points": {
+          "total": 13,
+          "touch": 11,
+          "raid_bonus": 2
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 24,
+        "super_raids": 0,
+        "successful": 11,
+        "unsuccessful": 3,
+        "empty": 10
+      },
+      "tackles": {
+        "total": 1,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 1
+      }
+    },
+    {
+      "match_id": 1784,
+      "match_name": "Jaipur Pink Panthers VS Gujarat Fortunegiants, Match 100 (PKL 7)",
+      "for_team_id": 31,
+      "for_team_name": "Gujarat Fortunegiants",
+      "against_team_id": 3,
+      "against_team_name": "Jaipur Pink Panthers",
+      "matchdate": "2019-09-21",
+      "matchdate_gmt": "2019-09-21",
+      "points": {
+        "total": 3,
+        "raid_points": {
+          "total": 3,
+          "touch": 2,
+          "raid_bonus": 1
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 14,
+        "super_raids": 0,
+        "successful": 2,
+        "unsuccessful": 7,
+        "empty": 5
+      },
+      "tackles": {
+        "total": 0,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 0
+      }
+    },
+    {
+      "match_id": 1786,
+      "match_name": "U Mumba VS Gujarat Fortunegiants, Match 102 (PKL 7)",
+      "for_team_id": 31,
+      "for_team_name": "Gujarat Fortunegiants",
+      "against_team_id": 5,
+      "against_team_name": "U Mumba",
+      "matchdate": "2019-09-22",
+      "matchdate_gmt": "2019-09-22",
+      "points": {
+        "total": 9,
+        "raid_points": {
+          "total": 8,
+          "touch": 7,
+          "raid_bonus": 1
+        },
+        "tackle_points": {
+          "total": 1,
+          "capture": 1,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 16,
+        "super_raids": 0,
+        "successful": 6,
+        "unsuccessful": 5,
+        "empty": 5
+      },
+      "tackles": {
+        "total": 2,
+        "super_tackles": 0,
+        "successful": 1,
+        "unsuccessful": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "bio": {
+    "player_id": 370,
+    "full_name": "Ravindra Ramesh Kumawat",
+    "player_short_name": "Ravindra Kumawat",
+    "position_id": 8,
+    "position_name": "Raider",
+    "height": "",
+    "weight": "",
+    "date_of_birth": "Apr 16 1996",
+    "jersey_no": 77,
+    "nationality": "India",
+    "writeup": "",
+    "team_id": 4,
+    "team_name": "Bengal Warriors",
+    "short_name": "Bengal",
+    "has_additional_details": false,
+    "is_captain": 0
+  },
+  "over_all_stats": [
+    {
+      "series_id": 4,
+      "series_name": "Pro Kabaddi League Season 4, 2016",
+      "player_id": 370,
+      "name": "Ravindra Ramesh Kumawat",
+      "match_played": 2,
+      "raid_points_per_match": 1.0,
+      "not_out_percentage": 62.5,
+      "success_tackles_per_match": 0.5,
+      "tackles": 1,
+      "points_per_match_raid_tackle": 1.5,
+      "points_defence_offence": 3,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 3,
+      "career_best_points": 2,
+      "total_tackle_points": 1,
+      "tackle_success_rate": 100.0,
+      "raids": 8,
+      "success_raids": 2,
+      "unsuccess_raids": 3,
+      "empty_raid": 3,
+      "success_raid_percent": 25.0,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 1,
+      "defence_touch_points": 1,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 2,
+      "unsuccesful_tackles": 0,
+      "total_raid_points": 2,
+      "total_defending_points": 1,
+      "super_tackles": 0,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 4,
+          "team_name": "Bengal Warriors",
+          "team_short_name": "Bengal",
+          "series_id": 4,
+          "series_name": "Pro Kabaddi League Season 4, 2016",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 8,
+      "series_name": "Pro Kabaddi League Season 5, 2017",
+      "player_id": 370,
+      "name": "Ravindra Ramesh Kumawat",
+      "match_played": 2,
+      "raid_points_per_match": 1.0,
+      "not_out_percentage": 57.14,
+      "success_tackles_per_match": 0,
+      "tackles": 1,
+      "points_per_match_raid_tackle": 1,
+      "points_defence_offence": 2,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 2,
+      "career_best_points": 2,
+      "total_tackle_points": 0,
+      "tackle_success_rate": 0.0,
+      "raids": 7,
+      "success_raids": 2,
+      "unsuccess_raids": 3,
+      "empty_raid": 2,
+      "success_raid_percent": 28.57,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 0,
+      "success_tackles": 0,
+      "defence_touch_points": 0,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 2,
+      "unsuccesful_tackles": 1,
+      "total_raid_points": 2,
+      "total_defending_points": 0,
+      "super_tackles": 0,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 4,
+          "team_name": "Bengal Warriors",
+          "team_short_name": "Bengal",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 26,
+      "series_name": "Pro Kabaddi League Season 6, 2018",
+      "player_id": 370,
+      "name": "Ravindra Ramesh Kumawat",
+      "match_played": 12,
+      "raid_points_per_match": 3.08,
+      "not_out_percentage": 78.02,
+      "success_tackles_per_match": 0.41,
+      "tackles": 18,
+      "points_per_match_raid_tackle": 3.5,
+      "points_defence_offence": 42,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 42,
+      "career_best_points": 8,
+      "total_tackle_points": 5,
+      "tackle_success_rate": 27.77,
+      "raids": 91,
+      "success_raids": 29,
+      "unsuccess_raids": 20,
+      "empty_raid": 42,
+      "success_raid_percent": 40.65,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 5,
+      "success_tackles": 5,
+      "defence_touch_points": 5,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 32,
+      "unsuccesful_tackles": 13,
+      "total_raid_points": 37,
+      "total_defending_points": 5,
+      "super_tackles": 0,
+      "super_raids": 2,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 4,
+          "team_name": "Bengal Warriors",
+          "team_short_name": "Bengal",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 49,
+      "series_name": "Pro Kabaddi League Season 7, 2019",
+      "player_id": 370,
+      "name": "Ravindra Ramesh Kumawat",
+      "match_played": 2,
+      "raid_points_per_match": 0.5,
+      "not_out_percentage": 57.14,
+      "success_tackles_per_match": 0.5,
+      "tackles": 1,
+      "points_per_match_raid_tackle": 1,
+      "points_defence_offence": 2,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 2,
+      "career_best_points": 2,
+      "total_tackle_points": 1,
+      "tackle_success_rate": 100.0,
+      "raids": 7,
+      "success_raids": 1,
+      "unsuccess_raids": 3,
+      "empty_raid": 3,
+      "success_raid_percent": 14.28,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 1,
+      "success_tackles": 1,
+      "defence_touch_points": 1,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 0,
+      "unsuccesful_tackles": 0,
+      "total_raid_points": 1,
+      "total_defending_points": 1,
+      "super_tackles": 0,
+      "super_raids": 0,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 4,
+          "team_name": "Bengal Warriors",
+          "team_short_name": "Bengal",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    },
+    {
+      "series_id": 0,
+      "series_name": "",
+      "player_id": 370,
+      "name": "Ravindra Ramesh Kumawat",
+      "match_played": 18,
+      "raid_points_per_match": 2.33,
+      "not_out_percentage": 74.33,
+      "success_tackles_per_match": 0.38,
+      "tackles": 21,
+      "points_per_match_raid_tackle": 2.72,
+      "points_defence_offence": 49,
+      "role": "",
+      "total_capture_points": "",
+      "tackle_bonus_points": "",
+      "raid_map_locations": "",
+      "location": "",
+      "point": 49,
+      "career_best_points": 8,
+      "total_tackle_points": 7,
+      "tackle_success_rate": 33.33,
+      "raids": 113,
+      "success_raids": 34,
+      "unsuccess_raids": 29,
+      "empty_raid": 50,
+      "success_raid_percent": 37.16,
+      "green_cards": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "raid_bonus_points": 6,
+      "success_tackles": 7,
+      "defence_touch_points": 7,
+      "defending_bonus_points": 0,
+      "raid_touch_points": 36,
+      "unsuccesful_tackles": 14,
+      "total_raid_points": 42,
+      "total_defending_points": 7,
+      "super_tackles": 0,
+      "super_raids": 2,
+      "player_team": 0,
+      "super_10s": "0",
+      "high_5s": "0",
+      "player_team_arr": [
+        {
+          "team_id": 4,
+          "team_name": "Bengal Warriors",
+          "team_short_name": "Bengal",
+          "series_id": 4,
+          "series_name": "Pro Kabaddi League Season 4, 2016",
+          "is_latest": true
+        },
+        {
+          "team_id": 4,
+          "team_name": "Bengal Warriors",
+          "team_short_name": "Bengal",
+          "series_id": 8,
+          "series_name": "Pro Kabaddi League Season 5, 2017",
+          "is_latest": true
+        },
+        {
+          "team_id": 4,
+          "team_name": "Bengal Warriors",
+          "team_short_name": "Bengal",
+          "series_id": 26,
+          "series_name": "Pro Kabaddi League Season 6, 2018",
+          "is_latest": true
+        },
+        {
+          "team_id": 4,
+          "team_name": "Bengal Warriors",
+          "team_short_name": "Bengal",
+          "series_id": 49,
+          "series_name": "Pro Kabaddi League Season 7, 2019",
+          "is_latest": true
+        }
+      ]
+    }
+  ],
+  "language_lookup": {
+    "bio_keys_translation": {
+      "player_id": "Player Id",
+      "full_name": "Full Name",
+      "player_short_name": "Player Short Name",
+      "position_id": "Position Id",
+      "position_name": "Position Name",
+      "height": "Height",
+      "weight": "Weight",
+      "date_of_birth": "Date Of Birth",
+      "jersey_no": "Jersey No",
+      "nationality": "Nationality",
+      "writeup": "Writeup",
+      "team_id": "Team Id",
+      "team_name": "Team Name",
+      "short_name": "Short Name",
+      "has_additional_details": "Has Additional Details",
+      "is_captain": "Is Captain"
+    },
+    "stats_keys_translation": {
+      "series_id": "Series Id",
+      "series_name": "Series Name",
+      "player_id": "Player Id",
+      "name": "Name",
+      "match_played": "Match Played",
+      "raid_points_per_match": "Raid Points Per Match",
+      "not_out_percentage": "Not Out Percentage",
+      "success_tackles_per_match": "Success Tackles Per Match",
+      "tackles": "Tackles",
+      "points_per_match_raid_tackle": "Points Per Match Raid Tackle",
+      "points_defence_offence": "Points Defence Offence",
+      "role": "Role",
+      "total_capture_points": "Total Capture Points",
+      "tackle_bonus_points": "Tackle Bonus Points",
+      "raid_map_locations": "Raid Map Locations",
+      "location": "Location",
+      "point": "Point",
+      "career_best_points": "Career Best Points",
+      "total_tackle_points": "Total Tackle Points",
+      "tackle_success_rate": "Tackle Success Rate",
+      "raids": "Raids",
+      "success_raids": "Success Raids",
+      "unsuccess_raids": "Unsuccess Raids",
+      "empty_raid": "Empty Raid",
+      "success_raid_percent": "Success Raid Percent",
+      "green_cards": "Green Cards",
+      "yellow_cards": "Yellow Cards",
+      "red_cards": "Red Cards",
+      "raid_bonus_points": "Raid Bonus Points",
+      "success_tackles": "Success Tackles",
+      "defence_touch_points": "Defence Touch Points",
+      "defending_bonus_points": "Defending Bonus Points",
+      "raid_touch_points": "Raid Touch Points",
+      "unsuccesful_tackles": "Unsuccesful Tackles",
+      "total_raid_points": "Total Raid Points",
+      "total_defending_points": "Total Defending Points",
+      "super_tackles": "Super Tackles",
+      "super_raids": "Super Raids",
+      "player_team": "Player Team",
+      "super_10s": "Super 10S",
+      "high_5s": "High 5S"
+    }
+  },
+  "last_5_matches": [
+    {
+      "match_id": 752,
+      "match_name": "Bengal Warriors VS Telugu Titans, Match 128 (PKL 6)",
+      "for_team_id": 4,
+      "for_team_name": "Bengal Warriors",
+      "against_team_id": 8,
+      "against_team_name": "Telugu Titans",
+      "matchdate": "2018-12-25",
+      "matchdate_gmt": "2018-12-25",
+      "points": {
+        "total": 5,
+        "raid_points": {
+          "total": 5,
+          "touch": 3,
+          "raid_bonus": 2
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 7,
+        "super_raids": 1,
+        "successful": 2,
+        "unsuccessful": 1,
+        "empty": 4
+      },
+      "tackles": {
+        "total": 1,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 1
+      }
+    },
+    {
+      "match_id": 754,
+      "match_name": "Bengal Warriors VS Bengaluru Bulls, Match 130 (PKL 6)",
+      "for_team_id": 4,
+      "for_team_name": "Bengal Warriors",
+      "against_team_id": 1,
+      "against_team_name": "Bengaluru Bulls",
+      "matchdate": "2018-12-26",
+      "matchdate_gmt": "2018-12-26",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 1,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 1,
+        "empty": 0
+      },
+      "tackles": {
+        "total": 0,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 0
+      }
+    },
+    {
+      "match_id": 758,
+      "match_name": "Dabang Delhi K.C. VS Bengal Warriors, Eliminator 2 (PKL 6)",
+      "for_team_id": 4,
+      "for_team_name": "Bengal Warriors",
+      "against_team_id": 2,
+      "against_team_name": "Dabang Delhi K.C.",
+      "matchdate": "2018-12-30",
+      "matchdate_gmt": "2018-12-30",
+      "points": {
+        "total": 5,
+        "raid_points": {
+          "total": 5,
+          "touch": 4,
+          "raid_bonus": 1
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 8,
+        "super_raids": 1,
+        "successful": 3,
+        "unsuccessful": 2,
+        "empty": 3
+      },
+      "tackles": {
+        "total": 3,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 3
+      }
+    },
+    {
+      "match_id": 1753,
+      "match_name": "U.P. Yoddha VS Bengal Warriors, Match 69 (PKL 7)",
+      "for_team_id": 4,
+      "for_team_name": "Bengal Warriors",
+      "against_team_id": 30,
+      "against_team_name": "U.P. Yoddha",
+      "matchdate": "2019-09-01",
+      "matchdate_gmt": "2019-09-01",
+      "points": {
+        "total": 0,
+        "raid_points": {
+          "total": 0,
+          "touch": 0,
+          "raid_bonus": 0
+        },
+        "tackle_points": {
+          "total": 0,
+          "capture": 0,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 3,
+        "super_raids": 0,
+        "successful": 0,
+        "unsuccessful": 1,
+        "empty": 2
+      },
+      "tackles": {
+        "total": 0,
+        "super_tackles": 0,
+        "successful": 0,
+        "unsuccessful": 0
+      }
+    },
+    {
+      "match_id": 1787,
+      "match_name": "Jaipur Pink Panthers VS Bengal Warriors, Match 103 (PKL 7)",
+      "for_team_id": 4,
+      "for_team_name": "Bengal Warriors",
+      "against_team_id": 3,
+      "against_team_name": "Jaipur Pink Panthers",
+      "matchdate": "2019-09-22",
+      "matchdate_gmt": "2019-09-22",
+      "points": {
+        "total": 2,
+        "raid_points": {
+          "total": 1,
+          "touch": 0,
+          "raid_bonus": 1
+        },
+        "tackle_points": {
+          "total": 1,
+          "capture": 1,
+          "capture_bonus": 0
+        }
+      },
+      "raids": {
+        "total": 4,
+        "super_raids": 0,
+        "successful": 1,
+        "unsuccessful": 2,
+        "empty": 1
+      },
+      "tackles": {
+        "total": 1,
+        "super_tackles": 0,
+        "successful": 1,
+        "unsuccessful": 0
+      }
+    }
+  ]
+}
