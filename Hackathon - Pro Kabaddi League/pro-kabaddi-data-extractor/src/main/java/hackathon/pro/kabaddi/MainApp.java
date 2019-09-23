@@ -50,7 +50,7 @@ public class MainApp {
 					teamIds.add(teamId);
 					try {
 						fetchAndSaveTeamData(teamId);
-						fetchAndSaveMatchData(teamItr);
+						//fetchAndSaveMatchData(teamItr);
 					} catch (Exception e) {
 						e.printStackTrace();
 					}
@@ -96,10 +96,10 @@ public class MainApp {
 		 */
 		seasonIds.forEach(seriesId -> teamIds.forEach(teamId -> {
 			try {
-				teamSquadUrl = teamSquadUrl.replace("{{series_Id}}", String.valueOf(seriesId)+"_");
-				teamSquadUrl = teamSquadUrl.replace("{{team_id}}", String.valueOf(teamId));
-				String squadData = readUrl(
-						KabaddiContants.BASE_URL + teamSquadUrl);
+				/*teamSquadUrl = teamSquadUrl.replace("{{series_id}}", String.valueOf(seriesId)+"_");
+				teamSquadUrl = teamSquadUrl.replace("{{team_id}}", String.valueOf(teamId));*/
+				String squadData = readUrl(KabaddiContants.BASE_URL
+						+ teamSquadUrl.replace("{{series_id}}", String.valueOf(seriesId) + "_")).replace("{{team_id}}", String.valueOf(teamId));
 				saveAsJsonFile(squadData, seriesId + "_" + teamId + "_tracker.json");
 			} catch (IOException e) {
 				e.printStackTrace();
