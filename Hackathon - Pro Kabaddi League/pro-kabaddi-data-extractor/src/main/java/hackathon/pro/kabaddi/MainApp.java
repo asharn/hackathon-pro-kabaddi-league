@@ -25,6 +25,7 @@ public class MainApp {
 	private static String teamSquadUrl;
 	private static Set<Long> seasonIds;
 	private static Set<Long> playerIds;
+	private static Set<Long> teamIds;
 
 	public static void main(String[] args) { // JSON parser object to parse read file
 		JSONParser jsonParser = new JSONParser();
@@ -46,14 +47,17 @@ public class MainApp {
 				final JSONArray team = (JSONArray) teams.get("team");
 				team.forEach(teamItr -> {
 					final Long teamId = (Long) ((JSONObject) teamItr).get("team_id");
+					teamIds.add(teamId);
 					try {
-						//fetchAndSaveTeamData(teamId);
-						//fetchAndSaveMatchData(teamItr);
+						fetchAndSaveTeamData(teamId);
+						fetchAndSaveMatchData(teamItr);
 					} catch (Exception e) {
 						e.printStackTrace();
 					}
 				});
 			});
+			
+			fetchAndSaveSquadRelatedData();
 		} catch (final Exception e) {
 			e.printStackTrace();
 		}
@@ -85,6 +89,27 @@ public class MainApp {
 		}
 	}
 
+	private static void fetchAndSaveSquadRelatedData() {
+		/**
+		 * Fetch all season tracking related information except all and current going on
+		 * because data is not available for them.
+		 */
+		seasonIds.forEach(seriesId -> teamIds.forEach(teamId -> {
+			try {
+				teamSquadUrl = teamSquadUrl.replace("{{series_Id}}", String.valueOf(seriesId)+"_");
+				teamSquadUrl = teamSquadUrl.replace("{{team_id}}", String.valueOf(teamId));
+				String squadData = readUrl(
+						KabaddiContants.BASE_URL + teamSquadUrl);
+				saveAsJsonFile(squadData, seriesId + "_" + teamId + "_tracker.json");
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		})
+
+		);
+	}
+	
+	
 	private static void fetchAndSaveSeasonTrackerData() {
 		/**
 		 * Fetch all season tracking related information except all and current going on
@@ -113,6 +138,7 @@ public class MainApp {
 
 	private static void init() {
 		playerIds = new HashSet<>();
+		teamIds = new HashSet<>();
 		seasonIds = JsoupDataExtractor.fetchSeasonIds();
 		initDifferentURL();
 	}
