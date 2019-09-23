@@ -1,0 +1,39 @@
+{
+    "config": {
+        "siFileVersion": 1.062,
+        "min_refreshInterval": 15000,
+        "multiSport_baseURL": "/sifeeds/multisport/?",
+        "cassseUrl": "/gateway/wallstream?",
+		"cassseJsonUrl": "/sifeeds/kabaddi/live/json/14_3_{{matchId}}_cassse.json",
+        "scoresBase": "",
+		"cachekeyenabled":true,
+		"cacheKey": "/sifeeds/kabaddi/live/json/multisport_cache_25_3_0_0530_en_4.json",
+		"tournamentcacheKey": "/sifeeds/kabaddi/live/json/multisport_cache_25_3_pkl_0530_en_{{tourId}}.json",
+		"teamcacheKey": "/sifeeds/kabaddi/live/json/multisport_cache_25_3_pkl_0530_en_team_{{teamId}}.json",
+        "kabaddiPaths": {
+            "standings": "/sifeeds/kabaddi/",
+            "teamsquad": "/sifeeds/kabaddi/static/json/{{series_id}}{{team_id}}_squad.json",
+            "leaderboard": "/sifeeds/kabaddi/static/json/",
+            "teamstats": "/sifeeds/kabaddi/static/json/{{team_Id}}_team.json",
+            "playerstats": "/sifeeds/kabaddi/static/json/{{player_Id}}_player.json",
+			"cassseUrl": "/gateway/wallstream?",
+            "seasonstats": "/sifeeds/kabaddi/live/json/1_{{series_Id}}_tracker.json",
+			"matchFile":"/sifeeds/kabaddi/live/json/from_venue/{{MATCH_ID}}_match.json"
+        },
+        "overallLeagueStats": "//feeds.cassse.stats.com/live/",
+        "clientIds": {
+            "default": "25",
+            "cassse": "1O/V/r/j/i1bSJ4grXLFUA=="
+        },
+        "params": {
+            "timeZone": "0530",
+            "language": "en",
+            "leagueCode": 0,
+            "group": false,
+            "sportId": 3,
+            "gamestate": 4,
+            "callerId": "matches",
+            "cassseId": "1O/V/r/j/i1bSJ4grXLFUA=="
+        }
+    }
+}
