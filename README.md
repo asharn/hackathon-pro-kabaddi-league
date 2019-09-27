@@ -5,6 +5,11 @@
 
 ![WC Logo](prokabaddi-logo.png)
 
+This model has been developed by:
+
+1. [Aman](https://github.com/amans123456789)
+2. [Ashish Karn](https://github.com/asharn)
+3. Deepak Patel
 
 ## Goals
 
@@ -18,7 +23,7 @@ These goals present a unique real-world Machine Learning prediction problem and 
 
 ## Data
 
-We extracted the data set from site https://www.prokabaddi.com/
+We extracted the data set from site [Pro Kabaddi](https://www.prokabaddi.com)
 
 ## Environment and tools
 
