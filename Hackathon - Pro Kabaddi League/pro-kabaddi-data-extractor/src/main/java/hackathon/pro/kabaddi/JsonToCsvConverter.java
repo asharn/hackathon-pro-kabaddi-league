@@ -9,10 +9,15 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.dataformat.csv.CsvMapper;
+import com.fasterxml.jackson.dataformat.csv.CsvSchema;
+import com.fasterxml.jackson.dataformat.csv.CsvSchema.Builder;
 
 public class JsonToCsvConverter {
 	public static void main(String[] args) throws JsonProcessingException, IOException {
-		/*JsonNode jsonTree = new ObjectMapper().readTree(new File(KabaddiContants.DATA_DIR_PATH + "101_player.json"));
+		JsonNode jsonTree = new ObjectMapper().readTree(new File(KabaddiContants.DATA_DIR_PATH + "2683_player.json"));
 
 		Builder csvSchemaBuilder = CsvSchema.builder();
 		JsonNode firstObject = jsonTree.elements().next();
@@ -22,17 +27,16 @@ public class JsonToCsvConverter {
 		CsvSchema csvSchema = csvSchemaBuilder.build().withHeader();
 
 		CsvMapper csvMapper = new CsvMapper();
-		csvMapper.writerFor(JsonNode.class).with(csvSchema).writeValue(new File(KabaddiContants.DATA_DIR_PATH + "1_player.csv"),
+		csvMapper.writerFor(JsonNode.class).with(csvSchema).writeValue(new File(KabaddiContants.DATA_DIR_PATH + "2683_player.csv"),
 				jsonTree);
-*/
 		
-		 JSONObject output;
-		 File jsonFile = new File(KabaddiContants.DATA_DIR_PATH + "101_player.json");
+		 /*JSONObject output;
+		 File jsonFile = new File(KabaddiContants.DATA_DIR_PATH + "stat_player.json");
 	        try {
 	            output = new JSONObject(jsonFile.toString());
 
 
-	            JSONArray docs = output.getJSONArray("infile");
+	            JSONArray docs = output.getJSONArray();
 
 	            File file=new File("/tmp2/fromJSON.csv");
 	            String csv = CDL.toString(docs);
@@ -40,5 +44,6 @@ public class JsonToCsvConverter {
 	        } catch (JSONException e) {
 	            e.printStackTrace();
 	        }        
-	    }
+	    }*/
+	}
 }
