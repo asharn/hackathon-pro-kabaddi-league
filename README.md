@@ -65,3 +65,23 @@ Using Python version 3.7.x
 #### How to find Panda and Numpy version
 print(pd.__version__)
 
+# Prediction
+
+### Task 1: Winner of tournament: Bengal Warriors
+
+### Task 2: Top team in the points table: Dabang Delhi K.C.
+
+### Task 3: Team with the highest points for successful raids.: Dabang Delhi K.C.
+
+### Task 4: Predict the team with the highest points for successful tackles..: Bengal Warriors
+
+### Task 5: Predict the team with the highest super-performance total.: Dabang Delhi K.C.
+
+### Task 6: Predict the player with the highest SUCCESSFUL RAID percentage.: Pawan Kumar Sehrawat
+
+### Task 7: Predict the player with the highest SUCCESSFUL TACKLE percentage.: Sandeep Kumar Dhull
+
+
+
+
+
