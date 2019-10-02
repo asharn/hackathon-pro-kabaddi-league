@@ -71,11 +71,11 @@ print(pd.__version__)
 
 ### Task 2: Top team in the points table: Dabang Delhi K.C.
 
-### Task 3: Team with the highest points for successful raids.: Dabang Delhi K.C.
+### Task 3: Team with the highest points for successful raids.: Bengal Warriors
 
-### Task 4: Predict the team with the highest points for successful tackles..: Bengal Warriors
+### Task 4: Predict the team with the highest points for successful tackles..: Puneri Paltan
 
-### Task 5: Predict the team with the highest super-performance total.: Dabang Delhi K.C.
+### Task 5: Predict the team with the highest super-performance total.: Jaipur Pink Panthers
 
 ### Task 6: Predict the player with the highest SUCCESSFUL RAID percentage.: Pawan Kumar Sehrawat
 
