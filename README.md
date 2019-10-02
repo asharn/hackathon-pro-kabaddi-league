@@ -75,7 +75,7 @@ print(pd.__version__)
 
 ### Task 4: Predict the team with the highest points for successful tackles..: Puneri Paltan
 
-### Task 5: Predict the team with the highest super-performance total.: Jaipur Pink Panthers
+### Task 5: Predict the team with the highest super-performance total.: Patna Pirates
 
 ### Task 6: Predict the player with the highest SUCCESSFUL RAID percentage.: Pawan Kumar Sehrawat
 
