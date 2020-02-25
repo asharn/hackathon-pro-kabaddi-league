@@ -2,7 +2,7 @@
 
 # Hackathon-Pro-Kabaddi-League for 2019 WC Prediction
 
-![WC Logo](prokabaddi-logo.png)
+   ![WC Logo](../prokabaddi-logo.png)
 
 This model has been developed by:
 
