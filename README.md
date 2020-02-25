@@ -1,7 +1,7 @@
 
 ###### Documentation in progress ...
 
-# Hackathon---Pro-Kabaddi-League for 2019 WC Prediction
+# Hackathon-Pro-Kabaddi-League for 2019 WC Prediction
 
 ![WC Logo](prokabaddi-logo.png)
 
@@ -69,17 +69,6 @@ print(pd.__version__)
 
 ### Task 1: Winner of tournament: Bengal Warriors
 
-### Task 2: Top team in the points table: Dabang Delhi K.C.
-
-### Task 3: Team with the highest points for successful raids.: Bengal Warriors
-
-### Task 4: Predict the team with the highest points for successful tackles..: Puneri Paltan
-
-### Task 5: Predict the team with the highest super-performance total.: Patna Pirates
-
-### Task 6: Predict the player with the highest SUCCESSFUL RAID percentage.: Pawan Kumar Sehrawat
-
-### Task 7: Predict the player with the highest SUCCESSFUL TACKLE percentage.: Sandeep Kumar Dhull
 
 
 
